@@ -3,7 +3,7 @@
 # ----------------------- #
 
 url: "osdadosvirais.dataprivacybr.org"
-baseurl: ""
+baseurl: "/"
 title: Dados Virais
 email:
 author: Data Privacy Brasil
