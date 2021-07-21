@@ -4,6 +4,17 @@ ordem: 11000
 tipo: LAI
 idn: "lai"
 ---
+
+> ACESSE O RELATÓRIO
+
+<div id="creditos" class="container">
+<div class="layout">
+  <p class="col col-main">
+<a href="https://drive.google.com/file/d/1-PmjyYubF65W_8LuOiYR2pwFQiRWEyZ3/view" target="blank"><img src="{{ site.baseurl }}/imagens/thumb_relatorio.png" width="250px"></a>
+</p>
+</div>
+</div>
+
 > CRÉDITOS
 
 <div id="creditos" class="container">
@@ -26,7 +37,7 @@ idn: "lai"
 
     <span class="itens">Pesquisadores do Projeto</span>: Brenda Cunha, Eduardo Goulart de Andrade, Pedro Saliba e Gabriela Vergili<br>
 
-    <span class="itens">Design</span>: Estúdio <a href="http://datadotestudio.com/" target="_blank">datadot</a> e Fábio Aleixo (web) <br>
+    <span class="itens">Design</span>: Estúdio <a href="http://datadotestudio.com/" target="_blank">datadot</a> e <a href="https://www.linkedin.com/in/fabioaleixo/" target="_blank">Fábio Aleixo</a> (web) <br>
 
     <span class="itens">Desenvolvimento</span>: <a href="https://voltdata.info" target="_blank">Volt Data Lab</a>
     </p>  
