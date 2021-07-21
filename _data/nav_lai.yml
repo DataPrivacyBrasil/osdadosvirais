@@ -1,0 +1,26 @@
+- titulo: "Stories"
+  url: "../stories"
+
+- titulo: "Dados Principais"
+  url: "../"
+
+- titulo: "Metodologia"
+  idn: "metodologia-LAI"
+
+- titulo: "Tipo de pedido LAI"
+  idn: "tipo-pedido-LAI"
+
+- titulo: "Pesquisa documental"
+  idn: "pesquisa-documental"
+
+- titulo: Créditos
+  idn: creditos
+
+- titulo: "Relatório"
+  url: 
+
+- titulo: "Repositório de dados"
+  url: "https://public.flourish.studio/visualisation/6751192/"
+
+- titulo: Associação Data Privacy Brasil de Pesquisa
+  url: "https://www.dataprivacybr.org/"

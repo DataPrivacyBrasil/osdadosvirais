@@ -1,0 +1,12 @@
+- numero: "58"
+  texto: Percentual de empresas privadas que forneceram soluções tecnológicas utilizadas pelo poder público
+  percentual: sim
+  counter: 1
+- numero: 253
+  texto: Identificamos 253 soluções tecnológicas adotadas em 24 Unidades da Federação
+  percentual: não
+  counter: 2
+- numero: 151
+  texto: Identificamos 151 fornecedores de tecnologias que coletam dados pessoais
+  percentual: não
+  counter: 3

@@ -1,0 +1,43 @@
+# ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: "osdadosvirais.dataprivacybr.org"
+baseurl: ""
+title: Dados Virais
+email:
+author: Data Privacy Brasil
+description: > # "Write an awesome description for your new site here.
+  UMA INVESTIGAÇÃO SOBRE TECNOLOGIAS BASEADAS EM DADOS PESSOAIS, USADAS NO COMBATE À COVID-19 NO BRASIL
+description_lai:
+copyright: #
+credits: 'Copyright © 2021 | Data Privacy Brasil'
+
+# ----------------------- #
+#    Jekyll & Plugins     #
+# ----------------------- #
+
+# Build settings
+markdown: kramdown
+permalink: /:categories/:year-:month-:day-:title
+#plugins:
+#  - jekyll-paginate
+
+#paginate:           20
+#paginate_path:      "/arquivo/p:num/"
+
+# ----------------------- #
+#   3rd Party Settings    #
+# ----------------------- #
+
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category"

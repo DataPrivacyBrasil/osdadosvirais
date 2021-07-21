@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+
+{% include head.html %}
+
+  <body class="home">
+
+{% include nav_lai.html %}
+
+          {% assign posts = site.posts | sort:"ordem" | where_exp: "post", "post.tipo == 'LAI'" %}
+
+          {% for post in posts %}
+
+              <!-- TEXTUAIS PUROS -->
+              {% if post.layout == "texto" %}
+              <div id="{{ post.idn }}" class="anchor-upperlimit"></div>
+              <section class="content">
+                <div class="__container">
+
+                  {{ post.content }}
+
+                </div>
+              </section>
+
+              {% if post.slider == "sim" %} {% include slider.html %} {% endif %}
+
+              {% endif %}
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              {% if post.layout == "grafico_claro" %}
+              <div id="{{ post.idn }}" class="anchor-upperlimit"></div>
+              <section class="content graph --white-background">
+                <div class="__container">
+                  <div class="" style="max-width:950px;margin:0 auto">
+                  {% if post.title %}<h2 class="legend-tit-white"> {{ post.title }}</h2>{% endif %}
+                  {% if post.descricao %}<p class="legend-sub-white">{{ post.descricao }}</p>{% endif %}
+                    {% if post.iframe %}
+
+                      {% if post.animado %}
+                          <iframe src="{{ site.baseurl }}/imagens/graficos/animados/{{ post.iframe }}" height="{{ post.altura }}" width="{{ post.largura }}" frameborder="no" seamless> </iframe>
+                          {% else %}
+                          {{ post.iframe }}
+                          {{ post.iframe_mobile }}
+                      {% endif %}
+
+                      {% else %}
+                      <h4 style="margin-left:17px; text-align:right"><a href="{{ site.baseurl }}/imagens/graficos/desk/{{ post.img }}.png"><img src="{{ site.baseurl }}/imagens/download-icon.png" class="download-icon" alt="download de imagem" /> </a></h4>
+                  <img class="d-desk" src="{{ site.baseurl }}/imagens/graficos/desk/{{ post.img }}.{{ post.filetype }}" alt="{{ post.title }}" title="placeholder grafico" />
+                  <img class="d-mob" src="{{ site.baseurl }}/imagens/graficos/mobile/{{ post.img }}.png" alt="{{ post.title }}}" title="placeholder grafico" />
+                  {% if post.nota_mobile %}<h4 class="d-mob" style="color:#fff">{{ post.nota_mobile }}</h4>{% endif %}
+                    {% endif %}
+                    </div>
+                </div>
+
+                {% assign content = post.content | strip_newlines %}
+                {% if content == ""  %}
+                {% else %}
+
+                  {{ post.content }}
+
+              {% endif %}
+              </section>
+
+
+
+              {% endif %}
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              {% if post.layout == "grafico_escuro" %}
+              <div id="{{ post.idn }}" class="anchor-upperlimit"></div>
+              <section class="content --darker-background graph">
+                <div class="__container">
+                  <div class="" style="max-width:{% if post.sankey %}1200px{% else %}950px{% endif %};margin:0 auto">
+                    <div class="" style="max-width:950px;margin:0 auto">
+                  {% if post.title %}<h2 class="legend-tit"> {{ post.title }}</h2>{% endif %}
+                  {% if post.descricao %}<p class="legend-sub">{{ post.descricao }}</p>{% endif %}
+                </div>
+                    {% if post.iframe %}
+
+                      {% if post.animado %}
+                          <iframe src="{{ site.baseurl }}/imagens/graficos/animados/{{ post.iframe }}" height="{{ post.altura }}" width="{{ post.largura }}" frameborder="no" seamless> </iframe>
+                          {% else %}
+                          {{ post.iframe }}
+                          {{ post.iframe_mobile }}
+                      {% endif %}
+
+                      {% else %}
+                  <h4 style="margin-left:17px;text-align:right"><a href="{{ site.baseurl }}/imagens/graficos/desk/{{ post.img }}.png"><img src="{{ site.baseurl }}/imagens/download-icon.png" class="download-icon" alt="download de imagem" /> </a></h4>
+                  <img class="d-desk" src="{{ site.baseurl }}/imagens/graficos/desk/{{ post.img }}.{{ post.filetype }}" alt="{{ post.title }}" title="placeholder grafico" />
+                  <img class="d-mob" src="{{ site.baseurl }}/imagens/graficos/mobile/{{ post.img }}.png" alt="{{ post.title }}" title="placeholder grafico" />
+                  {% if post.nota_mobile %}<h4 class="d-mob" style="color:#fff">{{ post.nota_mobile }}</h4>{% endif %}
+                    {% endif %}
+                    </div>
+                </div>
+                {% assign content = post.content | strip_newlines %}
+                {% if content == ""  %}
+                {% else %}
+                <div id="{{ post.idn }}" class="anchor-upperlimit"></div>
+
+                  {{ post.content }}
+
+              {% endif %}
+              </section>
+              {% if post.slider == "sim" %} {% include slider.html %} {% endif %}
+              {% endif %}
+
+
+          {% endfor %}
+
+
+  </body>
+
+  {% include footer.html %}
+</html>

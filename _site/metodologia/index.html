@@ -1,0 +1,585 @@
+<!DOCTYPE html>
+
+<!DOCTYPE html>
+  <head>
+    <title>Dados Virais</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name=”robots” content="index, follow">
+    <meta name="googlebot" content="index,follow" />
+    <link rel="canonical" href="https://osdadosvirais.dataprivacybr.org" />
+
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="/css/master.css">
+    <link rel="stylesheet" type="text/css" href="/css/slick.css"/>
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/imagens/favicon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/imagens/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/imagens/favicon.png">
+
+    <!-- META -->
+    <meta name="msapplication-TileImage" content="/imagens/favicon.png" />
+    <meta name="author" content="DataPrivacyBr">
+    <meta name="description" content="Uma investigação sobre tecnologias baseadas em dados pessoais, usadas no combate à Covid-19 no Brasil">
+
+    <!-- AVOID PHONE NUMBER AUTO FORMAT ON iOS FUCKING SAFARI  -->
+    <meta name="format-detection" content="telephone=no">
+
+    <!-- Facebook's OG Tags -->
+    <meta property="og:url" content="https://osdadosvirais.dataprivacybr.org" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Dados Virais" />
+    <meta property="og:description" content="Uma investigação sobre tecnologias baseadas em dados pessoais, usadas no combate à Covid-19 no Brasil" />
+    <meta property="og:image" content="/imagens/social-share.png">
+    <meta property="og:image:width" content="2400">
+    <meta property="og:image:height" content="1260">
+
+    <!-- Twitter -->
+    <meta name="twitter:description" content="Uma investigação sobre tecnologias baseadas em dados pessoais, usadas no combate à Covid-19 no Brasil">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@DataPrivacyBr" />
+    <meta name="twitter:creator" content="@DataPrivacyBr" />
+    <meta name="twitter:image" content="/imagens/social-share.png">
+
+    <!-- Google Analytics Tracking Code -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FTKTMJZJYX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-FTKTMJZJYX');
+    </script>
+
+
+  <body class="home">
+
+<nav class="site-nav" id="navContainer">
+  <ul>
+    <li class="btn-close" id="closeMenu">&times;</li>
+    <li class="menu">
+      <ul>
+        
+        
+        <li><a href="../stories">Stories</a></li>
+        
+        
+        
+        <li><a href="../">Dados Principais</a></li>
+        
+        
+        
+        <li><a href="#metodologia-LAI">Metodologia</a></li>
+        
+        
+        
+        <li><a href="#tipo-pedido-LAI">Tipo de pedido LAI</a></li>
+        
+        
+        
+        <li><a href="#pesquisa-documental">Pesquisa documental</a></li>
+        
+        
+        
+        <li><a href="#creditos">Créditos</a></li>
+        
+        
+        
+        <li><a href="#">Relatório</a></li>
+        
+        
+        
+        <li><a href="https://public.flourish.studio/visualisation/6751192/">Repositório de dados</a></li>
+        
+        
+        
+        <li><a href="https://www.dataprivacybr.org/">Associação Data Privacy Brasil de Pesquisa</a></li>
+        
+        
+      </ul>
+    </li>
+    <li class="social-menu">
+      <ul>
+        <ul>
+          <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fosdadosvirais.dataprivacybr.org&text=Quais foram as tecnologias que usam dados pessoais ou pseudonimizados adquiridas pelo Poder Público para combate à COVID-19 em 2020? Confira na plataforma Dados Virais:%20https%3A%2F%2Fosdadosvirais.dataprivacybr.org&via=dataprivacybr" target="_blank" title="Tweet"><img src="/imagens/ico_twitter.svg" alt="ícone do twitter" title="twitter"></a></li>
+          <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fosdadosvirais.dataprivacybr.org&quote=O Poder Público brasileiro adquiriu 253 tecnologias que usam dados pessoais ou pseudonimizados para combate à COVID-19 em 2020. A plataforma Dados Virais, da @dataprivacybr, mapeou esses casos." title="Share on Facebook" target="_blank"><img src="/imagens/ico_facebook.svg" alt="ícone do facebook" title="facebook"></a></li>
+          <li><a href="https://instagram.com/dataprivacybrasil"><img src="/imagens/ico_instagram.svg" alt="ícone do instagram" title="instagram"></a></li>
+          <li><a href="https://www.youtube.com/channel/UCT8kR3_EIBSEqg8kLh6pXTw"><img src="/imagens/ico_youtube.svg" alt="ícone do youtube" title="youtube"></a></li>
+        </ul>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+<nav class="social-nav" id="socialNav">
+  <ul>
+    <li class="btn-close" id="closeSocial">&times;</li>
+    <li class="social-menu">
+      <ul>
+        <li><a href="https://instagram.com/dataprivacybrasil"><img src="/imagens/ico_instagram.svg" alt="ícone do instagram" title="instagram"></a></li>
+        <li><a href="https://twitter.com/DataPrivacyBr"><img src="/imagens/ico_twitter.svg" alt="ícone do twitter" title="twitter"></a></li>
+        <li><a href="https://www.youtube.com/channel/UCT8kR3_EIBSEqg8kLh6pXTw"><img src="/imagens/ico_youtube.svg" alt="ícone do youtube" title="youtube"></a></li>
+        <li><a href="https://www.facebook.com/DataPrivacy.br/"><img src="/imagens/ico_facebook.svg" alt="ícone do facebook" title="facebook"></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+<header class="content">
+    <div class="__container">
+        <div class="ico">
+          <img src="/imagens/ico_hamburguer.svg" alt="ícone de menu hambúguer" title="abrir menu" id="openMenu">
+        </div>
+        <a href="/"><img src="/imagens/logo_dados-virais.png" alt="imagem do logo" title="dados virais" class="logo" style="margin-left:120px" /></a>
+        <div class="ico compartilhar">
+          <a href="/stories"><img src="../imagens/stories.png" alt="ícone do stories" title="stories"></a>
+          <img src="/imagens/ico_compartilhar.svg" alt="ícone de compartilhar" title="compartilhar"  id="openSocial" style="margin-left:20px">
+        </div>
+    </div>
+</header>
+
+
+          
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+              <div id="metodologia-LAI" class="anchor-upperlimit"></div>
+              <section class="content">
+                <div class="__container">
+
+                  <blockquote>
+  <p>Metodologia</p>
+</blockquote>
+
+<p>O recorte temporal definido para a realização da primeira etapa da pesquisa corresponde ao período de 20 de março de 2020, quando foi decretado estado de calamidade pública devido à pandemia, a 31 de dezembro de 2020. A coleta dos dados nesta etapa da pesquisa foi realizada a partir da busca de informações e documentos obtidos por meio de:<br /></p>
+
+<p><span class="itens">a)</span> Pedidos via Lei de Acesso à Informação (LAI), nos termos da Lei nº 12.527/2011;</p>
+
+<p><span class="itens">b)</span> Busca em portais da transparência;</p>
+
+<p><span class="itens">c)</span> Diários Oficiais;</p>
+
+<p><span class="itens">d)</span> Pesquisas exploratórias realizadas por meio da utilização de palavras-chave no motor de busca da Google. Neste caso, as informações foram buscadas a partir de publicações em que fossem evidenciadas ou anunciadas a utilização de tecnologias baseadas em dados pessoais por parte do poder público para o enfrentamento à covid-19. Para tornar a busca mais eficiente e direcionada, foram usadas técnicas de pesquisa avançada;</p>
+
+<p><span class="itens">e)</span> Solicitações de informações e documentos diretamente por e-mail para as empresas envolvidas nas aquisições das tecnologias.</p>
+
+
+                </div>
+              </section>
+
+              
+
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+              <div id="pedidos-municipios" class="anchor-upperlimit"></div>
+              <section class="content --darker-background graph">
+                <div class="__container">
+                  <div class="" style="max-width:950px;margin:0 auto">
+                    <div class="" style="max-width:950px;margin:0 auto">
+                  <h2 class="legend-tit"> Status de submissão dos pedidos de acesso à informação nos município</h2>
+                  
+                </div>
+                    
+                  <h4 style="margin-left:17px;text-align:right"><a href="/imagens/graficos/desk/LAI-pedidos-municipios.png"><img src="/imagens/download-icon.png" class="download-icon" alt="download de imagem" /> </a></h4>
+                  <img class="d-desk" src="/imagens/graficos/desk/LAI-pedidos-municipios.svg" alt="Status de submissão dos pedidos de acesso à informação nos município" title="placeholder grafico" />
+                  <img class="d-mob" src="/imagens/graficos/mobile/LAI-pedidos-municipios.png" alt="Status de submissão dos pedidos de acesso à informação nos município" title="placeholder grafico" />
+                  
+                    
+                    </div>
+                </div>
+                
+                
+                
+              </section>
+              
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+              <div id="tipo-pedido-LAI" class="anchor-upperlimit"></div>
+              <section class="content graph --white-background">
+                <div class="__container">
+                  <div class="" style="max-width:950px;margin:0 auto">
+                  <h2 class="legend-tit-white"> Tipo de Pedido de Acesso à Informação x Categoria de retorno</h2>
+                  <p class="legend-sub-white">As circunferências representam cada um dos tipos de pedidos de acesso à informação enviados, enquanto os círculos agrupados dentro delas representam os tipos de respostas obtidas, cada qual indicada por uma cor da legenda. A diferença de tamanho de cada círculo representa a variação do número de respostas obtidas, também indicados no gráfico.</p>
+                    
+                      <h4 style="margin-left:17px; text-align:right"><a href="/imagens/graficos/desk/LAI-tipo-pedido-vs-resposta.png"><img src="/imagens/download-icon.png" class="download-icon" alt="download de imagem" /> </a></h4>
+                  <img class="d-desk" src="/imagens/graficos/desk/LAI-tipo-pedido-vs-resposta.svg" alt="Tipo de Pedido de Acesso à Informação x Categoria de retorno" title="placeholder grafico" />
+                  <img class="d-mob" src="/imagens/graficos/mobile/LAI-tipo-pedido-vs-resposta.png" alt="Tipo de Pedido de Acesso à Informação x Categoria de retorno}" title="placeholder grafico" />
+                  
+                    
+                    </div>
+                </div>
+
+                
+                
+                
+              </section>
+
+
+
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+              <div id="" class="anchor-upperlimit"></div>
+              <section class="content --darker-background graph">
+                <div class="__container">
+                  <div class="" style="max-width:1200px;margin:0 auto">
+                    <div class="" style="max-width:950px;margin:0 auto">
+                  <h2 class="legend-tit"> Pedidos de acesso à informação exploratórios</h2>
+                  
+                </div>
+                    
+
+                      
+                          <iframe class="d-desk" src="../imagens/graficos/interativos/sankey_lai_exp/index.html" onload="loadIframe()" scrolling="no" width="100%" height="1800px" frameborder="no" seamless allowfullscreen style="max-width:100%;margin:0 auto"> </iframe>
+                          <iframe class="d-mob" src="../imagens/graficos/interativos/sankey_lai_exp_mobile/index.html" onload="loadIframe()" scrolling="no" width="100%" height="2020px" frameborder="no" seamless allowfullscreen style="max-width:100%;margin:0 auto"> </iframe>
+                      
+
+                      
+                    </div>
+                </div>
+                
+                
+                
+              </section>
+              
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+              <div id="pesquisa-documental" class="anchor-upperlimit"></div>
+              <section class="content">
+                <div class="__container">
+
+                  <blockquote>
+  <p>Pesquisa documental - contratos</p>
+</blockquote>
+
+<p>Os documentos obtidos durante a pesquisa foram organizados em um <a href="https://docs.google.com/spreadsheets/d/1Wgf7gIHUV5rWU2o_RNyCwJ0uFGC2mwDoBWUED1E0v-w/edit#gid=0">repositório para acesso público</a>. Cada esfera governamental está indicada em uma linha contendo: UF, Local, População segundo IBGE, link para e-SIC, link para pasta com documentos e observações.  Na pasta indicada estão todos os arquivos obtidos pela equipe ao longo do mapeamento, como contratos, extratos de Diários Oficiais, pareceres e demais arquivos referentes às tecnologias.</p>
+
+<p>Foram criadas 5 categorias para quantificar o acesso a documentos e informações sobre as contratações:</p>
+
+<div class="accordion">
+    <div class="option">
+      <input type="checkbox" id="toggle400" class="toggle" />
+      <label class="titleaco" for="toggle400">SAIBA MAIS&nbsp;
+      </label>
+      <div class="contentaco">
+      <table>
+<thead>
+<tr>
+  <th>Categoria</th>
+  <th>Explicação</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td>Contrato obtido</td>
+  <td>O contrato foi obtido através de LAIs, pesquisa em Portais da Transparência ou pesquisa avançada via Google</td>
+</tr>
+<tr>
+  <td>Sem contrato - tecnologia própria</td>
+  <td>Quando o órgão que disponibilizou a tecnologia desenvolveu internamente a ferramenta</td>
+</tr>
+<tr>
+  <td>Sem formalização</td>
+  <td>Dois casos nos quais não houve formalização da aquisição ou parceria. Incluem-se projetos pilotos e parcerias informais</td>
+</tr>
+<tr>
+  <td>Não localizado</td>
+  <td>A equipe não foi capaz de localizar documentos com formalização dos projetos</td>
+</tr>
+<tr>
+  <td>Extrato D.O.</td>
+  <td>Localizado apenas extrato do Diário Oficial com a aquisição ou parceria</td>
+</tr>
+</tbody>
+</table>
+      </div>
+    </div>
+  </div>
+
+<p><br /></p>
+
+<p><strong>Tabela 1. Resultado da pesquisa documental - contratos para aquisição das tecnologias mapeadas</strong></p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Categoria</th>
+      <th>Total</th>
+      <th>Porcentagem</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1. Contrato obtido</td>
+      <td>72</td>
+      <td>28,46%</td>
+    </tr>
+    <tr>
+      <td>2. Sem contrato - tecnologia própria</td>
+      <td>21</td>
+      <td>8,30%</td>
+    </tr>
+    <tr>
+      <td>3. Sem formalização</td>
+      <td>2</td>
+      <td>0,79%</td>
+    </tr>
+    <tr>
+      <td>5. Não localizado</td>
+      <td>141</td>
+      <td>54,94%</td>
+    </tr>
+    <tr>
+      <td>6. Extrato D.O</td>
+      <td>19</td>
+      <td>7,51%</td>
+    </tr>
+    <tr>
+      <td>TOTAL</td>
+      <td>253</td>
+      <td>100,00%</td>
+    </tr>
+  </tbody>
+</table>
+
+<div class="accordion">
+    <div class="option">
+      <input type="checkbox" id="toggle4000" class="toggle" />
+      <label class="titleaco" for="toggle4000">SAIBA MAIS&nbsp; 
+      </label>
+      <div class="contentaco">
+      <p>Das 253 tecnologias mapeadas, 141 (54,94%) delas não tiveram qualquer documentação localizada, seja através dos pedidos de acesso à informação ou busca pela equipe de pesquisa em Portais da Transparência e sites de Diários Oficiais. Apenas em 72 casos (28,46%) os contratos foram obtidos, enquanto 19 (7,51%) houve extratos do Diário Oficial. 21 tecnologias (8,30%) foram desenvolvidas internamente dos órgãos públicos, enquanto 2 casos ( 0,79%) foram efetuados sem formalização.</p>
+      </div>
+    </div>
+  </div>
+
+
+                </div>
+              </section>
+
+              
+
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+              <div id="lai" class="anchor-upperlimit"></div>
+              <section class="content">
+                <div class="__container">
+
+                  <blockquote>
+  <p>CRÉDITOS</p>
+</blockquote>
+
+<div id="creditos" class="container">
+
+  <div class="layout">
+    <p class="col col-main">
+    Entre outubro de 2020 a maio de 2021, a Associação Data Privacy Brasil de Pesquisa realizou este projeto. O trabalho contou com apoio financeiro da Open Society Foundation.<br />
+
+    <span class="itens">Diretores</span>: Bruno Bioni e Rafael Zanatta<br />
+
+    <span class="itens">Coordenadora Geral de Projetos</span>: Mariana Rielli<br />
+
+    <span class="itens">Coordenação da Pesquisa</span>: Bruno Bioni e Daniela Dora Eilberg<br />
+
+    </p>
+    <p class="col col-complementary" role="complementary">
+    <span class="itens">Coordenadora do Projeto</span>: Daniela Dora Eilberg<br />
+
+    <span class="itens">Coordenação Editorial</span>: Eduardo Goulart de Andrade<br />
+
+    <span class="itens">Pesquisadores do Projeto</span>: Brenda Cunha, Eduardo Goulart de Andrade, Pedro Saliba e Gabriela Vergili<br />
+
+    <span class="itens">Design</span>: Estúdio <a href="http://datadotestudio.com/" target="_blank">datadot</a> e Fábio Aleixo (web) <br />
+
+    <span class="itens">Desenvolvimento</span>: <a href="https://voltdata.info" target="_blank">Volt Data Lab</a>
+    </p>  
+  </div>   
+
+</div>
+
+<style>
+/* Layout: */
+
+.col-main {
+  flex: 1;  
+  font-size: 1.6em
+}  
+
+.col-complementary {
+  flex: 1;  
+  font-size: 1.6em
+}
+
+/* Responsive: */
+
+@media only screen and (min-width: 640px) {
+  .layout {
+    display: flex;
+  }
+}
+
+/* etc */
+
+span{
+  color: #e2de3f
+}
+
+.container {
+  max-width: 110em;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.col {
+  padding: 1em;
+  margin: 0 2px 2px 0;
+}
+
+</style>
+
+
+
+                </div>
+              </section>
+
+              
+
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+
+
+          
+
+
+  </body>
+
+  <footer class="content --darker-background">
+  <div class="__container">
+    <!-- COLUNA 1 -->
+    <ul>
+      <li>
+        <img src="/imagens/logo_dados-virais.png" class="logo" alt="imagem do logo" title="logo dados virais" width="200px">
+        <ul>
+          <li><a href="https://www.dataprivacybr.org/" target="_blank">DATA PRIVACY PESQUISA</a></li>
+          <li><a href="https://dataprivacy.com.br/" target="_blank">DATA PRIVACY ENSINO</a></li>
+          <li><a href="https://anchor.fm/dadocracia" target="_blank">DADOCRACIA</a></li>
+        </ul>
+      </li>
+    </ul>
+    <!-- COLUNA 2 -->
+    <ul>
+      <li>
+        <ul>
+          <li>CONTATO INSTITUCIONAL</li>
+          <li>+55 11 9 3406 6554</li>
+          <li><a href="mailto:contato@dataprivacy.com.br">contato@dataprivacybr.org</a></li>
+        </ul>
+        <ul>
+          <li>IMPRENSA</li>
+          <li><a href="mailto:imprensa@dataprivacybr.org">imprensa@dataprivacybr.org</a></li>
+
+        </ul>
+        <ul>
+          <li><a href="https://instagram.com/dataprivacybrasil"><img src="/imagens/ico_instagram.svg" alt="ícone do instagram" title="instagram"></a></li>
+          <li><a href="https://twitter.com/DataPrivacyBr"><img src="/imagens/ico_twitter.svg" alt="ícone do twitter" title="twitter"></a></li>
+          <li><a href="https://www.youtube.com/channel/UCT8kR3_EIBSEqg8kLh6pXTw"><img src="/imagens/ico_youtube.svg" alt="ícone do youtube" title="youtube"></a></li>
+          <li><a href="https://www.facebook.com/DataPrivacy.br/"><img src="/imagens/ico_facebook.svg" alt="ícone do facebook" title="facebook"></a></li>
+        </ul>
+        <ul>
+          <li><a href="https://dataprivacy.com.br/politica-de-privacidade/" target="_blank">Política de uso e Privacidade</a></li>
+        </ul>
+      </li>
+    </ul>
+    <!-- COLUNA 3 -->
+    <ul>
+      <li>
+        ENDEREÇO<br>
+        Alameda Santos, 1293<br>
+        3º Andar Jardim Paulista<br>
+        São Paulo – SP<br>
+        CEP 01419-904
+      </li>
+      <li>2021 © todos os direitos reservados</li>
+    </ul>
+  </div>
+</footer>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="/js/slick.min.js"></script>
+<script type="text/javascript" src="/js/nav.js"></script>
+<script type="text/javascript" src="/js/softScroll.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+      $('.slider-name').slick({
+        arrows: false,
+        dots: true
+      });
+    });
+</script>
+
+</html>

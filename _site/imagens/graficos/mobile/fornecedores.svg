@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 782.73 1014.73" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.cls-1{fill:#030321;}.cls-10,.cls-2{font-size:20px;font-family:OpenSans, Open Sans;}.cls-10,.cls-2,.cls-3,.cls-52{fill:#fff;}.cls-2,.cls-54{letter-spacing:0.04em;}.cls-3{font-size:18.65px;font-family:OpenSans-Bold, Open Sans;font-weight:700;text-decoration:underline;}.cls-11,.cls-13,.cls-15,.cls-17,.cls-19,.cls-21,.cls-23,.cls-25,.cls-27,.cls-29,.cls-31,.cls-33,.cls-35,.cls-37,.cls-39,.cls-4,.cls-41,.cls-43,.cls-45,.cls-47,.cls-49,.cls-51,.cls-53,.cls-6,.cls-8{fill:none;}.cls-4{stroke:#bc1d46;}.cls-11,.cls-13,.cls-15,.cls-17,.cls-19,.cls-21,.cls-23,.cls-25,.cls-27,.cls-29,.cls-31,.cls-33,.cls-35,.cls-37,.cls-39,.cls-4,.cls-41,.cls-43,.cls-45,.cls-47,.cls-49,.cls-51,.cls-6,.cls-8{stroke-width:3.33px;}.cls-5{fill:#bc1d46;}.cls-6{stroke:#df4c46;}.cls-7{fill:#df4c46;}.cls-8{stroke:#d74fa4;}.cls-9{fill:#d74fa4;}.cls-10,.cls-55{letter-spacing:0.04em;}.cls-11{stroke:#a995a3;}.cls-12{fill:#a995a3;}.cls-13{stroke:#c0e10f;}.cls-14{fill:#c0e10f;}.cls-15{stroke:#ff0;}.cls-16{fill:#ff0;}.cls-17{stroke:#f6a020;}.cls-18{fill:#f6a020;}.cls-19{stroke:#dd4345;}.cls-20{fill:#dd4345;}.cls-21{stroke:#e60000;}.cls-22{fill:#e60000;}.cls-23{stroke:#fa9c85;}.cls-24{fill:#fa9c85;}.cls-25{stroke:#f67f47;}.cls-26{fill:#f67f47;}.cls-27{stroke:#ffd37c;}.cls-28{fill:#ffd37c;}.cls-29{stroke:#ecfdb2;}.cls-30{fill:#ecfdb2;}.cls-31{stroke:#3a5cdb;}.cls-32{fill:#3a5cdb;}.cls-33{stroke:#57c7eb;}.cls-34{fill:#57c7eb;}.cls-35{stroke:#c5f736;}.cls-36{fill:#c5f736;}.cls-37{stroke:#02bf6d;}.cls-38{fill:#02bf6d;}.cls-39{stroke:#83e084;}.cls-40{fill:#83e084;}.cls-41{stroke:#83e0bb;}.cls-42{fill:#83e0bb;}.cls-43{stroke:#b4bdcf;}.cls-44{fill:#b4bdcf;}.cls-45{stroke:#b494e8;}.cls-46{fill:#b494e8;}.cls-47{stroke:#b54fe9;}.cls-48{fill:#b54fe9;}.cls-49{stroke:#82dfe8;}.cls-50{fill:#82dfe8;}.cls-51,.cls-53{stroke:#fff;}.cls-53{stroke-miterlimit:10;stroke-width:0.54px;}</style>
+  </defs>
+  <rect id="backgorund" class="cls-1" x="-23.28" y="-29.04" width="806.01" height="1454.36"/>
+  <text class="cls-2" transform="matrix(1, 0, 0, 1, 222.830002, 100.540001)" style="white-space: pre;">INLOCO</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 708.359985, 77.760002)" style="white-space: pre;">18,6%</text>
+  <line class="cls-4" x1="322.01" y1="95.03" x2="740.48" y2="95.03"/>
+  <rect class="cls-5" x="321.51" y="91.78" width="1" height="6.5"/>
+  <path class="cls-5" d="M740.1,102.55A7.52,7.52,0,1,0,732.58,95,7.52,7.52,0,0,0,740.1,102.55Z"/>
+  <text class="cls-2" transform="matrix(1, 0, 0, 1, 160.25, 133.470001)" style="white-space: pre;">ABR TELECOM</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 411.809998, 136.309998)" style="white-space: pre;">3,2%</text>
+  <line class="cls-6" x1="322.62" y1="130.97" x2="384.51" y2="130.97"/>
+  <rect class="cls-7" x="322.12" y="127.72" width="1" height="6.5"/>
+  <path class="cls-7" d="M384.13,138.48a7.52,7.52,0,1,0-7.51-7.51A7.51,7.51,0,0,0,384.13,138.48Z"/>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 403.970001, 172.149994)" style="white-space: pre;">2,8%</text>
+  <line class="cls-8" x1="322.62" y1="166.81" x2="376.17" y2="166.81"/>
+  <rect class="cls-9" x="322.12" y="163.56" width="1" height="6.5"/>
+  <path class="cls-9" d="M375.79,174.32a7.52,7.52,0,1,0-7.52-7.51A7.52,7.52,0,0,0,375.79,174.32Z"/>
+  <text class="cls-10" transform="matrix(1, 0, 0, 1, 123.809998, 208.25)" style="white-space: pre;">NÃO LOCALIZADA</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 390.23999, 208.080002)" style="white-space: pre;">2,4%</text>
+  <line class="cls-11" x1="322.62" y1="202.74" x2="367.06" y2="202.74"/>
+  <rect class="cls-12" x="322.12" y="199.49" width="1" height="6.5"/>
+  <path class="cls-12" d="M366.69,210.26a7.52,7.52,0,1,0-7.52-7.52A7.52,7.52,0,0,0,366.69,210.26Z"/>
+  <text class="cls-2" transform="matrix(1, 0, 0, 1, 183.949997, 244.190002)" style="white-space: pre;">SCIPOPULIS</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 383.26001, 244.020004)" style="white-space: pre;">2%</text>
+  <line class="cls-13" x1="322.62" y1="238.68" x2="357.02" y2="238.68"/>
+  <rect class="cls-14" x="322.12" y="235.43" width="1" height="6.5"/>
+  <path class="cls-14" d="M356.64,246.2a7.52,7.52,0,1,0-7.52-7.52A7.52,7.52,0,0,0,356.64,246.2Z"/>
+  <text class="cls-10" transform="matrix(1, 0, 0, 1, 64.32, 278.130005)" style="white-space: pre;">CONSÓRCIO NORDESTE</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 383.359985, 279.959991)" style="white-space: pre;">2%</text>
+  <line class="cls-15" x1="322.62" y1="274.62" x2="357.02" y2="274.62"/>
+  <rect class="cls-16" x="322.12" y="271.37" width="1" height="6.5"/>
+  <path class="cls-16" d="M356.64,282.14a7.52,7.52,0,1,0-7.52-7.52A7.52,7.52,0,0,0,356.64,282.14Z"/>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 364.179993, 315.799988)" style="white-space: pre;">1,6%</text>
+  <line class="cls-17" x1="322.62" y1="310.46" x2="345.36" y2="310.46"/>
+  <rect class="cls-18" x="322.12" y="307.21" width="1" height="6.5"/>
+  <path class="cls-18" d="M345,318a7.52,7.52,0,1,0-7.52-7.52A7.52,7.52,0,0,0,345,318Z"/>
+  <text class="cls-2" transform="matrix(1, 0, 0, 1, 74.110001, 355.910004)" style="white-space: pre;">MINISTÉRIO DA SAÚDE</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 364.179993, 351.73999)" style="white-space: pre;">1,6%</text>
+  <line class="cls-19" x1="322.62" y1="346.4" x2="345.36" y2="346.4"/>
+  <rect class="cls-20" x="322.12" y="343.15" width="1" height="6.5"/>
+  <path class="cls-20" d="M345,353.91a7.52,7.52,0,1,0-7.52-7.51A7.52,7.52,0,0,0,345,353.91Z"/>
+  <text class="cls-10" transform="matrix(1, 0, 0, 1, 99.860001, 387.839996)" style="white-space: pre;">EAGLE TECNOLOGIA</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 364.279999, 387.670013)" style="white-space: pre;">1,6%</text>
+  <line class="cls-21" x1="322.62" y1="382.33" x2="345.36" y2="382.33"/>
+  <rect class="cls-22" x="322.12" y="379.08" width="1" height="6.5"/>
+  <path class="cls-22" d="M345,389.85a7.52,7.52,0,1,0-7.52-7.52A7.52,7.52,0,0,0,345,389.85Z"/>
+  <text class="cls-2" transform="matrix(1, 0, 0, 1, 82.690002, 423.779999)" style="white-space: pre;">DAHUA TECHNOLOGY</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 364.179993, 423.609985)" style="white-space: pre;">1,6%</text>
+  <line class="cls-23" x1="322.62" y1="418.27" x2="345.36" y2="418.27"/>
+  <rect class="cls-24" x="322.12" y="415.02" width="1" height="6.5"/>
+  <path class="cls-24" d="M345,425.79a7.52,7.52,0,1,0-7.52-7.52A7.52,7.52,0,0,0,345,425.79Z"/>
+  <text class="cls-10" transform="matrix(1, 0, 0, 1, 187.850006, 459.720001)" style="white-space: pre;">CYBERLABS</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 352.440002, 459.549988)" style="white-space: pre;">1,2%</text>
+  <line class="cls-25" x1="322.62" y1="454.21" x2="335.57" y2="454.21"/>
+  <rect class="cls-26" x="322.12" y="450.96" width="1" height="6.5"/>
+  <path class="cls-26" d="M335.19,461.73a7.52,7.52,0,1,0-7.52-7.52A7.52,7.52,0,0,0,335.19,461.73Z"/>
+  <text class="cls-10" transform="matrix(1, 0, 0, 1, 90.959999, 495.649994)" style="white-space: pre;">BRAINY RESOLUTION</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 352.549988, 495.48999)" style="white-space: pre;">1,2%</text>
+  <line class="cls-17" x1="322.62" y1="490.15" x2="335.57" y2="490.15"/>
+  <rect class="cls-18" x="322.12" y="486.9" width="1" height="6.5"/>
+  <path class="cls-18" d="M335.19,497.66a7.52,7.52,0,1,0-7.52-7.51A7.52,7.52,0,0,0,335.19,497.66Z"/>
+  <text class="cls-2" transform="matrix(1, 0, 0, 1, 1.82, 531.590027)" style="white-space: pre;">INSTITUTO LAURA FRESSATTO</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 352.440002, 531.429993)" style="white-space: pre;">1,2%</text>
+  <line class="cls-27" x1="322.62" y1="526.08" x2="335.57" y2="526.08"/>
+  <rect class="cls-28" x="322.12" y="522.83" width="1" height="6.5"/>
+  <path class="cls-28" d="M335.19,533.6a7.52,7.52,0,1,0-7.52-7.52A7.52,7.52,0,0,0,335.19,533.6Z"/>
+  <text class="cls-2" transform="matrix(1, 0, 0, 1, 206.179993, 567.530029)" style="white-space: pre;">UNICAMP</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 342.709991, 567.359985)" style="white-space: pre;">0,8%</text>
+  <line class="cls-29" x1="322.62" y1="562.02" x2="325.78" y2="562.02"/>
+  <rect class="cls-30" x="322.12" y="558.77" width="1" height="6.5"/>
+  <path class="cls-30" d="M325.4,569.54a7.52,7.52,0,1,0-7.52-7.52A7.52,7.52,0,0,0,325.4,569.54Z"/>
+  <text class="cls-2" transform="matrix(1, 0, 0, 1, 234.690002, 603.469971)" style="white-space: pre;">UNALE</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 342.709991, 603.299988)" style="white-space: pre;">0,8%</text>
+  <line class="cls-31" x1="322.62" y1="597.96" x2="325.78" y2="597.96"/>
+  <rect class="cls-32" x="322.12" y="594.71" width="1" height="6.5"/>
+  <path class="cls-32" d="M325.4,605.48a7.52,7.52,0,1,0-7.52-7.52A7.52,7.52,0,0,0,325.4,605.48Z"/>
+  <text class="cls-2" transform="matrix(1, 0, 0, 1, 40.529999, 639.98999)" style="white-space: pre;">SEC. DA SAÚDE DO CEARÁ</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 342.709991, 639.140015)" style="white-space: pre;">0,8%</text>
+  <line class="cls-33" x1="322.62" y1="634.15" x2="325.78" y2="634.15"/>
+  <rect class="cls-34" x="322.12" y="630.9" width="1" height="6.5"/>
+  <path class="cls-34" d="M325.4,641.67a7.52,7.52,0,1,0-7.52-7.52A7.52,7.52,0,0,0,325.4,641.67Z"/>
+  <text class="cls-10" transform="matrix(1, 0, 0, 1, 191.580002, 675.039978)" style="white-space: pre;">PRONTLIFE</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 342.709991, 674.97998)" style="white-space: pre;">0,8%</text>
+  <line class="cls-35" x1="322.62" y1="669.99" x2="325.63" y2="669.99"/>
+  <rect class="cls-36" x="322.12" y="666.74" width="1" height="6.5"/>
+  <path class="cls-36" d="M325.26,677.51a7.52,7.52,0,1,0-7.52-7.52A7.52,7.52,0,0,0,325.26,677.51Z"/>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 342.709991, 710.820007)" style="white-space: pre;">0,8%</text>
+  <line class="cls-37" x1="322.62" y1="705.48" x2="325.63" y2="705.48"/>
+  <rect class="cls-38" x="322.12" y="702.23" width="1" height="6.5"/>
+  <path class="cls-38" d="M325.26,713a7.52,7.52,0,1,0-7.52-7.52A7.52,7.52,0,0,0,325.26,713Z"/>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 342.709991, 754.340027)" style="white-space: pre;">0,8%</text>
+  <line class="cls-39" x1="322.62" y1="749.98" x2="325.63" y2="749.98"/>
+  <rect class="cls-40" x="322.12" y="746.73" width="1" height="6.5"/>
+  <path class="cls-40" d="M325.26,757.5a7.52,7.52,0,1,0-7.52-7.52A7.52,7.52,0,0,0,325.26,757.5Z"/>
+  <text class="cls-2" transform="matrix(1, 0, 0, 1, 171.369995, 796.48999)" style="white-space: pre;">MITO GAMES</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 342.709991, 790.179993)" style="white-space: pre;">0,8%</text>
+  <line class="cls-41" x1="322.62" y1="785.24" x2="325.63" y2="785.24"/>
+  <rect class="cls-42" x="322.12" y="781.99" width="1" height="6.5"/>
+  <path class="cls-42" d="M325.26,792.75a7.52,7.52,0,1,0-7.52-7.51A7.51,7.51,0,0,0,325.26,792.75Z"/>
+  <text class="cls-2" transform="matrix(1, 0, 0, 1, 21.530001, 829.76001)" style="white-space: pre;">SEC. DA SAÚDE DE MANAUS</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 342.709991, 827.25)" style="white-space: pre;">0,8%</text>
+  <line class="cls-43" x1="322.62" y1="822.89" x2="325.63" y2="822.89"/>
+  <rect class="cls-44" x="322.12" y="819.64" width="1" height="6.5"/>
+  <path class="cls-44" d="M325.26,830.41a7.52,7.52,0,1,0-7.52-7.52A7.51,7.51,0,0,0,325.26,830.41Z"/>
+  <text class="cls-2" transform="matrix(1, 0, 0, 1, 205.309998, 870.820007)" style="white-space: pre;">LIFESHUB</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 342.709991, 864.530029)" style="white-space: pre;">0,8%</text>
+  <line class="cls-45" x1="322.62" y1="863.74" x2="325.63" y2="863.74"/>
+  <rect class="cls-46" x="322.12" y="860.49" width="1" height="6.5"/>
+  <path class="cls-46" d="M325.26,871.26a7.52,7.52,0,1,0-7.52-7.52A7.51,7.51,0,0,0,325.26,871.26Z"/>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 342.709991, 905.580017)" style="white-space: pre;">0,8%</text>
+  <line class="cls-47" x1="322.62" y1="900.24" x2="325.63" y2="900.24"/>
+  <rect class="cls-48" x="322.12" y="896.99" width="1" height="6.5"/>
+  <path class="cls-48" d="M325.26,907.76a7.52,7.52,0,1,0-7.52-7.52A7.51,7.51,0,0,0,325.26,907.76Z"/>
+  <text class="cls-10" transform="matrix(1, 0, 0, 1, 222.759995, 947.409973)" style="white-space: pre;">EDUSIM</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 342.709991, 941.429993)" style="white-space: pre;">0,8%</text>
+  <line class="cls-49" x1="322.62" y1="939.93" x2="325.63" y2="939.93"/>
+  <rect class="cls-50" x="322.12" y="936.68" width="1" height="6.5"/>
+  <path class="cls-50" d="M325.26,947.44a7.52,7.52,0,1,0-7.52-7.51A7.51,7.51,0,0,0,325.26,947.44Z"/>
+  <text class="cls-10" transform="matrix(1, 0, 0, 1, 244.080002, 982.450012)" style="white-space: pre;">CIASC</text>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 342.709991, 982.280029)" style="white-space: pre;">0,8%</text>
+  <line class="cls-51" x1="322.62" y1="976.94" x2="325.63" y2="976.94"/>
+  <rect class="cls-52" x="322.12" y="973.69" width="1" height="6.5"/>
+  <path class="cls-52" d="M325.26,984.45a7.52,7.52,0,1,0-7.52-7.51A7.51,7.51,0,0,0,325.26,984.45Z"/>
+  <line class="cls-53" x1="-8.54" y1="1014.73" x2="768" y2="1014.73"/>
+  <path class="cls-52" d="M158.68,739.33a4,4,0,0,1-1.48,3.33,6.74,6.74,0,0,1-4.25,1.17h-1.69v5.62h-1.67V735.17h3.72Q158.68,735.17,158.68,739.33Zm-7.42,3.07h1.5a5.57,5.57,0,0,0,3.21-.71,2.6,2.6,0,0,0,1-2.28,2.45,2.45,0,0,0-.93-2.11,4.93,4.93,0,0,0-2.91-.7h-1.86Z"/>
+  <path class="cls-52" d="M164.16,743.51v5.94h-1.67V735.17h3.93a6.22,6.22,0,0,1,3.9,1,3.64,3.64,0,0,1,1.26,3A3.79,3.79,0,0,1,168.7,743l3.89,6.42h-2l-3.47-5.94Zm0-1.43h2.28a3.93,3.93,0,0,0,2.59-.7,2.57,2.57,0,0,0,.82-2.09,2.41,2.41,0,0,0-.83-2,4.55,4.55,0,0,0-2.7-.63h-2.16Z"/>
+  <path class="cls-52" d="M183.7,749.45h-8V735.17h8v1.47h-6.32v4.6h5.94v1.47h-5.94V748h6.32Z"/>
+  <path class="cls-52" d="M189.35,749.45h-1.67V735.17h8v1.47h-6.33v5.23h5.94v1.47h-5.94Z"/>
+  <path class="cls-52" d="M206.85,749.45h-8V735.17h8v1.47h-6.33v4.6h5.95v1.47h-5.95V748h6.33Z"/>
+  <path class="cls-52" d="M210.83,749.45V735.17h1.67v14.28Z"/>
+  <path class="cls-52" d="M221.65,749.45H220V736.64h-4.54v-1.47h10.75v1.47h-4.54Z"/>
+  <path class="cls-52" d="M240,735.17v9.24a5,5,0,0,1-1.48,3.83,5.68,5.68,0,0,1-4.08,1.4,5.46,5.46,0,0,1-4-1.4,5.2,5.2,0,0,1-1.42-3.87v-9.2h1.67v9.32a3.67,3.67,0,0,0,1,2.74,3.94,3.94,0,0,0,2.88,1,3.81,3.81,0,0,0,2.8-1,3.69,3.69,0,0,0,1-2.75v-9.3Z"/>
+  <path class="cls-52" d="M246.24,743.51v5.94h-1.66V735.17h3.93a6.22,6.22,0,0,1,3.9,1,3.64,3.64,0,0,1,1.26,3,3.79,3.79,0,0,1-2.89,3.83l3.9,6.42h-2l-3.48-5.94Zm0-1.43h2.29a4,4,0,0,0,2.59-.7,2.57,2.57,0,0,0,.82-2.09,2.38,2.38,0,0,0-.84-2,4.52,4.52,0,0,0-2.69-.63h-2.17Z"/>
+  <path class="cls-52" d="M266.81,749.45,265,744.9h-5.74l-1.77,4.55h-1.69l5.67-14.34h1.41l5.64,14.34Zm-2.31-6L262.84,739c-.22-.56-.44-1.25-.67-2.06a17.69,17.69,0,0,1-.62,2.06l-1.68,4.42Z"/>
+  <path class="cls-52" d="M288.78,742.17a7.22,7.22,0,0,1-1.93,5.41,7.68,7.68,0,0,1-5.55,1.87h-4V735.17h4.4a7,7,0,0,1,5.19,1.84A6.94,6.94,0,0,1,288.78,742.17Zm-1.77.06A5.73,5.73,0,0,0,285.6,738a5.65,5.65,0,0,0-4.18-1.42H279V748h2a6.19,6.19,0,0,0,4.48-1.46A5.76,5.76,0,0,0,287,742.23Z"/>
+  <path class="cls-52" d="M300.77,749.45h-8V735.17h8v1.47h-6.32v4.6h5.94v1.47h-5.94V748h6.32Z"/>
+  <path class="cls-52" d="M144.07,757.45a4.67,4.67,0,0,0-3.73,1.57,6.3,6.3,0,0,0-1.37,4.29,6.42,6.42,0,0,0,1.32,4.33,4.69,4.69,0,0,0,3.76,1.53,12.8,12.8,0,0,0,3.42-.54v1.45a10.36,10.36,0,0,1-3.68.56,6.23,6.23,0,0,1-4.88-1.91,7.86,7.86,0,0,1-1.73-5.44,8.61,8.61,0,0,1,.83-3.87,5.94,5.94,0,0,1,2.4-2.56,7.25,7.25,0,0,1,3.68-.9,9,9,0,0,1,3.94.82l-.7,1.43A7.64,7.64,0,0,0,144.07,757.45Z"/>
+  <path class="cls-52" d="M160.42,770.45l-1.79-4.55h-5.74l-1.77,4.55h-1.69l5.67-14.34h1.4l5.64,14.34Zm-2.31-6L156.45,760c-.22-.56-.44-1.25-.67-2.06a17.69,17.69,0,0,1-.62,2.06l-1.69,4.42Z"/>
+  <path class="cls-52" d="M171.27,770.45l-4.87-12.66h-.08c.09,1,.14,2.19.14,3.57v9.09h-1.54V756.17h2.51L172,768h.08l4.58-11.78h2.49v14.28h-1.67v-9.2c0-1.06.05-2.2.14-3.44h-.08l-4.9,12.64Z"/>
+  <path class="cls-52" d="M193,760.33a4,4,0,0,1-1.49,3.33,6.72,6.72,0,0,1-4.25,1.17h-1.68v5.62h-1.67V756.17h3.72Q193,756.17,193,760.33Zm-7.42,3.07H187a5.55,5.55,0,0,0,3.2-.71,2.6,2.6,0,0,0,1-2.28,2.45,2.45,0,0,0-.93-2.11,4.89,4.89,0,0,0-2.9-.7h-1.86Z"/>
+  <path class="cls-52" d="M209.2,763.29a7.85,7.85,0,0,1-1.74,5.39,6.12,6.12,0,0,1-4.84,2,6.21,6.21,0,0,1-4.89-1.93,7.87,7.87,0,0,1-1.72-5.44,7.76,7.76,0,0,1,1.73-5.41,6.24,6.24,0,0,1,4.9-1.92,6.08,6.08,0,0,1,4.82,2A7.82,7.82,0,0,1,209.2,763.29Zm-11.43,0a6.75,6.75,0,0,0,1.25,4.4,5.07,5.07,0,0,0,7.2,0,8.49,8.49,0,0,0,0-8.77,4.34,4.34,0,0,0-3.58-1.49,4.41,4.41,0,0,0-3.62,1.5A6.67,6.67,0,0,0,197.77,763.29Z"/>
+  <path class="cls-52" d="M225.53,763h4.87v6.94a16.51,16.51,0,0,1-2.31.55,18.27,18.27,0,0,1-2.73.18,6.61,6.61,0,0,1-5.07-1.93,7.55,7.55,0,0,1-1.81-5.4,8.19,8.19,0,0,1,.89-3.9,6,6,0,0,1,2.59-2.56,8.37,8.37,0,0,1,3.95-.89,10.86,10.86,0,0,1,4.28.84l-.65,1.47a9.52,9.52,0,0,0-3.74-.82,5.39,5.39,0,0,0-4.09,1.55,6,6,0,0,0-1.47,4.31,6.15,6.15,0,0,0,1.42,4.38,5.44,5.44,0,0,0,4.16,1.5,12.35,12.35,0,0,0,2.92-.35v-4.39h-3.21Z"/>
+  <path class="cls-52" d="M236.32,764.51v5.94h-1.67V756.17h3.93a6.22,6.22,0,0,1,3.9,1,3.64,3.64,0,0,1,1.26,3,3.79,3.79,0,0,1-2.88,3.83l3.89,6.42h-2l-3.47-5.94Zm0-1.43h2.28a3.93,3.93,0,0,0,2.59-.7,2.58,2.58,0,0,0,.83-2.09,2.38,2.38,0,0,0-.84-2,4.55,4.55,0,0,0-2.7-.63h-2.16Z"/>
+  <path class="cls-52" d="M256.88,770.45l-1.78-4.55h-5.75l-1.76,4.55H245.9l5.67-14.34H253l5.64,14.34Zm-2.3-6L252.91,760c-.21-.56-.44-1.25-.67-2.06a19.64,19.64,0,0,1-.61,2.06l-1.69,4.42Z"/>
+  <path class="cls-52" d="M272.59,770.45h-1.91l-7.83-12h-.08q.15,2.12.15,3.87v8.12h-1.54V756.17h1.89l7.81,11.93h.08c0-.17,0-.74-.08-1.69s-.07-1.64-.05-2v-8.19h1.56Z"/>
+  <path class="cls-52" d="M288.78,763.17a7.18,7.18,0,0,1-1.93,5.41,7.66,7.66,0,0,1-5.55,1.87h-4V756.17h4.4a7,7,0,0,1,5.19,1.84A6.94,6.94,0,0,1,288.78,763.17Zm-1.77.06A5.73,5.73,0,0,0,285.6,759a5.65,5.65,0,0,0-4.18-1.42H279V769h2a6.19,6.19,0,0,0,4.48-1.46A5.76,5.76,0,0,0,287,763.23Z"/>
+  <path class="cls-52" d="M300.77,770.45h-8V756.17h8v1.47h-6.32v4.6h5.94v1.47h-5.94V769h6.32Z"/>
+  <text class="cls-10" transform="matrix(1, 0, 0, 1, 99.809998, 700.619995)" style="white-space: pre;">PREFEITURA DE SÃO<tspan class="cls-54"><tspan x="18.09" y="21">JOSÉ DOS PINHAIS</tspan></tspan></text>
+  <text class="cls-2" transform="matrix(1, 0, 0, 1, 104.75, 160.020004)" style="white-space: pre;">INSTITUTO D'OR DE<tspan class="cls-55"><tspan x="-4.83" y="21">PESQUISA E ENSINO</tspan></tspan></text>
+  <text class="cls-2" transform="matrix(1, 0, 0, 1, 143.240005, 304.970001)" style="white-space: pre;">SEC. DESENV. E <tspan x="-51.82" y="21">INOVAÇÃO DE GOIÁS</tspan></text>
+  <text class="cls-2" transform="matrix(1, 0, 0, 1, 71.169998, 895.659973)" style="white-space: pre;">IMED – INST. DE MED., <tspan class="cls-55"><tspan x="26.54" y="21">ESTUDOS E DESENV.</tspan></tspan></text>
+</svg>

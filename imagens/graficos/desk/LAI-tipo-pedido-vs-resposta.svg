@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="298.611 95.687 1374.393 899.985" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.cls-1{fill:#e5e5e5;}.cls-2{fill:none;stroke:#030420;stroke-miterlimit:10;}.cls-3{fill:#7095f1;}.cls-4{fill:#b7a1ff;}.cls-5{fill:#87e0d4;}.cls-6{fill:#1ebf70;}.cls-7{fill:#755285;}.cls-8{fill:#87e089;}.cls-9{fill:#2e2f46;}.cls-10{fill:#c7f64a;}.cls-11,.cls-12,.cls-13,.cls-14,.cls-15{isolation:isolate;}.cls-12,.cls-13{font-size:24.32px;}.cls-12,.cls-15,.cls-16,.cls-17,.cls-18,.cls-20,.cls-21{fill:#030420;}.cls-12,.cls-13,.cls-14,.cls-15,.cls-17,.cls-18,.cls-20,.cls-21{font-family:OpenSans-Bold, Open Sans;font-weight:700;}.cls-12,.cls-13,.cls-14,.cls-15,.cls-17,.cls-18,.cls-20{text-decoration:underline;}.cls-13{fill:#fff;}.cls-14,.cls-15{font-size:18.29px;}.cls-14{fill:#f2f2f2;}.cls-16{font-size:15px;letter-spacing:0.04em;}.cls-16,.cls-19{font-family:OpenSans, Open Sans;}.cls-17,.cls-18{font-size:18.6px;}.cls-17{letter-spacing:0em;}.cls-19{font-size:15.85px;}.cls-20{font-size:22.79px;}.cls-21{font-size:18.61px;letter-spacing:0.04em;}.cls-22{fill:#bbb;}</style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <rect id="backgorund" class="cls-1" x="-0.55" y="-27.41" width="1923.04" height="1106.2"/>
+    <g id="Pedidos_exploratórios" data-name="Pedidos exploratórios">
+      <path id="p_706.9986308165106" data-name="p 706.9986308165106" class="cls-2" d="M896.37,748.72c-158,0-286.18-128.13-286.18-286.19S738.32,176.35,896.37,176.35s286.19,128.13,286.19,286.18S1054.43,748.72,896.37,748.72Z"/>
+    </g>
+    <g id="Respondido">
+      <path id="p_557.9476016495668" data-name="p 557.9476016495668" class="cls-3" d="M760.12,615.93a137,137,0,1,1,0-274h0a137,137,0,0,1,.06,274Z"/>
+    </g>
+    <g id="Sem_resposta" data-name="Sem resposta">
+      <path id="p_710.1719904261832" data-name="p 710.1719904261832" class="cls-4" d="M1039.36,611.45a132.51,132.51,0,1,1,132.52-132.51A132.51,132.51,0,0,1,1039.36,611.45Z"/>
+    </g>
+    <g id="Site_com_problema" data-name="Site com problema">
+      <path id="p_705.4095388193854" data-name="p 705.4095388193854" class="cls-5" d="M903.37,738.85A81.82,81.82,0,1,1,985.19,657,81.82,81.82,0,0,1,903.37,738.85Z"/>
+    </g>
+    <g id="Indicação_de_outro_órgão" data-name="Indicação de outro órgão">
+      <path id="p_510.993936970466" data-name="p 510.993936970466" class="cls-6" d="M903.08,388.22a63.72,63.72,0,0,1,0-127.44h0a63.72,63.72,0,1,1,0,127.44Z"/>
+    </g>
+    <g id="Resposta_insatisfatória" data-name="Resposta insatisfatória">
+      <path id="p_413.271730337416" data-name="p 413.271730337416" class="cls-7" d="M781.58,333.34a57.38,57.38,0,1,1,0-114.76h0a57.38,57.38,0,0,1,0,114.76Z"/>
+    </g>
+    <g id="Pedido_em_duplicidade" data-name="Pedido em duplicidade">
+      <path id="p_549.7749246847181" data-name="p 549.7749246847181" class="cls-8" d="M1024,337.29a54.44,54.44,0,1,1,54.44-54.43A54.43,54.43,0,0,1,1024,337.29Z"/>
+    </g>
+    <g id="Sem_e-SIC" data-name="Sem e-SIC">
+      <path id="p_612.6856447562853" data-name="p 612.6856447562853" class="cls-9" d="M774.18,700.68A37.77,37.77,0,1,1,812,662.91,37.77,37.77,0,0,1,774.18,700.68Z"/>
+    </g>
+    <g id="Indeferido">
+      <path id="p_724.0371442255536" data-name="p 724.0371442255536" class="cls-10" d="M1014.63,661.21a21,21,0,1,1,20.95-21A21,21,0,0,1,1014.63,661.21Z"/>
+    </g>
+    <g class="cls-11">
+      <text class="cls-12" transform="translate(741.16 485.06)" style="white-space: pre;">171</text>
+    </g>
+    <g class="cls-11">
+      <text class="cls-12" transform="translate(1020.4 485.06)" style="white-space: pre;">160</text>
+    </g>
+    <g class="cls-11">
+      <text class="cls-12" transform="translate(891.74 663.16)" style="white-space: pre;">61</text>
+    </g>
+    <g class="cls-11">
+      <text class="cls-12" transform="translate(889.14 330.61)" style="white-space: pre;">37</text>
+    </g>
+    <g class="cls-11">
+      <text class="cls-13" transform="translate(767.63 282.07)" style="white-space: pre;">30</text>
+    </g>
+    <g class="cls-11">
+      <text class="cls-12" transform="translate(1010.07 288.97)" style="white-space: pre;">27</text>
+    </g>
+    <g class="cls-11">
+      <text class="cls-14" transform="translate(765.42 667.52)" style="white-space: pre;">13</text>
+    </g>
+    <g class="cls-11">
+      <text class="cls-15" transform="translate(1005.7 646.38)" style="white-space: pre;">4</text>
+    </g>
+    <g id="Pedidos_Google" data-name="Pedidos Google">
+      <path id="p_939.1026008473722" data-name="p 939.1026008473722" class="cls-2" d="M1396.9,667.14c-113,0-204.61-91.58-204.62-204.58S1283.86,258,1396.85,257.93h.05c113,0,204.61,91.58,204.62,204.58s-91.58,204.61-204.58,204.63Z"/>
+    </g>
+    <g id="Respondido-2" data-name="Respondido">
+      <path id="p_837.7020816179811" data-name="p 837.7020816179811" class="cls-3" d="M1309.41,571.6a96.59,96.59,0,0,1,0-193.17h0a96.59,96.59,0,1,1,0,193.17Z"/>
+    </g>
+    <g id="Sem_resposta-2" data-name="Sem resposta">
+      <path id="p_940.2164058449428" data-name="p 940.2164058449428" class="cls-4" d="M1503.38,562.66A87.65,87.65,0,1,1,1591,475,87.65,87.65,0,0,1,1503.38,562.66Z"/>
+    </g>
+    <g id="Resposta_insatisfatória-2" data-name="Resposta insatisfatória">
+      <path id="p_942.4396690975328" data-name="p 942.4396690975328" class="cls-7" d="M1413.69,656.37a56.42,56.42,0,1,1,0-112.83h0a56.42,56.42,0,0,1,0,112.83Z"/>
+    </g>
+    <g id="Site_com_problema-2" data-name="Site com problema">
+      <path id="p_805.6622192262683" data-name="p 805.6622192262683" class="cls-5" d="M1413.14,410a44.45,44.45,0,1,1,44.44-44.44A44.45,44.45,0,0,1,1413.14,410Z"/>
+    </g>
+    <g id="Indeferido-2" data-name="Indeferido">
+      <path id="p_734.3045558666563" data-name="p 734.3045558666563" class="cls-10" d="M1324.88,369.5a41.91,41.91,0,1,1,41.9-41.9A41.9,41.9,0,0,1,1324.88,369.5Z"/>
+    </g>
+    <g id="Indicação_de_outro_órgão-2" data-name="Indicação de outro órgão">
+      <path id="p_875.1859680659007" data-name="p 875.1859680659007" class="cls-6" d="M1326.59,622.08a21,21,0,1,1,21-21A21,21,0,0,1,1326.59,622.08Z"/>
+    </g>
+    <g id="Sem_e-SIC-2" data-name="Sem e-SIC">
+      <path id="p_827.0549477661632" data-name="p 827.0549477661632" class="cls-9" d="M1482.13,379.66A14.82,14.82,0,1,1,1497,364.84,14.82,14.82,0,0,1,1482.13,379.66Z"/>
+    </g>
+    <g id="Pedido_em_duplicidade-2" data-name="Pedido em duplicidade">
+      <path id="p_956.3618255763646" data-name="p 956.3618255763646" class="cls-8" d="M1493.58,601.61a14.82,14.82,0,1,1,14.82-14.82A14.82,14.82,0,0,1,1493.58,601.61Z"/>
+    </g>
+    <g class="cls-11">
+      <text class="cls-12" transform="translate(1295.48 481.14)" style="white-space: pre;">85</text>
+    </g>
+    <g class="cls-11">
+      <text class="cls-12" transform="translate(1489.38 481.14)" style="white-space: pre;">70</text>
+    </g>
+    <g class="cls-11">
+      <text class="cls-13" transform="translate(1400.04 606.09)" style="white-space: pre;">29</text>
+    </g>
+    <g class="cls-11">
+      <text class="cls-12" transform="translate(1401.1 371.72)" style="white-space: pre;">18</text>
+    </g>
+    <g class="cls-11">
+      <text class="cls-15" transform="translate(1316.04 332.2)" style="white-space: pre;">16</text>
+    </g>
+    <g class="cls-11">
+      <text class="cls-15" transform="translate(1321.19 605.74)" style="white-space: pre;">4</text>
+    </g>
+    <g class="cls-11">
+      <text class="cls-14" transform="translate(1477.11 369.45)" style="white-space: pre;">2</text>
+    </g>
+    <g class="cls-11">
+      <text class="cls-15" transform="translate(1488.56 591.4)" style="white-space: pre;">2</text>
+    </g>
+    <g id="Pedidos_específicos" data-name="Pedidos específicos">
+      <path id="p_942.7097395324444" data-name="p 942.7097395324444" class="cls-2" d="M1208.08,937.7a121.82,121.82,0,1,1,121.81-121.82A121.82,121.82,0,0,1,1208.08,937.7Z"/>
+    </g>
+    <g id="Respondido-3" data-name="Respondido">
+      <path id="p_874.2028532027925" data-name="p 874.2028532027925" class="cls-3" d="M1159,863.12A61.09,61.09,0,1,1,1159,741h0a61.09,61.09,0,0,1,0,122.17Z"/>
+    </g>
+    <g id="Sem_resposta-3" data-name="Sem resposta">
+      <path id="p_928.8475218150546" data-name="p 928.8475218150546" class="cls-4" d="M1274.27,846.48A44.45,44.45,0,1,1,1318.72,802,44.44,44.44,0,0,1,1274.27,846.48Z"/>
+    </g>
+    <g id="Resposta_insatisfatória-3" data-name="Resposta insatisfatória">
+      <path id="p_948.0804371111049" data-name="p 948.0804371111049" class="cls-7" d="M1231.32,924.15a39.2,39.2,0,1,1,0-78.39h0a39.2,39.2,0,0,1,0,78.39Z"/>
+    </g>
+    <g id="Site_com_problema-3" data-name="Site com problema">
+      <path id="p_858.4261941276254" data-name="p 858.4261941276254" class="cls-5" d="M1227.8,765.85A14.82,14.82,0,1,1,1242.61,751,14.82,14.82,0,0,1,1227.8,765.85Z"/>
+    </g>
+    <g id="Indicação_de_outro_órgão-3" data-name="Indicação de outro órgão">
+      <path id="p_829.0360772584445" data-name="p 829.0360772584445" class="cls-6" d="M1198.91,741.68a10.48,10.48,0,1,1,10.48-10.47A10.47,10.47,0,0,1,1198.91,741.68Z"/>
+    </g>
+    <g id="Indeferido-3" data-name="Indeferido">
+      <path id="p_867.4537013999949" data-name="p 867.4537013999949" class="cls-10" d="M1260.64,749.3a10.48,10.48,0,1,1,10.47-10.47A10.48,10.48,0,0,1,1260.64,749.3Z"/>
+    </g>
+    <g class="cls-11">
+      <text class="cls-12" transform="translate(1145.01 808.17)" style="white-space: pre;">34</text>
+    </g>
+    <g class="cls-11">
+      <text class="cls-12" transform="translate(1262.24 808.17)" style="white-space: pre;">18</text>
+    </g>
+    <g class="cls-11">
+      <text class="cls-13" transform="translate(1219.32 891.09)" style="white-space: pre;">14</text>
+    </g>
+    <g class="cls-11">
+      <text class="cls-15" transform="translate(1222.78 755.64)" style="white-space: pre;">2</text>
+    </g>
+    <g class="cls-11">
+      <text class="cls-15" transform="translate(1195.29 735.82)" style="white-space: pre;">1</text>
+    </g>
+    <g class="cls-11">
+      <text class="cls-15" transform="translate(1257.01 743.44)" style="white-space: pre;">1</text>
+    </g>
+    <text class="cls-16" transform="translate(330.76 464.46)" style="white-space: pre;">SITE COM PROBLEMA </text>
+    <text class="cls-17" transform="translate(496.58 464.46)" style="white-space: pre;">81</text>
+    <rect class="cls-5" x="295.97" y="431.5" width="78.92" height="8.5"/>
+    <text class="cls-16" transform="translate(329.58 406.15)" style="white-space: pre;">SEM RESPOSTA </text>
+    <text class="cls-17" transform="translate(448.39 406.15)" style="white-space: pre;">248</text>
+    <rect class="cls-4" x="295.97" y="373.95" width="77.75" height="8.5"/>
+    <text class="cls-16" transform="translate(329.58 811.31)" style="white-space: pre;">SEM E-SIC </text>
+    <text class="cls-18" transform="translate(408.88 811.31)" style="white-space: pre;">15</text>
+    <rect class="cls-9" x="295.97" y="779.86" width="77.75" height="7"/>
+    <text class="cls-16" transform="translate(329.58 579.2)" style="white-space: pre;">RESPOSTA INSATISFATÓRIA </text>
+    <text class="cls-17" transform="translate(539.35 579.2)" style="white-space: pre;">73</text>
+    <rect class="cls-7" x="295.97" y="548.51" width="77.75" height="8.5"/>
+    <text class="cls-16" transform="translate(329.58 520.88)" style="white-space: pre;">RESPONDIDO </text>
+    <text class="cls-18" transform="translate(436.14 520.88)" style="white-space: pre;">290</text>
+    <rect class="cls-3" x="295.97" y="490.95" width="77.75" height="8.5"/>
+    <text class="cls-16" transform="translate(329.58 694.3)" style="white-space: pre;">PEDIDO EM DUPLICIDADE </text>
+    <text class="cls-18" transform="translate(528.53 694.3)" style="white-space: pre;">29</text>
+    <rect class="cls-8" x="295.97" y="665.13" width="77.75" height="8.5"/>
+    <text class="cls-16" transform="translate(295.97 635.99)" style="white-space: pre;">INDICAÇÃO DE OUTRO ÓRGÃO </text>
+    <text class="cls-17" transform="translate(531.95 635.99)" style="white-space: pre;">42</text>
+    <rect class="cls-6" x="295.97" y="607.58" width="77.75" height="8.5"/>
+    <text class="cls-16" transform="translate(329.58 751.48)" style="white-space: pre;">INDEFERIDO </text>
+    <text class="cls-18" transform="translate(427.43 751.48)" style="white-space: pre;">21</text>
+    <rect class="cls-10" x="295.97" y="723.82" width="77.75" height="8"/>
+    <text class="cls-19" transform="translate(1084.35 165.99)" style="white-space: pre;">PEDIDOS<tspan x="0" y="19.02">EXPLORATÓROS</tspan></text>
+    <text class="cls-20" transform="translate(1086.04 207.07)" style="white-space: pre;">503</text>
+    <line class="cls-2" x1="1069.75" y1="165.23" x2="1027.16" y2="207.82"/>
+    <text class="cls-19" transform="translate(1560.57 245.5)" style="white-space: pre;">PEDIDOS<tspan x="0" dy="1em">​</tspan>AVANÇADOS</text>
+    <text class="cls-20" transform="translate(1562.25 286.58)" style="white-space: pre;">226</text>
+    <line class="cls-2" x1="1545.97" y1="244.74" x2="1503.38" y2="287.33"/>
+    <text class="cls-19" transform="translate(1375.29 721.14)" style="white-space: pre;">PEDIDOS<tspan x="0" y="19.02">ESPECÍFICOS</tspan></text>
+    <text class="cls-20" transform="translate(1376.97 762.22)" style="white-space: pre;">70</text>
+    <line class="cls-2" x1="1360.69" y1="720.39" x2="1318.1" y2="762.97"/>
+    <line class="cls-2" x1="295.79" y1="-3.47" x2="295.79" y2="1083.47"/>
+    <text class="cls-21" transform="translate(323.24 293.28)" style="white-space: pre;">TIPO DE RETORNO</text>
+    <path class="cls-22" d="M411.56,307.9v-3.84l-4,3.84v-6.55h-2.88v6.55l-4-3.84v3.84l5.44,5Z"/>
+  </g>
+</svg>

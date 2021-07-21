@@ -1,0 +1,68 @@
+<section class="content slider target-section">
+  <div class="__container">
+    <div id= "scroll-to" class="slider-name">
+
+      {% for destaque in site.data.slide %}
+
+          <div class="slide">
+            <div>
+              <ul>
+                <li><p style="color: #1c1d36;"><span class="counter counter-{{ destaque.counter }}">{{ destaque.numero }}</span><span style="color: #1c1d36;">{% if destaque.percentual == "sim" %}%{% endif %}</span></p></li>
+                <li><p style="color: #1c1d36;">{{ destaque.texto }}</p></li>
+              </ul>
+            </div>
+          </div>
+
+      {% endfor %}
+
+    </div>
+  </div>
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/animejs@3.1.0/lib/anime.min.js" type="text/javascript">
+
+</script>
+<script type="text/javascript">
+  function runAnimtion() {
+    anime({
+      targets: '.counter-1',
+      textContent: [0, 58],
+      round: 1,
+      easing: 'linear',
+      duration: 4000
+    });
+
+    anime({
+      targets: '.counter-2',
+      textContent: [0, 253],
+      round: 1,
+      easing: 'linear',
+      duration: 1000
+    });
+
+    anime({
+      targets: '.counter-3',
+      textContent: [0, 151],
+      round: 1,
+      easing: 'linear',
+      duration: 1000
+    });
+  }
+
+  const observer = new IntersectionObserver(
+    entries => {
+      entries.forEach(entry => {
+        if (entry.intersectionRatio >= 0.7) {
+          runAnimtion();
+          observer.disconnect();
+        }
+      });
+    },
+    {
+      threshold: 0.7
+    }
+  );
+
+  observer.observe(document.querySelector('.target-section'));
+
+</script>

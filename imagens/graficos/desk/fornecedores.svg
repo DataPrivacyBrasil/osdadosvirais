@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="93.369 60.735 1668.855 1009.225" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.cls-1{fill:#030420;}.cls-2,.cls-20{font-size:19.65px;}.cls-2,.cls-20,.cls-3,.cls-51,.cls-52,.cls-54{fill:#fff;}.cls-2,.cls-20,.cls-51{font-family:OpenSans, Open Sans;}.cls-2{letter-spacing:0.04em;}.cls-3{font-size:21.44px;}.cls-3,.cls-52{font-family:OpenSans-Bold, Open Sans;font-weight:700;text-decoration:underline;}.cls-10,.cls-12,.cls-14,.cls-16,.cls-18,.cls-21,.cls-23,.cls-25,.cls-27,.cls-29,.cls-31,.cls-33,.cls-35,.cls-37,.cls-39,.cls-4,.cls-41,.cls-43,.cls-45,.cls-47,.cls-49,.cls-53,.cls-6,.cls-8{fill:none;}.cls-4{stroke:#bb2148;}.cls-10,.cls-12,.cls-14,.cls-16,.cls-18,.cls-21,.cls-23,.cls-25,.cls-27,.cls-29,.cls-31,.cls-33,.cls-35,.cls-37,.cls-39,.cls-4,.cls-41,.cls-43,.cls-45,.cls-47,.cls-49,.cls-6,.cls-8{stroke-width:3.57px;}.cls-5{fill:#bb2148;}.cls-6{stroke:#de4d4a;}.cls-7{fill:#de4d4a;}.cls-8{stroke:#d653a4;}.cls-9{fill:#d653a4;}.cls-10{stroke:#aa96a4;}.cls-11{fill:#aa96a4;}.cls-12{stroke:#c2e032;}.cls-13{fill:#c2e032;}.cls-14{stroke:#ff0;}.cls-15{fill:#ff0;}.cls-16{stroke:#f5a034;}.cls-17{fill:#f5a034;}.cls-18{stroke:#dc4549;}.cls-19{fill:#dc4549;}.cls-20{letter-spacing:0.04em;}.cls-21{stroke:#e4000d;}.cls-22{fill:#e4000d;}.cls-23{stroke:#f99d89;}.cls-24{fill:#f99d89;}.cls-25{stroke:#f57f4e;}.cls-26{fill:#f57f4e;}.cls-27{stroke:#fed382;}.cls-28{fill:#fed382;}.cls-29{stroke:#edfdb6;}.cls-30{fill:#edfdb6;}.cls-31{stroke:#3d60d9;}.cls-32{fill:#3d60d9;}.cls-33{stroke:#5dc8ea;}.cls-34{fill:#5dc8ea;}.cls-35{stroke:#c7f64a;}.cls-36{fill:#c7f64a;}.cls-37{stroke:#1ebf70;}.cls-38{fill:#1ebf70;}.cls-39{stroke:#87e089;}.cls-40{fill:#87e089;}.cls-41{stroke:#87e0bd;}.cls-42{fill:#87e0bd;}.cls-43{stroke:#b5becf;}.cls-44{fill:#b5becf;}.cls-45{stroke:#b597e7;}.cls-46{fill:#b597e7;}.cls-47{stroke:#b556e7;}.cls-48{fill:#b556e7;}.cls-49{stroke:#87e0e8;}.cls-50{fill:#87e0e8;}.cls-51{font-size:18.36px;letter-spacing:0.04em;}.cls-52{font-size:20.03px;}.cls-53{stroke:#fff;stroke-width:3.57px;}</style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <rect id="backgorund" class="cls-1" x="-32.53" y="-44" width="1985.05" height="1222.66"/>
+    <text class="cls-2" transform="translate(446.28 128.32)" style="white-space: pre;">INLOCO</text>
+    <text class="cls-3" transform="translate(1678.69 128.11)" style="white-space: pre;">18,6%</text>
+    <line class="cls-4" x1="555.72" y1="122.71" x2="1651.88" y2="122.71"/>
+    <rect class="cls-5" x="555.19" y="119.22" width="1.07" height="6.97"/>
+    <circle class="cls-5" cx="1651.48" cy="122.71" r="8.06"/>
+    <text class="cls-2" transform="translate(384.79 165.64)" style="white-space: pre;">ABR TELECOM</text>
+    <text class="cls-3" transform="translate(778.95 165.43)" style="white-space: pre;">3,2%</text>
+    <line class="cls-6" x1="557.17" y1="160.03" x2="736.21" y2="160.03"/>
+    <rect class="cls-7" x="556.63" y="156.55" width="1.07" height="6.97"/>
+    <path class="cls-7" d="M735.81,168.09a8.06,8.06,0,1,0-8.06-8.06A8.06,8.06,0,0,0,735.81,168.09Z"/>
+    <text class="cls-2" transform="translate(124.97 202.96)" style="white-space: pre;">INSTITUTO D'OR DE PESQUISA E ENSINO</text>
+    <text class="cls-3" transform="translate(751.34 202.76)" style="white-space: pre;">2,8%</text>
+    <line class="cls-8" x1="557.17" y1="197.35" x2="716.26" y2="197.35"/>
+    <rect class="cls-9" x="556.63" y="193.87" width="1.07" height="6.97"/>
+    <path class="cls-9" d="M715.86,205.41a8.06,8.06,0,1,0-8.06-8.06A8.06,8.06,0,0,0,715.86,205.41Z"/>
+    <text class="cls-2" transform="translate(348.97 240.29)" style="white-space: pre;">NÃO LOCALIZADA</text>
+    <text class="cls-3" transform="translate(720.95 240.08)" style="white-space: pre;">2,4%</text>
+    <line class="cls-10" x1="557.17" y1="234.68" x2="694.5" y2="234.68"/>
+    <rect class="cls-11" x="556.63" y="231.19" width="1.07" height="6.97"/>
+    <path class="cls-11" d="M694.09,242.74a8.07,8.07,0,1,0-8.06-8.06A8.06,8.06,0,0,0,694.09,242.74Z"/>
+    <text class="cls-2" transform="translate(408.07 277.61)" style="white-space: pre;">SCIPOPULIS</text>
+    <text class="cls-3" transform="translate(702.09 277.4)" style="white-space: pre;">2%</text>
+    <line class="cls-12" x1="557.17" y1="272" x2="670.47" y2="272"/>
+    <rect class="cls-13" x="556.63" y="268.51" width="1.07" height="6.97"/>
+    <path class="cls-13" d="M670.07,280.06A8.06,8.06,0,1,0,662,272,8.06,8.06,0,0,0,670.07,280.06Z"/>
+    <text class="cls-2" transform="translate(290.52 314.93)" style="white-space: pre;">CONSÓRCIO NORDESTE</text>
+    <text class="cls-3" transform="translate(702.22 314.72)" style="white-space: pre;">2%</text>
+    <line class="cls-14" x1="557.17" y1="309.32" x2="670.47" y2="309.32"/>
+    <rect class="cls-15" x="556.63" y="305.84" width="1.07" height="6.97"/>
+    <path class="cls-15" d="M670.07,317.38a8.06,8.06,0,1,0-8.06-8.06A8.06,8.06,0,0,0,670.07,317.38Z"/>
+    <text class="cls-2" transform="translate(160.15 353.42)" style="white-space: pre;">SEC. DESENV. E INOVAÇÃO DE GOIÁS</text>
+    <text class="cls-3" transform="translate(678.48 352.05)" style="white-space: pre;">1,6%</text>
+    <line class="cls-16" x1="557.17" y1="349.7" x2="642.59" y2="349.7"/>
+    <rect class="cls-17" x="556.63" y="346.21" width="1.07" height="6.97"/>
+    <path class="cls-17" d="M642.19,357.76a8.06,8.06,0,1,0-8.06-8.06A8.06,8.06,0,0,0,642.19,357.76Z"/>
+    <text class="cls-2" transform="translate(300.13 390.11)" style="white-space: pre;">MINISTÉRIO DA SAÚDE</text>
+    <text class="cls-3" transform="translate(678.49 389.37)" style="white-space: pre;">1,6%</text>
+    <line class="cls-18" x1="557.17" y1="386.13" x2="642.59" y2="386.13"/>
+    <rect class="cls-19" x="556.63" y="382.65" width="1.07" height="6.97"/>
+    <path class="cls-19" d="M642.19,394.2a8.07,8.07,0,1,0-8.06-8.07A8.06,8.06,0,0,0,642.19,394.2Z"/>
+    <text class="cls-20" transform="translate(325.44 427.69)" style="white-space: pre;">EAGLE TECNOLOGIA</text>
+    <text class="cls-3" transform="translate(678.62 426.69)" style="white-space: pre;">1,6%</text>
+    <line class="cls-21" x1="557.17" y1="423.46" x2="642.59" y2="423.46"/>
+    <rect class="cls-22" x="556.63" y="419.97" width="1.07" height="6.97"/>
+    <path class="cls-22" d="M642.19,431.52a8.06,8.06,0,1,0-8.06-8.06A8.06,8.06,0,0,0,642.19,431.52Z"/>
+    <text class="cls-2" transform="translate(308.58 465.27)" style="white-space: pre;">DAHUA TECHNOLOGY</text>
+    <text class="cls-3" transform="translate(678.48 464.01)" style="white-space: pre;">1,6%</text>
+    <line class="cls-23" x1="557.17" y1="460.78" x2="642.59" y2="460.78"/>
+    <rect class="cls-24" x="556.63" y="457.3" width="1.07" height="6.97"/>
+    <path class="cls-24" d="M642.19,468.84a8.06,8.06,0,1,0-8.06-8.06A8.06,8.06,0,0,0,642.19,468.84Z"/>
+    <text class="cls-2" transform="translate(411.91 502.84)" style="white-space: pre;">CYBERLABS</text>
+    <text class="cls-3" transform="translate(678.31 501.34)" style="white-space: pre;">1,2%</text>
+    <line class="cls-25" x1="557.17" y1="498.1" x2="619.19" y2="498.1"/>
+    <rect class="cls-26" x="556.63" y="494.62" width="1.07" height="6.97"/>
+    <path class="cls-26" d="M618.78,506.16a8.06,8.06,0,1,0-8.06-8.06A8.06,8.06,0,0,0,618.78,506.16Z"/>
+    <text class="cls-2" transform="translate(316.7 540.42)" style="white-space: pre;">BRAINY RESOLUTION</text>
+    <text class="cls-3" transform="translate(678.44 538.66)" style="white-space: pre;">1,2%</text>
+    <line class="cls-16" x1="557.17" y1="535.42" x2="619.19" y2="535.42"/>
+    <rect class="cls-17" x="556.63" y="531.94" width="1.07" height="6.97"/>
+    <path class="cls-17" d="M618.78,543.48a8.06,8.06,0,1,0-8.06-8.06A8.06,8.06,0,0,0,618.78,543.48Z"/>
+    <text class="cls-2" transform="translate(229.1 577.93)" style="white-space: pre;">INSTITUTO LAURA FRESSATTO</text>
+    <text class="cls-3" transform="translate(678.31 575.91)" style="white-space: pre;">1,2%</text>
+    <line class="cls-27" x1="557.17" y1="572.68" x2="619.19" y2="572.68"/>
+    <rect class="cls-28" x="556.63" y="569.19" width="1.07" height="6.97"/>
+    <path class="cls-28" d="M618.78,580.74a8.06,8.06,0,1,0-8.06-8.06A8.06,8.06,0,0,0,618.78,580.74Z"/>
+    <text class="cls-2" transform="translate(429.92 613.51)" style="white-space: pre;">UNICAMP</text>
+    <text class="cls-3" transform="translate(651.64 613.3)" style="white-space: pre;">0,8%</text>
+    <line class="cls-29" x1="557.17" y1="607.9" x2="595.78" y2="607.9"/>
+    <rect class="cls-30" x="556.63" y="604.42" width="1.07" height="6.97"/>
+    <path class="cls-30" d="M595.38,616a8.06,8.06,0,1,0-8.06-8.06A8.06,8.06,0,0,0,595.38,616Z"/>
+    <text class="cls-2" transform="translate(457.93 650.83)" style="white-space: pre;">UNALE</text>
+    <text class="cls-3" transform="translate(651.64 650.62)" style="white-space: pre;">0,8%</text>
+    <line class="cls-31" x1="557.17" y1="645.22" x2="595.78" y2="645.22"/>
+    <rect class="cls-32" x="556.63" y="641.74" width="1.07" height="6.97"/>
+    <path class="cls-32" d="M595.38,653.28a8.06,8.06,0,1,0-8.06-8.06A8.06,8.06,0,0,0,595.38,653.28Z"/>
+    <text class="cls-2" transform="translate(267.14 688.15)" style="white-space: pre;">SEC. DA SAÚDE DO CEARÁ</text>
+    <text class="cls-3" transform="translate(651.64 687.95)" style="white-space: pre;">0,8%</text>
+    <line class="cls-33" x1="557.17" y1="682.54" x2="595.78" y2="682.54"/>
+    <rect class="cls-34" x="556.63" y="679.06" width="1.07" height="6.97"/>
+    <path class="cls-34" d="M595.38,690.6a8.06,8.06,0,1,0-8.06-8.06A8.06,8.06,0,0,0,595.38,690.6Z"/>
+    <text class="cls-2" transform="translate(415.57 725.48)" style="white-space: pre;">PRONTLIFE</text>
+    <text class="cls-3" transform="translate(651.64 725.27)" style="white-space: pre;">0,8%</text>
+    <line class="cls-35" x1="557.17" y1="719.87" x2="595.44" y2="719.87"/>
+    <rect class="cls-36" x="556.63" y="716.38" width="1.07" height="6.97"/>
+    <path class="cls-36" d="M595,727.93a8.06,8.06,0,1,0-8.06-8.06A8.06,8.06,0,0,0,595,727.93Z"/>
+    <text class="cls-2" transform="translate(137.89 762.8)" style="white-space: pre;">PREFEITURA DE SÃO JOSÉ DOS PINHAIS</text>
+    <text class="cls-3" transform="translate(651.64 762.59)" style="white-space: pre;">0,8%</text>
+    <line class="cls-37" x1="557.17" y1="757.19" x2="595.44" y2="757.19"/>
+    <rect class="cls-38" x="556.63" y="753.7" width="1.07" height="6.97"/>
+    <path class="cls-38" d="M595,765.25a8.06,8.06,0,1,0-8.06-8.06A8.06,8.06,0,0,0,595,765.25Z"/>
+    <text class="cls-2" transform="translate(202.53 802.16)" style="white-space: pre;">PREFEITURA DE CAMPO GRANDE</text>
+    <text class="cls-3" transform="translate(651.64 799.55)" style="white-space: pre;">0,8%</text>
+    <line class="cls-39" x1="557.17" y1="795.37" x2="595.44" y2="795.37"/>
+    <rect class="cls-40" x="556.63" y="791.88" width="1.07" height="6.97"/>
+    <path class="cls-40" d="M595,803.43a8.06,8.06,0,1,0-8.06-8.06A8.06,8.06,0,0,0,595,803.43Z"/>
+    <text class="cls-20" transform="translate(395.71 837.44)" style="white-space: pre;">MITO GAMES</text>
+    <text class="cls-3" transform="translate(651.64 837.24)" style="white-space: pre;">0,8%</text>
+    <line class="cls-41" x1="557.17" y1="831.83" x2="595.44" y2="831.83"/>
+    <rect class="cls-42" x="556.63" y="828.35" width="1.07" height="6.97"/>
+    <path class="cls-42" d="M595,839.89a8.06,8.06,0,1,0-8.06-8.06A8.06,8.06,0,0,0,595,839.89Z"/>
+    <text class="cls-2" transform="translate(248.47 874.77)" style="white-space: pre;">SEC. DA SAÚDE DE MANAUS</text>
+    <text class="cls-3" transform="translate(651.64 874.56)" style="white-space: pre;">0,8%</text>
+    <line class="cls-43" x1="557.17" y1="869.16" x2="595.44" y2="869.16"/>
+    <rect class="cls-44" x="556.63" y="865.67" width="1.07" height="6.97"/>
+    <path class="cls-44" d="M595,877.22a8.07,8.07,0,1,0-8.06-8.06A8.06,8.06,0,0,0,595,877.22Z"/>
+    <text class="cls-2" transform="translate(429.06 912.09)" style="white-space: pre;">LIFESHUB</text>
+    <text class="cls-3" transform="translate(651.64 911.88)" style="white-space: pre;">0,8%</text>
+    <line class="cls-45" x1="557.17" y1="906.48" x2="595.44" y2="906.48"/>
+    <rect class="cls-46" x="556.63" y="902.99" width="1.07" height="6.97"/>
+    <path class="cls-46" d="M595,914.54a8.06,8.06,0,1,0-8.06-8.06A8.06,8.06,0,0,0,595,914.54Z"/>
+    <text class="cls-2" transform="translate(95.84 949.41)" style="white-space: pre;">IMED – INST. DE MED., ESTUDOS E DESENV.</text>
+    <text class="cls-3" transform="translate(651.64 949.2)" style="white-space: pre;">0,8%</text>
+    <line class="cls-47" x1="557.17" y1="943.8" x2="595.44" y2="943.8"/>
+    <rect class="cls-48" x="556.63" y="940.32" width="1.07" height="6.97"/>
+    <path class="cls-48" d="M595,951.86A8.06,8.06,0,1,0,587,943.8,8.06,8.06,0,0,0,595,951.86Z"/>
+    <text class="cls-20" transform="translate(446.21 986.73)" style="white-space: pre;">EDUSIM</text>
+    <text class="cls-3" transform="translate(651.64 986.52)" style="white-space: pre;">0,8%</text>
+    <line class="cls-49" x1="557.17" y1="981.12" x2="595.44" y2="981.12"/>
+    <rect class="cls-50" x="556.63" y="977.64" width="1.07" height="6.97"/>
+    <path class="cls-50" d="M595,989.18a8.06,8.06,0,1,0-8.06-8.06A8.06,8.06,0,0,0,595,989.18Z"/>
+    <text class="cls-51" transform="translate(470.97 1023.69)" style="white-space: pre;">CIASC</text>
+    <text class="cls-52" transform="translate(652.57 1023.49)" style="white-space: pre;">0,8%</text>
+    <line class="cls-53" x1="557.17" y1="1019.21" x2="592.38" y2="1019.21"/>
+    <rect class="cls-54" x="556.63" y="1015.73" width="1.07" height="6.96"/>
+    <path class="cls-54" d="M592,1027.26a8.06,8.06,0,1,0-8.06-8A8.06,8.06,0,0,0,592,1027.26Z"/>
+  </g>
+</svg>
