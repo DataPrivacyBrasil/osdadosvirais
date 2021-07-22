@@ -16,8 +16,8 @@ Elas responderam por quase 60% das tecnologias. Já os órgãos públicos fornec
 
 <div class="accordion">
     <div class="option">
-      <input type="checkbox" id="toggle5" class="toggle" />
-      <label class="titleaco" for="toggle{{page.ordem}}">SAIBA MAIS&nbsp; 
+      <input type="checkbox" id="toggle{{page.ordem}}" class="toggle" />
+      <label class="titleaco" for="toggle{{page.ordem}}">SAIBA MAIS&nbsp;
       </label>
       <div class="contentaco">
         <p>A In Loco (Incognia) e a ABR Telecom (juntamente com Claro, Oi, Vivo e Tim), além de fornecedores, também foram responsáveis pelo desenvolvimento dos seus respectivos Índices de Isolamento Social. Deste modo, tanto In Loco, como ABR Telecom despontam com os percentuais mais elevados, entre os desenvolvedores mapeados, 8,6% e 3,2%, respectivamente.</p>
