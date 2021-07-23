@@ -3,7 +3,7 @@ layout: grafico_escuro
 title: "Informações acessadas por apps em sistemas Android"
 descricao: "O gráfico permite visualizar as permissões de uso solicitadas pelos aplicativos mapeados."
 iframe: '<iframe class="d-desk" src="imagens/graficos/interativos/sankey_android/index.html" onload="loadIframe()" scrolling="no" width="100%" height="1450px" frameborder="no" seamless allowfullscreen style="max-width:100%;margin:0 auto"> </iframe>'
-iframe_mobile: '<iframe class="d-mob" src="imagens/graficos/interativos/sankey_android_mobile/index.html" onload="loadIframe()" scrolling="no" width="90%" height="2350px" frameborder="no" seamless allowfullscreen style="max-width:100%;margin:0 auto"> </iframe>'
+iframe_mobile: '<iframe class="d-mob" src="imagens/graficos/interativos/sankey_android_mobile/index.html" onload="loadIframe()" scrolling="no" width="90%" height="2550px" frameborder="no" seamless allowfullscreen style="max-width:100%;margin:0 auto"> </iframe>'
 sankey: sim
 filetype: svg
 ordem: 1000

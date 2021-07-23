@@ -218,7 +218,7 @@ body {
   background: #1c1d36;
   width: 100vw;
   height: 100vh;
-  z-index: 999;
+  z-index: 9999;
   transition: left 0.4s; }
   .site-nav.active {
     left: 0; }
