@@ -1,6 +1,6 @@
 ---
 layout: grafico_claro
-title: "Tecnologias - abrangência estadual"
+title: "Tecnologias com abrangência estadual"
 descricao: Mapa interativo com o número de tecnologias identificadas nos estados e suas respectivas funcionalidades. Dados relacionados somente ao mapeamento das tecnologias de abrangência estadual.
 iframe: '<iframe class="d-desk" src="imagens/graficos/interativos/mapa/index.html" height="720px" width="100%" frameborder="no" seamless> </iframe>'
 iframe_mobile: <iframe class="d-mob" src="imagens/graficos/interativos/mapa/index.html" height="500px" width="100%" frameborder="no" seamless> </iframe>
