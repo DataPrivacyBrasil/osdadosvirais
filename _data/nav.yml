@@ -9,9 +9,6 @@
 
 - titulo: "Localidades e abrangência"
   idn: "tech-estadual"
-  
-- titulo: "Tecnologias por estado"
-  idn: "techs-estados"
 
 - titulo: "Funcionalidades"
   idn: "funcionalidades"
