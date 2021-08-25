@@ -1,7 +1,7 @@
 ---
 layout: grafico_claro_alternado
-title: "Tecnologias com abrangência nacional: fornecedores, desenvolvedores e funcionalidades"
-descricao: "O gráfico apresenta informações sobre as tecnologias com abrangência nacional, indicando  seus fornecedores e desenvolvedores e agrupando-as de acordo com suas funcionalidades."
+title: "TECHNOLOGIES WITH NACIONAL REACH: SUPPLIERS, DEVELOPERS AND FUNCTIONALITIES"
+descricao: "The graph presents information on technologies implemented nationally, organized by functionalies, pointing out its suppliers and developers."
 img: "apps-fornecedores"
 img2: "apps-desenvolvedores"
 filetype: svg
