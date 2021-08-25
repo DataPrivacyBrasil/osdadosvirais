@@ -6,16 +6,16 @@ idn: "metodologia-LAI"
 tipo: LAI
 ---
 
-> Metodologia
+> METHODOLOGY
 
-O recorte temporal definido para a realização da primeira etapa da pesquisa corresponde ao período de 20 de março de 2020, quando foi decretado estado de calamidade pública devido à pandemia, a 31 de dezembro de 2020. A coleta dos dados nesta etapa da pesquisa foi realizada a partir da busca de informações e documentos obtidos por meio de:<br>
+The time frame defined for the conduction of the first step of the research is the period from March 20, 2020 (when the public calamity state was declared due to the pandemic) to December 31, 2020. The collection of data in this step was executed using:<br>
 
-<span class="itens">a)</span> Pedidos via Lei de Acesso à Informação (LAI), nos termos da Lei nº 12.527/2011;
+<span class="itens">a)</span> FOIA requests (based on the Brazilian Freedom of Information Act n. 12527/2011);
 
-<span class="itens">b)</span> Busca em portais da transparência;
+<span class="itens">b)</span> search in public transparency portals;
 
-<span class="itens">c)</span> Diários Oficiais;
+<span class="itens">c)</span> Official Gazettes;
 
-<span class="itens">d)</span> Pesquisas exploratórias realizadas por meio da utilização de palavras-chave no motor de busca da Google. Neste caso, as informações foram buscadas a partir de publicações em que fossem evidenciadas ou anunciadas a utilização de tecnologias baseadas em dados pessoais por parte do poder público para o enfrentamento à covid-19. Para tornar a busca mais eficiente e direcionada, foram usadas técnicas de pesquisa avançada;
+<span class="itens">d)</span> exploratory searches using keywords in Google search. In this case, the information was selected from publications that announced a personal data based technology being used by the public sector in the fight against COVID-19. Advanced research techniques were implemented in order to make the search more efficient;
 
-<span class="itens">e)</span> Solicitações de informações e documentos diretamente por e-mail para as empresas envolvidas nas aquisições das tecnologias.
+<span class="itens">e)</span> Information and documents requested directly via email of the companies involved in the acquisition of technology.
