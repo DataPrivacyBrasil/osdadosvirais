@@ -1,7 +1,7 @@
 ---
 layout: grafico_escuro
-title: PERFIL DOS FORNECEDORES
-descricao: "Gráfico com a concentração de tecnologias por estado, no país e o perfil dos fornecedores."
+title: SUPPLIERS’ PROFILE
+descricao: "The graph indicates the concentration of technologies per state and the profile of the suppliers."
 img: "fornecedores-expandido"
 filetype: svg
 grafico_descricao:
@@ -10,9 +10,9 @@ idn: "fornecedores-de-tecnologia"
 tipo: dados
 ---
 
-As empresas privadas são as principais responsáveis pelo fornecimento de soluções tecnológicas utilizadas pelo poder público.
+Private companies are the main responsible for supplying technology used by the public sector.
 
-Elas responderam por quase 60% das tecnologias. Já os órgãos públicos forneceram cerca de 24% do total.
+They correspond to almost 60% of the technologies,while public agencies supply around 24%.
 
 <div class="accordion">
     <div class="option">
