@@ -1,6 +1,6 @@
 ---
 layout: grafico_escuro
-title: "Status de submissão dos pedidos de acesso à informação nos município"
+title: "FOIA REQUEST SUBMISSION STATUS IN THE MUNICIPALITIES"
 descricao:
 img: LAI-pedidos-municipios
 filetype: svg
