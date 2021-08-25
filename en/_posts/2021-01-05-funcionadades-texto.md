@@ -6,58 +6,59 @@ idn: funcionalidades
 tipo: dados
 ---
 
->  Funcionalidades
+>  Functionalities
 
-As tecnologias mapeadas foram classificadas de acordo com diferentes tipos de funcionalidades, totalizando 10 categorias.
+The technologies mapped were classified according to the different types of functionalities, a whole of 10 categories.
 
 <div class="accordion">
     <div class="option">
       <input type="checkbox" id="toggle{{page.ordem}}" class="toggle" />
-      <label class="titleaco" for="toggle{{page.ordem}}">SAIBA MAIS&nbsp;
+      <label class="titleaco" for="toggle{{page.ordem}}">LEARN MORE&nbsp;
       </label>
       <div class="contentaco">
       <table>
 <tbody>
 <tr>
-  <th><br>Monitoramento de temperatura</th>
-  <th>Verificação de temperatura a fim de identificar se a pessoa tem febre ou não utilizando câmeras fototérmicas, em alguns casos, equipadas também com tecnologia de reconhecimento facial.</th>
+  <th><br>Body temperature monitoring</th>
+  <th>Verification of body temperature in order to identify if the person has a fever by using photothermal cameras, in some cases also equipped with facial recognition technology.</th>
 </tr>
 
 <tr>
-  <td>Monitoramento de uso de máscara</td>
-  <td>Sistemas automatizados baseados em IA a fim de verificar se a pessoa usa máscara ou não.</td>
+  <td>Mask use monitoring</td>
+  <td>Automated systems based on AI used to verify if people are using face masks.</td>
 </tr>
 <tr>
-  <td>Monitoramento do fluxo de pessoas</td>
-  <td>Sistemas automatizados baseados em IA a fim de verificar se os indivíduos estão mantendo  entre si a distância protocolar para reduzir as chances de contágio de COVID-19.<br>Também inclui o monitoramento da frota de transporte público e criação e acompanhamento de índice elaborado a partir do monitoramento em massa do deslocamento dos indivíduos, via geolocalização,  a fim de verificar a porcentagem da população que se encontra em isolamento domiciliar, segundo a orientação das autoridades de saúde.</td>
+  <td>People flow monitoring</td>
+  <td>Automated systems based on AI used to verify if individuals are maintaining the regulamented safe distance to reduce the chances of COVID-19 contamination.
+Also includes public transport fleet monitoring and the creation and monitoring of isolation rates based on localization data, used to identify the percentage of the population that is in home isolation, as prescripted by health authorities.</td>
 </tr>
 <tr>
-  <td>Rastreamento de contatos</td>
-  <td>Serviços digitais e automatizados para identificação de pessoas infectadas com coronavírus e das pessoas com as quais estas interagiram para verificação de potenciais riscos de infecção e emissão de alertas de exposição ao vírus. </td>
+  <td>Contact tracking</td>
+  <td>Digital and automated services to identify coronavirus infected people and their interactions/contacts to verify potential risks of contamination and notify possible exposure to the virus.</td>
 </tr>
 <tr>
-  <td>Telemedicina</td>
-  <td>Serviços de acompanhamento e orientação médica à distância. Acompanhamento individualizado mediante sistemas automatizados para averiguação de possíveis sintomas relacionados à COVID-19 e eventual acompanhamento da evolução e gravidade desses sintomas.</td>
+  <td>Telemedicine</td>
+  <td>Remote services of medical guidance and follow-up. The supervision is individualized by automated systems that will identify symptoms related to COVID-19 and monitor the development and  severity of the disease.</td>
 </tr>
 <tr>
-  <td>Mapeamento da evolução da COVID-19</td>
-  <td>Plataformas para contagem e divulgação de infectados pela COVID-19 em determinado território</td>
+  <td>Mapping of COVID-19 evolution</td>
+  <td>Platforms that count and disclose the number of COVID-19 infected individuals in a specific territory</td>
 </tr>
 <tr>
-  <td>Fornecimento de informações</td>
-  <td>Serviços voltados para o fornecimento de informações à população a fim de esclarecer dúvidas relacionadas a COVID-19, a serviços de saúde e demais informações úteis para o enfrentamento à COVID-19.</td>
+  <td>Information provision</td>
+  <td>Services that focus on providing information to the population in order to clarify doubts related to COVID-19, public health services and other pandemic related matters.</td>
 </tr>
 <tr>
-  <td>Digitalização de serviços públicos</td>
-  <td>Produtos e serviços criados especificamente para digitalizar o atendimento em serviços públicos no contexto da COVID-19 e que utilizam dados pessoais para seu funcionamento</td>
+  <td>Digitalization of public services</td>
+  <td>Products and services created specifically for the digitalization of public services in the context of the pandemic and that use personal data in their operations</td>
 </tr>
 <tr>
-  <td>Identificação de pessoas</td>
-  <td>Identificação de indivíduos a partir do cruzamento de imagens armazenadas em bancos de dados e câmeras com biometria facial.</td>
+  <td>People identification</td>
+  <td>Identification of individuals through the crossing of images from data banks and facial biometrics cameras.</td>
 </tr>
 <tr>
-  <td>Armazenamento</td>
-  <td>Soluções para criação de bancos de dados em nuvem voltados ao combate à pandemia</td>
+  <td>Data storage</td>
+  <td>Technologies aimed at creating cloud-stored data banks in order to combat the pandemic</td>
 </tr>
 </tbody>
 </table>
