@@ -17,7 +17,7 @@ They correspond to almost 60% of the technologies,while public agencies supply a
 <div class="accordion">
     <div class="option">
       <input type="checkbox" id="toggle{{page.ordem}}" class="toggle" />
-      <label class="titleaco" for="toggle{{page.ordem}}">SAIBA MAIS&nbsp;
+      <label class="titleaco" for="toggle{{page.ordem}}">LEARN MORE&nbsp;
       </label>
       <div class="contentaco">
         <p>In Loco (Incognia) and ABR Telecom (together with the telecommunication providers Claro, Oi, Vivo and Tim) are suppliers but also developers of two different Social Isolation Rates. Thus, both In Loco (Incognia) and ABR Telecom lead the list of developers identified at 8.6% and 3.2% respectively.</p>
