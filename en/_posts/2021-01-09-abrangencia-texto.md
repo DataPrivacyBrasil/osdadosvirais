@@ -6,12 +6,12 @@ idn: "fornecedores-devs"
 tipo: dados
 ---
 
-> Durante a pandemia...
+> During the pandemic...
 
-...o uso de aplicativos para smartphones foi bastante difundido, servindo como meio de acesso para diversos serviços públicos.
+...the use of smartphone apps became more prevalent as it served as a means to access public services.
 
-Das tecnologias mapeadas, foram identificadas 28 iniciativas de enfrentamento à COVID-19 mediadas por meio desses recursos. O uso de aplicações em dispositivos móveis demanda, por parte dos usuários, diversos tipos de permissões de acesso a recursos ou dados do dispositivo, como localização, microfone, arquivos armazenados na galeria e até mesmo gerenciamento de chamadas telefônicas.
+From the mapped technologies, there were 28 initiatives to fight against COVID-19 that used apps. The use of these applications in mobile gadgets demands that the user grants many permissions of access to resources or data from the device, such as location, microfone, gallery storage and even calls.
 
-Algumas dessas permissões podem representar um risco em termos de proteção de dados pessoais ou de segurança da informação caso esses recursos sejam utilizados por agentes maliciosos ou finalidades secundárias não consentidas pelos usuários.
+Some of those permissions can represent a risk in terms of personal data protection or information security if the resources are used by malicious agents or for secondary purposes not consented by the user.
 
-As permissões que representam maior risco são aquelas que autorizam o acesso a dados pessoais armazenados nos dispositivos, ou que permitam a coleta de novos dados, e também permissões de acesso a recursos críticos do sistema.
+The permissions that represent a higher risk are the ones that authorize the access to personal data stored in the devices or allow the collection of new data, as well as permissions to access essential resources of the system.
