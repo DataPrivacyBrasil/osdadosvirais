@@ -6,12 +6,12 @@ idn: atores
 tipo: dados
 ---
 
-> ATORES
+> PLAYERS
 
-Durante a análise, observou-se que nem sempre um mesmo ator que fornece uma tecnologia ou produto para o público é o responsável pelo seu desenvolvimento.  A fim de captar os diferentes papéis exercidos pelos diferentes atores, foram definidas as seguintes categorias:
+During the analysis, it was observed that it is not always that the player supplying the technology to the public sector is also responsible for its development.  In order to identify the different roles of each player, they were divided in the following categories:
 
 
-| Fornecedores    | São os atores responsáveis pelo fornecimento de um produto ou serviço diretamente aos usuários e usuárias.                                              |
-| Desenvolvedores | São os atores responsáveis diretamente pela concepção e elaboração de uma determinada tecnologia ou plataforma a partir do qual um serviço é oferecido. |
+| Suppliers   | The players responsible for supplying the product or service directly to the users.                                              |
+| Developers | The players responsible for the direct conception and development of a determined technology or platform in which the service is provided. |
 
-Essas categorias não são exclusivas, de modo que um mesmo ator pode ser classificado nas duas formas.
+These categories are not excludent of each other, that is to say that the same player can be classified in both of them.
