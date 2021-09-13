@@ -1,5 +1,5 @@
 ---
-layout: texto
+layout: texto_eng
 ordem: 500
 #slider: sim
 idn: funcionalidades

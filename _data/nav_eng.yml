@@ -1,0 +1,26 @@
+- titulo: "Methodology and Foia Request"
+  url: "methodology"
+
+- titulo: "Introdução"
+  idn: "intro"
+
+- titulo: "Localidades e abrangência"
+  idn: "tech-estadual"
+
+- titulo: "Funcionalidades"
+  idn: "funcionalidades"
+
+- titulo: "Fornecedores e desenvolvedores"
+  idn: "fornecedores-devs"
+
+- titulo: "Créditos"
+  idn: "creditos"
+
+- titulo: "Relatório"
+  url: "https://drive.google.com/file/d/1-PmjyYubF65W_8LuOiYR2pwFQiRWEyZ3/view?usp=sharing"
+
+- titulo: "Repositório de dados"
+  url: "https://public.flourish.studio/visualisation/6751192/"
+
+- titulo: Associação Data Privacy Brasil de Pesquisa
+  url: "https://www.dataprivacybr.org/"

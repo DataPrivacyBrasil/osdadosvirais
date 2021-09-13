@@ -1,5 +1,5 @@
 ---
-layout: grafico_claro
+layout: grafico_claro_eng
 title: "TECHNOLOGIES PER STATE AND FUNCTIONALITY"
 descricao: "The graph allows the interactive visualization of the technologies’ functionalities placed in the states they were adopted, as well as the number of times they appeared."
 iframe: '<iframe class="d-desk" src="imagens/graficos/interativos/sunburst" onload="loadIframe()" scrolling="auto" width="100%" height="700px" frameborder="no" seamless allowfullscreen> </iframe>'

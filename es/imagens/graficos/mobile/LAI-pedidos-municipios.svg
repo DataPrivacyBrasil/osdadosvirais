@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 83.581 768 929.446" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.cls-1{fill:#030420;}.cls-2{fill:#1c4ef0;stroke:#1c1c37;}.cls-2,.cls-4,.cls-5,.cls-7{stroke-miterlimit:10;}.cls-2,.cls-4,.cls-5{stroke-width:0.91px;}.cls-3{fill:#83e084;}.cls-4,.cls-5,.cls-7{fill:none;}.cls-4{stroke:#1c4ef0;}.cls-5{stroke:#d3ee4d;}.cls-6{font-size:35.77px;text-decoration:underline;}.cls-10,.cls-6,.cls-9{fill:#fff;}.cls-10,.cls-6{font-family:OpenSans-Bold, Open Sans;font-weight:700;}.cls-7{stroke:#fff;stroke-width:0.65px;}.cls-8{fill:#1a5dff;}.cls-10,.cls-9{font-size:26px;}.cls-9{font-family:OpenSans, Open Sans;letter-spacing:0.04em;}</style>
+  </defs>
+  <rect class="cls-1" x="-66.49" y="-16.26" width="899.16" height="1651.45"/>
+  <path class="cls-2" d="M340.22,697.09,90,639.32c27.25-118,129.1-199,250.22-199Z"/>
+  <path class="cls-3" d="M340.22,697.09V440.29c141.83,0,256.8,115,256.8,256.8s-115,256.8-256.8,256.8-256.8-115-256.8-256.8A243.26,243.26,0,0,1,90,639.32Z"/>
+  <circle class="cls-1" cx="340.22" cy="697.09" r="238.96"/>
+  <path class="cls-4" d="M288.44,410.29A42.59,42.59,0,0,1,331,452.88"/>
+  <path class="cls-5" d="M560.82,911.3a42.59,42.59,0,0,1-42.59-42.59"/>
+  <text class="cls-6" transform="matrix(1, 0, 0, 1, 151.289993, 418.25)" style="white-space: pre;">21,36%</text>
+  <text class="cls-6" transform="matrix(1, 0, 0, 1, 566.51001, 922.669983)" style="white-space: pre;">78,64%</text>
+  <rect class="cls-3" x="49.29" y="240.28" width="96.43" height="10.93"/>
+  <rect class="cls-8" x="49.29" y="146.55" width="96.43" height="10.93"/>
+  <text class="cls-9" transform="matrix(1, 0, 0, 1, 169.009995, 157.869995)" style="white-space: pre;">E-SIC NÃO IDENTIFICADO <tspan x="0" y="31.2">OU COM PROBLEMA </tspan></text>
+  <text class="cls-10" transform="matrix(1, 0, 0, 1, 443.100006, 189.080002)" style="white-space: pre;">69</text>
+  <text class="cls-9" transform="matrix(1, 0, 0, 1, 169.009995, 251.610001)" style="white-space: pre;">POSSÍVEL CONCLUIR<tspan x="0" y="31.2">E ACOMPANHAR PEDIDO DE LAI </tspan></text>
+  <text class="cls-10" transform="matrix(1, 0, 0, 1, 593.27002, 282.809998)" style="white-space: pre;">254</text>
+</svg>

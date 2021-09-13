@@ -1,0 +1,52 @@
+<nav class="site-nav" id="navContainer">
+  <ul>
+    <li class="btn-close" id="closeMenu">&times;</li>
+    <li class="menu">
+      <ul>
+        {% for link in site.data.nav_lai_esp %}
+        {% if link.url %}
+        <li><a href="{{ link.url }}">{{ link.titulo }}</a></li>
+        {% else %}
+        <li><a href="#{{ link.idn }}">{{ link.titulo }}</a></li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </li>
+    <li class="social-menu">
+      <ul>
+        <ul>
+          <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fosdadosvirais.dataprivacybr.org&text=Quais foram as tecnologias que usam dados pessoais ou pseudonimizados adquiridas pelo Poder Público para combate à COVID-19 em 2020? Confira na plataforma Dados Virais:%20https%3A%2F%2Fosdadosvirais.dataprivacybr.org&via=dataprivacybr" target="_blank" title="Tweet"><img src="{{ site.baseurl }}/imagens/ico_twitter.svg" alt="ícone do twitter" title="twitter"></a></li>
+          <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fosdadosvirais.dataprivacybr.org&quote=O Poder Público brasileiro adquiriu 253 tecnologias que usam dados pessoais ou pseudonimizados para combate à COVID-19 em 2020. A plataforma Dados Virais, da @dataprivacybr, mapeou esses casos." title="Share on Facebook" target="_blank"><img src="{{ site.baseurl }}/imagens/ico_facebook.svg" alt="ícone do facebook" title="facebook"></a></li>
+          <li><a href="https://instagram.com/dataprivacybrasil"><img src="{{ site.baseurl }}/imagens/ico_instagram.svg" alt="ícone do instagram" title="instagram"></a></li>
+          <li><a href="https://www.youtube.com/channel/UCT8kR3_EIBSEqg8kLh6pXTw"><img src="{{ site.baseurl }}/imagens/ico_youtube.svg" alt="ícone do youtube" title="youtube"></a></li>
+        </ul>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+<nav class="social-nav" id="socialNav">
+  <ul>
+    <li class="btn-close" id="closeSocial">&times;</li>
+    <li class="social-menu">
+      <ul>
+        <li><a href="https://instagram.com/dataprivacybrasil"><img src="{{ site.baseurl }}/imagens/ico_instagram.svg" alt="ícone do instagram" title="instagram"></a></li>
+        <li><a href="https://twitter.com/DataPrivacyBr"><img src="{{ site.baseurl }}/imagens/ico_twitter.svg" alt="ícone do twitter" title="twitter"></a></li>
+        <li><a href="https://www.youtube.com/channel/UCT8kR3_EIBSEqg8kLh6pXTw"><img src="{{ site.baseurl }}/imagens/ico_youtube.svg" alt="ícone do youtube" title="youtube"></a></li>
+        <li><a href="https://www.facebook.com/DataPrivacy.br/"><img src="{{ site.baseurl }}/imagens/ico_facebook.svg" alt="ícone do facebook" title="facebook"></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+<header class="content">
+    <div class="__container">
+        <div class="ico">
+          <img src="{{ site.baseurl }}/imagens/ico_hamburguer.svg" alt="ícone de menu hambúguer" title="abrir menu" id="openMenu">
+        </div>
+        <a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/imagens/logo_dados-virais.png" alt="imagem do logo" title="dados virais" class="logo logo-lai"/></a>
+        <div class="ico compartilhar">
+          <img src="{{ site.baseurl }}/imagens/ico_compartilhar.svg" alt="ícone de compartilhar" title="compartilhar"  id="openSocial" style="margin-left:20px">
+        </div>
+    </div>
+</header>

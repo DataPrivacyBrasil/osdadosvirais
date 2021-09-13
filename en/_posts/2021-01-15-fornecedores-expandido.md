@@ -1,5 +1,5 @@
 ---
-layout: grafico_escuro
+layout: grafico_escuro_eng
 title: SUPPLIERS’ PROFILE
 descricao: "The graph indicates the concentration of technologies per state and the profile of the suppliers."
 img: "fornecedores-expandido"

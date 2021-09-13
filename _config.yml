@@ -10,6 +10,16 @@ author: Data Privacy Brasil
 description: > # "Write an awesome description for your new site here.
   UMA INVESTIGAÇÃO SOBRE TECNOLOGIAS BASEADAS EM DADOS PESSOAIS, USADAS NO COMBATE À COVID-19 NO BRASIL
 description_lai:
+
+### ELEMENTOS EM INGLÊS
+description_eng: "AN INVESTIGATION ABOUT TECHNOLOGIES BASED ON PERSONAL DATA"
+report_eng_link: "URL AQUI"
+
+### ELEMENTOS EM ESPANHOL
+description_esp: "An investigation about technologies based on personal data"
+report_esp_link: "URL AQUI"
+
+
 copyright: #
 credits: 'Copyright © 2021 | Data Privacy Brasil'
 

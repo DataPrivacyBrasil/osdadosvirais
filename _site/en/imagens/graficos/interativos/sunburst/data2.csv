@@ -1,0 +1,91 @@
+id,name,parent,value
+0,Brasil,,
+1,AC,Brasil,0
+2,AL,Brasil,0
+3,AM,Brasil,0
+4,BA,Brasil,0
+5,BR,Brasil,0
+6,CE,Brasil,0
+7,DF,Brasil,0
+8,ES,Brasil,0
+9,GO,Brasil,0
+10,MA,Brasil,0
+11,MG,Brasil,0
+12,MS,Brasil,0
+13,MT,Brasil,0
+14,PA,Brasil,0
+15,PB,Brasil,0
+16,PE,Brasil,0
+17,PI,Brasil,0
+18,PR,Brasil,0
+19,RJ,Brasil,0
+20,RN,Brasil,0
+21,RO,Brasil,0
+22,RS,Brasil,0
+23,SC,Brasil,0
+24,SE,Brasil,0
+25,SP,Brasil,0
+26,People flow monitoring,AC,1
+27,People flow monitoring,AL,1
+28,People flow monitoring,AM,1
+29,Telemedicine,AM,1
+30,People identification,BA,1
+31,Body temperature monitoring,BA,1
+32,People flow monitoring,BA,1
+33,Telemedicine,BA,1
+34,Telemedicine,BR,1
+35,Digitalization of public services,CE,1
+36,Information provision,CE,2
+37,People flow monitoring,CE,1
+38,Telemedicine,CE,2
+39,Information provision,DF,1
+40,Body temperature monitoring,DF,1
+41,Mask use monitoring,DF,1
+42,People flow monitoring,DF,1
+43,Telemedicine,DF,1
+44,Information provision,ES,1
+45,Body temperature monitoring,ES,2
+46,People flow monitoring,ES,3
+47,Telemedicine,ES,1
+48,People flow monitoring,GO,3
+50,Telemedicine,GO,1
+51,People flow monitoring,MA,1
+52,Mapping of COVID-19 evolution,MG,1
+53,People flow monitoring,MG,1
+54,Telemedicine,MG,1
+55,People flow monitoring,MS,1
+56,Contact tracking,MS,1
+57,People flow monitoring,MT,1
+58,People flow monitoring,PA,1
+59,People identification,PB,1
+60,Body temperature monitoring,PB,1
+61,People flow monitoring,PB,1
+62,Telemedicine,PB,1
+63,Telemedicine,PE,1
+64,People flow monitoring,PI,1
+65,Telemedicine,PI,2
+66,Information provision,PR,1
+67,People flow monitoring,PR,2
+68,Telemedicine,PR,3
+69,Digitalization of public services,RJ,1
+70,Information provision,RJ,1
+71,People identification,RJ,1
+72,Telemedicine,RJ,4
+73,People flow monitoring,RN,1
+74,Telemedicine,RN,2
+75,People flow monitoring,RO,1
+76,Data storage,RS,1
+77,Mapping of COVID-19 evolution,RS,1
+78,People flow monitoring,RS,2
+79,Telemedicine,RS,1
+80,Mapping of COVID-19 evolution,SC,5
+81,People flow monitoring,SC,1
+82,Contact tracking,SC,2
+83,Telemedicine,SC,2
+84,People flow monitoring,SE,2
+85,Telemedicine,SE,1
+86,People identification,SP,1
+87,Body temperature monitoring,SP,3
+88,People flow monitoring,SP,9
+89,Contact tracking,SP,1
+90,Telemedicine,SP,2

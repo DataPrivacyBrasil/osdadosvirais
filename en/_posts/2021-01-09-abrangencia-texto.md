@@ -1,5 +1,5 @@
 ---
-layout: texto
+layout: texto_eng
 ordem: 900
 #slider: sim
 idn: "fornecedores-devs"

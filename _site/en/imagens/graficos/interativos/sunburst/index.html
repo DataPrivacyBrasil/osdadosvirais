@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta
+      http-equiv="X-UA-Compatible"
+      content="IE=edge">
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0">
+    <title>Data</title>
+
+    <script
+      src="https://cdnjs.cloudflare.com/ajax/libs/d3/6.7.0/d3.min.js"
+      integrity="sha512-cd6CHE+XWDQ33ElJqsi0MdNte3S+bQY819f7p3NUHgwQQLXSKjE4cPZTeGNI+vaxZynk1wVU3hoHmow3m089wA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"></script>
+    <style>
+      @font-face {
+        font-family: 'informative';
+        src: url("../fonts/informative-regular.otf") format("opentype");
+      }
+
+      @font-face {
+        font-family: 'informative-bold';
+        font-weight: bold;
+        src: url("../fonts/informative-bold.otf") format("opentype");
+      }
+
+      .text {
+        font-family: "informative";
+      }
+
+      .text-bold {
+        font-family: "informative-bold";
+      }
+
+      .text-underline {
+        font-family: "informative-bold";
+        text-decoration: underline;
+      }
+
+      .sunbrust {
+        display: flex;
+        flex-direction: column;
+        font-family: "informative", sans-serif;
+      }
+
+      @media (min-width: 800px) {
+        .sunbrust {
+          flex-direction: row;
+        }
+      }
+
+      .sunbrust-nav {
+        width: 470px;
+        display: flex;
+        align-items: center;
+      }
+
+      #chart-sunbrust {
+        width: 100%;
+      }
+
+      .chart-sunbrust-nav-item {
+        font-family: "informative";
+        text-transform: uppercase;
+        font-size: 0.8rem;
+        padding: 0.25rem 0.5rem 0.25rem 1.5rem;
+        margin: 0.5rem 0;
+        border:none;
+        cursor: pointer;
+      }
+      .nav-title {
+        margin-bottom: 3rem;
+      }
+  </style>
+  </head>
+  <body>
+    <div class="sunbrust">
+      <div class="sunbrust-nav">
+        <div>
+          <div class="nav-title text-bold">BROWSE THROUGH FUNCIONALITY</div>
+          <div id="chart-sunbrust-nav"></div>
+        </div>
+      </div>
+      <div id="chart-sunbrust"></div>
+    </div>
+    <script src="./sunbrust.js"></script>
+  </body>
+</html>

@@ -1,5 +1,5 @@
 ---
-layout: grafico_escuro
+layout: grafico_escuro_eng
 title: "INFORMATION ACCESSED BY APPS IN ANDROID SYSTEMS"
 descricao: "The graph shows the permissions requested by the identified apps."
 iframe: '<iframe class="d-desk" src="imagens/graficos/interativos/sankey_android/index.html" onload="loadIframe()" scrolling="no" width="100%" height="1450px" frameborder="no" seamless allowfullscreen style="max-width:100%;margin:0 auto"> </iframe>'

@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="119.294 81.776 1731.518 803.536" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.cls-1{fill:#030420;}.cls-2{font-size:26.27px;letter-spacing:0.04em;}.cls-10,.cls-11,.cls-12,.cls-13,.cls-14,.cls-15,.cls-16,.cls-17,.cls-18,.cls-19,.cls-2,.cls-20,.cls-21,.cls-22,.cls-23,.cls-24,.cls-25,.cls-26,.cls-3,.cls-32,.cls-36,.cls-37,.cls-39,.cls-4,.cls-5,.cls-6,.cls-7,.cls-8,.cls-9{fill:#fff;}.cls-10,.cls-11,.cls-12,.cls-13,.cls-14,.cls-15,.cls-16,.cls-17,.cls-18,.cls-19,.cls-2,.cls-20,.cls-21,.cls-22,.cls-23,.cls-24,.cls-25,.cls-26,.cls-3,.cls-36,.cls-39,.cls-4,.cls-5,.cls-6,.cls-7,.cls-8,.cls-9{font-family:OpenSans, Open Sans;}.cls-3{font-size:25.12px;letter-spacing:0.04em;}.cls-4{font-size:27.4px;letter-spacing:0.04em;}.cls-5{font-size:15.6px;letter-spacing:0.04em;}.cls-6{font-size:24.34px;letter-spacing:0.04em;}.cls-7{font-size:25.19px;letter-spacing:0.04em;}.cls-8{font-size:20.63px;letter-spacing:0.04em;}.cls-9{font-size:19.94px;letter-spacing:0.04em;}.cls-10{font-size:26.16px;letter-spacing:0.04em;}.cls-11{font-size:25.25px;letter-spacing:0.04em;}.cls-12{font-size:24.13px;letter-spacing:0.04em;}.cls-13{font-size:24.75px;letter-spacing:0.04em;}.cls-14{font-size:24.11px;letter-spacing:0.04em;}.cls-15{font-size:22.61px;letter-spacing:0.04em;}.cls-16{font-size:20.53px;letter-spacing:0.04em;}.cls-17{font-size:21.72px;letter-spacing:0.04em;}.cls-18{font-size:22.29px;letter-spacing:0.04em;}.cls-19{font-size:26.18px;letter-spacing:0.04em;}.cls-20{font-size:23.93px;letter-spacing:0.04em;}.cls-21{font-size:23.78px;letter-spacing:0.04em;}.cls-22{font-size:24.55px;letter-spacing:0.04em;}.cls-23{font-size:20.84px;letter-spacing:0.04em;}.cls-24{font-size:22.06px;letter-spacing:0.04em;}.cls-25{font-size:25.27px;letter-spacing:0.04em;}.cls-26{font-size:22.91px;letter-spacing:0.04em;}.cls-27{fill:#3d60d9;}.cls-28{fill:#f8ed68;}.cls-29{fill:#87e089;}.cls-30{fill:#de4d4a;}.cls-31{fill:#8553a4;}.cls-33{fill:#2ca02c;}.cls-34,.cls-35{fill:none;stroke:#fff;stroke-miterlimit:10;}.cls-34{stroke-width:1.2px;}.cls-35{stroke-width:0.3px;}.cls-36,.cls-39{isolation:isolate;}.cls-36,.cls-37,.cls-39{font-size:18px;}.cls-36,.cls-40{letter-spacing:0.04em;}.cls-37,.cls-41{font-family:OpenSans-Bold, Open Sans;font-weight:700;}.cls-38{fill:#2255ed;}.cls-39{letter-spacing:0.04em;}.cls-41{font-size:22.35px;fill:#999;}</style>
+  </defs>
+  <g id="Layer_1" data-name="Layer 1">
+    <rect id="backgorund" class="cls-1" x="0.7" y="-3.19" width="1918.3" height="1002.57"/>
+  </g>
+  <g id="Layer_2" data-name="Layer 2">
+    <text class="cls-2" transform="translate(550.8 165.65)" style="white-space: pre;">SP</text>
+    <text class="cls-3" transform="translate(729.27 164.39)" style="white-space: pre;">SC</text>
+    <text class="cls-4" transform="translate(1091.34 165.97)" style="white-space: pre;">RJ</text>
+    <text class="cls-5" transform="translate(909.39 163.67)" style="white-space: pre;">BRASIL</text>
+    <text class="cls-6" transform="translate(1268.47 165.1)" style="white-space: pre;">PR</text>
+    <text class="cls-7" transform="translate(1450.1 164.41)" style="white-space: pre;">RS</text>
+    <text class="cls-8" transform="translate(1631.54 163.12)" style="white-space: pre;">GO</text>
+    <text class="cls-9" transform="translate(550.8 343.05)" style="white-space: pre;">MG</text>
+    <text class="cls-6" transform="translate(729.27 344.3)" style="white-space: pre;">PB</text>
+    <text class="cls-10" transform="translate(908.6 344.82)" style="white-space: pre;">ES</text>
+    <text class="cls-11" transform="translate(1090.95 344.56)" style="white-space: pre;">PE</text>
+    <text class="cls-12" transform="translate(1268.47 344.24)" style="white-space: pre;">BA</text>
+    <text class="cls-10" transform="translate(1450.1 344.82)" style="white-space: pre;">SE</text>
+    <text class="cls-13" transform="translate(1631.54 344.41)" style="white-space: pre;">CE</text>
+    <text class="cls-14" transform="translate(550.8 526.11)" style="white-space: pre;">DF</text>
+    <text class="cls-15" transform="translate(729.27 521.58)" style="white-space: pre;">PI</text>
+    <text class="cls-16" transform="translate(908.6 526.08)" style="white-space: pre;">AM</text>
+    <text class="cls-17" transform="translate(1090.95 526.42)" style="white-space: pre;">MS</text>
+    <text class="cls-18" transform="translate(1268.47 525.6)" style="white-space: pre;">RN</text>
+    <text class="cls-19" transform="translate(1450.1 526.7)" style="white-space: pre;">AL</text>
+    <text class="cls-20" transform="translate(1631.54 525.3)" style="white-space: pre;">RO</text>
+    <text class="cls-21" transform="translate(550.8 710.01)" style="white-space: pre;">AC</text>
+    <text class="cls-22" transform="translate(729.27 710.24)" style="white-space: pre;">AP</text>
+    <text class="cls-23" transform="translate(908.64 709.19)" style="white-space: pre;">MA</text>
+    <text class="cls-24" transform="translate(1090.99 709.53)" style="white-space: pre;">MT</text>
+    <text class="cls-25" transform="translate(1268.47 710.44)" style="white-space: pre;">PA</text>
+    <text class="cls-26" transform="translate(1450.15 709.77)" style="white-space: pre;">TO</text>
+    <circle class="cls-27" cx="667.4" cy="205.68" r="4.86"/>
+    <circle class="cls-27" cx="667.68" cy="253.47" r="4.86"/>
+    <circle class="cls-27" cx="657.79" cy="196.55" r="4.86"/>
+    <circle class="cls-27" cx="651.86" cy="270.11" r="4.86"/>
+    <circle class="cls-27" cx="588.01" cy="241.07" r="4.86"/>
+    <circle class="cls-28" cx="645.36" cy="248.09" r="4.86"/>
+    <circle class="cls-27" cx="597.62" cy="250.21" r="4.86"/>
+    <circle class="cls-27" cx="664.29" cy="218.56" r="4.86"/>
+    <circle class="cls-29" cx="591.12" cy="228.18" r="4.86"/>
+    <circle class="cls-27" cx="658.07" cy="244.34" r="4.86"/>
+    <circle class="cls-27" cx="641.97" cy="213.18" r="4.86"/>
+    <circle class="cls-27" cx="670.79" cy="240.59" r="4.86"/>
+    <circle class="cls-27" cx="626.15" cy="229.82" r="4.86"/>
+    <circle class="cls-27" cx="673.9" cy="227.7" r="4.86"/>
+    <circle class="cls-27" cx="610.33" cy="246.46" r="4.86"/>
+    <circle class="cls-30" cx="616.55" cy="220.69" r="4.86"/>
+    <circle class="cls-27" cx="619.93" cy="255.59" r="4.86"/>
+    <circle class="cls-27" cx="635.76" cy="238.95" r="4.86"/>
+    <circle class="cls-27" cx="619.65" cy="207.8" r="4.86"/>
+    <circle class="cls-29" cx="632.36" cy="204.05" r="4.86"/>
+    <circle class="cls-27" cx="623.05" cy="242.7" r="4.86"/>
+    <circle class="cls-29" cx="661.19" cy="231.45" r="4.86"/>
+    <circle class="cls-29" cx="648.47" cy="235.21" r="4.86"/>
+    <circle class="cls-29" cx="638.86" cy="226.07" r="4.86"/>
+    <circle class="cls-29" cx="613.45" cy="233.57" r="4.86"/>
+    <circle class="cls-29" cx="632.65" cy="251.84" r="4.86"/>
+    <circle class="cls-29" cx="654.68" cy="209.43" r="4.86"/>
+    <circle class="cls-31" cx="648.19" cy="187.41" r="4.86"/>
+    <circle class="cls-31" cx="635.47" cy="191.16" r="4.86"/>
+    <circle class="cls-31" cx="622.76" cy="194.91" r="4.86"/>
+    <circle class="cls-31" cx="645.08" cy="200.3" r="4.86"/>
+    <circle class="cls-27" cx="603.84" cy="224.43" r="4.86"/>
+    <circle class="cls-27" cx="629.26" cy="216.93" r="4.86"/>
+    <circle class="cls-27" cx="610.04" cy="198.66" r="4.86"/>
+    <circle class="cls-28" cx="600.73" cy="237.32" r="4.86"/>
+    <circle class="cls-27" cx="642.25" cy="260.98" r="4.86"/>
+    <circle class="cls-27" cx="651.57" cy="222.32" r="4.86"/>
+    <circle class="cls-29" cx="654.96" cy="257.22" r="4.86"/>
+    <circle class="cls-27" cx="606.94" cy="211.55" r="4.86"/>
+    <circle class="cls-32" cx="629.54" cy="264.73" r="4.86"/>
+    <circle class="cls-32" cx="594.23" cy="215.29" r="4.86"/>
+    <circle class="cls-32" cx="607.23" cy="259.34" r="4.86"/>
+    <circle class="cls-27" cx="821.54" cy="203.09" r="4.86"/>
+    <circle class="cls-29" cx="779.78" cy="222.18" r="4.86"/>
+    <circle class="cls-27" cx="840.26" cy="216.39" r="4.86"/>
+    <circle class="cls-28" cx="830.4" cy="250.06" r="4.86"/>
+    <circle class="cls-28" cx="804" cy="247.55" r="4.86"/>
+    <circle class="cls-29" cx="827.06" cy="215.14" r="4.86"/>
+    <circle class="cls-27" cx="822.71" cy="260.86" r="4.86"/>
+    <circle class="cls-27" cx="796.32" cy="258.35" r="4.86"/>
+    <circle class="cls-27" cx="832.57" cy="227.2" r="4.86"/>
+    <circle class="cls-30" cx="819.38" cy="225.94" r="4.86"/>
+    <circle class="cls-27" cx="824.89" cy="238" r="4.86"/>
+    <circle class="cls-27" cx="838.08" cy="239.26" r="4.86"/>
+    <circle class="cls-29" cx="785.29" cy="234.24" r="4.86"/>
+    <circle class="cls-29" cx="809.51" cy="259.61" r="4.86"/>
+    <circle class="cls-29" cx="813.86" cy="213.89" r="4.86"/>
+    <circle class="cls-29" cx="777.61" cy="245.04" r="4.86"/>
+    <circle class="cls-27" cx="798.49" cy="235.5" r="4.86"/>
+    <circle class="cls-33" cx="817.2" cy="248.81" r="4.86"/>
+    <circle class="cls-33" cx="787.46" cy="211.38" r="4.86"/>
+    <circle class="cls-27" cx="811.69" cy="236.75" r="4.86"/>
+    <circle class="cls-27" cx="808.34" cy="201.83" r="4.86"/>
+    <circle class="cls-27" cx="806.18" cy="224.69" r="4.86"/>
+    <circle class="cls-27" cx="800.66" cy="212.63" r="4.86"/>
+    <circle class="cls-27" cx="792.98" cy="223.44" r="4.86"/>
+    <circle class="cls-27" cx="790.81" cy="246.3" r="4.86"/>
+    <circle class="cls-27" cx="999.01" cy="256.77" r="4.86"/>
+    <circle class="cls-30" cx="965.39" cy="225.49" r="4.86"/>
+    <circle class="cls-27" cx="1020.96" cy="250.03" r="4.86"/>
+    <circle class="cls-27" cx="1022.21" cy="214.98" r="4.86"/>
+    <circle class="cls-27" cx="995.12" cy="244.1" r="4.86"/>
+    <circle class="cls-27" cx="1018.31" cy="202.3" r="4.86"/>
+    <circle class="cls-33" cx="1017.07" cy="237.36" r="4.86"/>
+    <circle class="cls-33" cx="1009.29" cy="212.01" r="4.86"/>
+    <circle class="cls-29" cx="991.23" cy="231.42" r="4.86"/>
+    <circle class="cls-29" cx="969.28" cy="238.16" r="4.86"/>
+    <circle class="cls-29" cx="1004.15" cy="234.39" r="4.86"/>
+    <circle class="cls-29" cx="1000.26" cy="221.72" r="4.86"/>
+    <circle class="cls-27" cx="996.37" cy="209.04" r="4.86"/>
+    <circle class="cls-28" cx="978.31" cy="228.45" r="4.86"/>
+    <circle class="cls-27" cx="1026.1" cy="227.65" r="4.86"/>
+    <circle class="cls-27" cx="1013.18" cy="224.68" r="4.86"/>
+    <circle class="cls-28" cx="974.41" cy="215.78" r="4.86"/>
+    <circle class="cls-27" cx="982.2" cy="241.13" r="4.86"/>
+    <circle class="cls-27" cx="1008.04" cy="247.06" r="4.86"/>
+    <circle class="cls-27" cx="986.09" cy="253.8" r="4.86"/>
+    <circle class="cls-32" cx="983.45" cy="206.07" r="4.86"/>
+    <circle class="cls-27" cx="987.34" cy="218.75" r="4.86"/>
+    <circle class="cls-27" cx="1199.84" cy="248.67" r="4.86"/>
+    <circle class="cls-27" cx="1145.63" cy="228.64" r="4.86"/>
+    <circle class="cls-29" cx="1158.87" cy="227.92" r="4.86"/>
+    <circle class="cls-27" cx="1157.62" cy="204.98" r="4.86"/>
+    <circle class="cls-27" cx="1160.12" cy="250.85" r="4.86"/>
+    <circle class="cls-27" cx="1180.61" cy="261.22" r="4.86"/>
+    <circle class="cls-29" cx="1170.85" cy="204.26" r="4.86"/>
+    <circle class="cls-30" cx="1173.36" cy="250.12" r="4.86"/>
+    <circle class="cls-30" cx="1164.86" cy="216.09" r="4.86"/>
+    <circle class="cls-30" cx="1186.6" cy="249.39" r="4.86"/>
+    <circle class="cls-30" cx="1151.63" cy="216.81" r="4.86"/>
+    <circle class="cls-30" cx="1152.88" cy="239.74" r="4.86"/>
+    <circle class="cls-29" cx="1178.1" cy="215.36" r="4.86"/>
+    <circle class="cls-27" cx="1205.83" cy="236.85" r="4.86"/>
+    <circle class="cls-29" cx="1172.11" cy="227.19" r="4.86"/>
+    <circle class="cls-29" cx="1198.59" cy="225.74" r="4.86"/>
+    <circle class="cls-27" cx="1192.59" cy="237.57" r="4.86"/>
+    <circle class="cls-27" cx="1191.34" cy="214.64" r="4.86"/>
+    <circle class="cls-27" cx="1185.35" cy="226.47" r="4.86"/>
+    <circle class="cls-32" cx="1179.35" cy="238.29" r="4.86"/>
+    <circle class="cls-32" cx="1166.12" cy="239.02" r="4.86"/>
+    <circle class="cls-27" cx="1184.09" cy="203.54" r="4.86"/>
+    <circle class="cls-27" cx="1337.6" cy="214.83" r="4.86"/>
+    <circle class="cls-30" cx="1344.15" cy="203.3" r="4.86"/>
+    <circle class="cls-30" cx="1351.2" cy="260.66" r="4.86"/>
+    <circle class="cls-28" cx="1331.06" cy="226.36" r="4.86"/>
+    <circle class="cls-27" cx="1377.55" cy="237.5" r="4.86"/>
+    <circle class="cls-27" cx="1350.86" cy="214.73" r="4.86"/>
+    <circle class="cls-27" cx="1337.77" cy="237.79" r="4.86"/>
+    <circle class="cls-27" cx="1331.23" cy="249.32" r="4.86"/>
+    <circle class="cls-27" cx="1357.41" cy="203.2" r="4.86"/>
+    <circle class="cls-27" cx="1377.38" cy="214.54" r="4.86"/>
+    <circle class="cls-27" cx="1364.12" cy="214.63" r="4.86"/>
+    <circle class="cls-27" cx="1344.32" cy="226.26" r="4.86"/>
+    <circle class="cls-29" cx="1370.84" cy="226.07" r="4.86"/>
+    <circle class="cls-29" cx="1371.01" cy="249.03" r="4.86"/>
+    <circle class="cls-29" cx="1357.58" cy="226.16" r="4.86"/>
+    <circle class="cls-29" cx="1357.75" cy="249.13" r="4.86"/>
+    <circle class="cls-29" cx="1364.29" cy="237.59" r="4.86"/>
+    <circle class="cls-27" cx="1344.49" cy="249.22" r="4.86"/>
+    <circle class="cls-27" cx="1364.46" cy="260.56" r="4.86"/>
+    <circle class="cls-32" cx="1351.03" cy="237.69" r="4.86"/>
+    <circle class="cls-27" cx="1553.68" cy="242.79" r="4.86"/>
+    <circle class="cls-29" cx="1551.08" cy="229.79" r="4.86"/>
+    <circle class="cls-27" cx="1528.57" cy="234.3" r="4.86"/>
+    <circle class="cls-27" cx="1541.13" cy="238.54" r="4.86"/>
+    <circle class="cls-27" cx="1506.05" cy="238.81" r="4.86"/>
+    <circle class="cls-27" cx="1523.36" cy="208.3" r="4.86"/>
+    <circle class="cls-27" cx="1518.61" cy="243.05" r="4.86"/>
+    <circle class="cls-27" cx="1513.4" cy="217.05" r="4.86"/>
+    <circle class="cls-32" cx="1538.52" cy="225.55" r="4.86"/>
+    <circle class="cls-27" cx="1531.17" cy="247.3" r="4.86"/>
+    <circle class="cls-27" cx="1548.48" cy="216.79" r="4.86"/>
+    <circle class="cls-28" cx="1535.92" cy="212.55" r="4.86"/>
+    <circle class="cls-27" cx="1516.01" cy="230.05" r="4.86"/>
+    <circle class="cls-29" cx="1525.96" cy="221.3" r="4.86"/>
+    <circle class="cls-27" cx="1545.87" cy="203.79" r="4.86"/>
+    <circle class="cls-27" cx="1729.73" cy="246.28" r="4.86"/>
+    <circle class="cls-27" cx="1716.72" cy="213.7" r="4.86"/>
+    <circle class="cls-27" cx="1705.56" cy="220.86" r="4.86"/>
+    <circle class="cls-27" cx="1718.57" cy="253.44" r="4.86"/>
+    <circle class="cls-27" cx="1706.79" cy="247.35" r="4.86"/>
+    <circle class="cls-27" cx="1729.12" cy="233.04" r="4.86"/>
+    <circle class="cls-30" cx="1717.95" cy="240.19" r="4.86"/>
+    <circle class="cls-27" cx="1728.5" cy="219.79" r="4.86"/>
+    <circle class="cls-29" cx="1706.18" cy="234.1" r="4.86"/>
+    <circle class="cls-29" cx="1694.4" cy="228.01" r="4.86"/>
+    <circle class="cls-29" cx="1695.01" cy="241.25" r="4.86"/>
+    <circle class="cls-29" cx="1704.94" cy="207.62" r="4.86"/>
+    <circle class="cls-29" cx="1717.34" cy="226.95" r="4.86"/>
+    <circle class="cls-27" cx="614.49" cy="413.46" r="4.86"/>
+    <circle class="cls-27" cx="633.86" cy="431.58" r="4.86"/>
+    <circle class="cls-27" cx="617.5" cy="400.55" r="4.86"/>
+    <circle class="cls-27" cx="649.55" cy="414.82" r="4.86"/>
+    <circle class="cls-30" cx="620.52" cy="387.64" r="4.86"/>
+    <circle class="cls-27" cx="627.18" cy="409.61" r="4.86"/>
+    <circle class="cls-33" cx="642.88" cy="392.84" r="4.86"/>
+    <circle class="cls-29" cx="639.87" cy="405.76" r="4.86"/>
+    <circle class="cls-27" cx="630.19" cy="396.7" r="4.86"/>
+    <circle class="cls-27" cx="636.86" cy="418.67" r="4.86"/>
+    <circle class="cls-29" cx="624.18" cy="422.52" r="4.86"/>
+    <circle class="cls-27" cx="652.56" cy="401.91" r="4.86"/>
+    <circle class="cls-27" cx="819.2" cy="394.67" r="4.86"/>
+    <circle class="cls-29" cx="796.65" cy="399.03" r="4.86"/>
+    <circle class="cls-27" cx="811.7" cy="416.38" r="4.86"/>
+    <circle class="cls-27" cx="814.21" cy="429.4" r="4.86"/>
+    <circle class="cls-27" cx="809.18" cy="403.36" r="4.86"/>
+    <circle class="cls-27" cx="799.17" cy="412.05" r="4.86"/>
+    <circle class="cls-29" cx="821.72" cy="407.69" r="4.86"/>
+    <circle class="cls-27" cx="801.68" cy="425.06" r="4.86"/>
+    <circle class="cls-27" cx="824.23" cy="420.71" r="4.86"/>
+    <circle class="cls-27" cx="1008.4" cy="418.79" r="4.86"/>
+    <circle class="cls-27" cx="976.29" cy="404.65" r="4.86"/>
+    <circle class="cls-27" cx="995.18" cy="417.71" r="4.86"/>
+    <circle class="cls-27" cx="1002.72" cy="406.8" r="4.86"/>
+    <circle class="cls-27" cx="989.5" cy="405.73" r="4.86"/>
+    <circle class="cls-27" cx="997.04" cy="394.82" r="4.86"/>
+    <circle class="cls-27" cx="981.96" cy="416.63" r="4.86"/>
+    <circle class="cls-27" cx="987.64" cy="428.62" r="4.86"/>
+    <circle class="cls-27" cx="1180.26" cy="427.9" r="4.86"/>
+    <circle class="cls-27" cx="1190.19" cy="407.19" r="4.86"/>
+    <circle class="cls-27" cx="1178.24" cy="401.46" r="4.86"/>
+    <circle class="cls-27" cx="1166.28" cy="395.73" r="4.86"/>
+    <circle class="cls-27" cx="1156.35" cy="416.43" r="4.86"/>
+    <circle class="cls-29" cx="1167.29" cy="408.95" r="4.86"/>
+    <circle class="cls-29" cx="1168.31" cy="422.17" r="4.86"/>
+    <circle class="cls-30" cx="1179.25" cy="414.68" r="4.86"/>
+    <circle class="cls-29" cx="1362.73" cy="425.62" r="4.86"/>
+    <circle class="cls-29" cx="1364.1" cy="402.69" r="4.86"/>
+    <circle class="cls-27" cx="1370.03" cy="414.55" r="4.86"/>
+    <circle class="cls-29" cx="1350.86" cy="401.9" r="4.86"/>
+    <circle class="cls-31" cx="1356.8" cy="413.76" r="4.86"/>
+    <circle class="cls-31" cx="1343.56" cy="412.97" r="4.86"/>
+    <circle class="cls-27" cx="1349.49" cy="424.83" r="4.86"/>
+    <circle class="cls-27" cx="1547.28" cy="416.56" r="4.86"/>
+    <circle class="cls-29" cx="1524.54" cy="419.75" r="4.86"/>
+    <circle class="cls-32" cx="1536.83" cy="424.72" r="4.86"/>
+    <circle class="cls-27" cx="1522.7" cy="406.61" r="4.86"/>
+    <circle class="cls-27" cx="1545.44" cy="403.43" r="4.86"/>
+    <circle class="cls-29" cx="1533.15" cy="398.46" r="4.86"/>
+    <circle class="cls-27" cx="1534.99" cy="411.59" r="4.86"/>
+    <circle class="cls-29" cx="1706.72" cy="420.48" r="4.86"/>
+    <circle class="cls-27" cx="1707.47" cy="397.53" r="4.86"/>
+    <circle class="cls-29" cx="1713.72" cy="409.22" r="4.86"/>
+    <circle class="cls-27" cx="1719.97" cy="420.92" r="4.86"/>
+    <circle class="cls-27" cx="1720.72" cy="397.96" r="4.86"/>
+    <circle class="cls-29" cx="1700.47" cy="408.79" r="4.86"/>
+    <circle class="cls-29" cx="1726.97" cy="409.66" r="4.86"/>
+    <circle class="cls-27" cx="632.94" cy="579.92" r="4.86"/>
+    <circle class="cls-29" cx="641.98" cy="589.63" r="4.86"/>
+    <circle class="cls-32" cx="638.09" cy="602.31" r="4.86"/>
+    <circle class="cls-27" cx="629.05" cy="592.6" r="4.86"/>
+    <circle class="cls-27" cx="620.02" cy="582.9" r="4.86"/>
+    <circle class="cls-27" cx="625.17" cy="605.28" r="4.86"/>
+    <circle class="cls-27" cx="817.74" cy="597.29" r="4.86"/>
+    <circle class="cls-29" cx="805.97" cy="603.4" r="4.86"/>
+    <circle class="cls-32" cx="829.51" cy="591.18" r="4.86"/>
+    <circle class="cls-27" cx="806.56" cy="590.16" r="4.86"/>
+    <circle class="cls-27" cx="807.15" cy="576.91" r="4.86"/>
+    <circle class="cls-27" cx="818.33" cy="584.05" r="4.86"/>
+    <circle class="cls-27" cx="999.73" cy="583.25" r="4.86"/>
+    <circle class="cls-29" cx="986.58" cy="584.94" r="4.86"/>
+    <circle class="cls-29" cx="985.24" cy="598.13" r="4.86"/>
+    <circle class="cls-27" cx="998.39" cy="596.45" r="4.86"/>
+    <circle class="cls-27" cx="1185.1" cy="590.32" r="4.86"/>
+    <circle class="cls-29" cx="1174.29" cy="582.64" r="4.86"/>
+    <circle class="cls-29" cx="1166.65" cy="593.47" r="4.86"/>
+    <circle class="cls-29" cx="1177.46" cy="601.15" r="4.86"/>
+    <circle class="cls-27" cx="1345.6" cy="594.34" r="4.86"/>
+    <circle class="cls-29" cx="1358.2" cy="598.47" r="4.86"/>
+    <circle class="cls-27" cx="1350.02" cy="581.84" r="4.86"/>
+    <circle class="cls-32" cx="1362.62" cy="585.97" r="4.86"/>
+    <circle class="cls-27" cx="1540.93" cy="593.52" r="4.86"/>
+    <circle class="cls-27" cx="1527.67" cy="593.8" r="4.86"/>
+    <circle class="cls-32" cx="1534.06" cy="582.18" r="4.86"/>
+    <circle class="cls-27" cx="1717.24" cy="586.3" r="4.86"/>
+    <circle class="cls-27" cx="1710.61" cy="597.78" r="4.86"/>
+    <circle class="cls-27" cx="812.69" cy="771.47" r="4.86"/>
+    <circle class="cls-27" cx="993.72" cy="771.65" r="4.86"/>
+    <circle class="cls-27" cx="1173.02" cy="767.49" r="4.86"/>
+    <circle class="cls-27" cx="1354.81" cy="770.19" r="4.86"/>
+    <g id="cicles">
+      <circle class="cls-29" cx="1533.43" cy="771.99" r="4.86"/>
+    </g>
+    <circle class="cls-27" cx="629.25" cy="773.5" r="4.86"/>
+    <circle class="cls-27" cx="639.39" cy="764.95" r="4.86"/>
+    <rect class="cls-34" x="903.17" y="139.19" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="542.37" y="139.19" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="722.77" y="139.19" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="1083.17" y="139.19" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="1263.96" y="139.19" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="1444.4" y="139.19" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="1624.24" y="139.19" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="542.37" y="319.41" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="902.38" y="319.41" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="1082.78" y="319.41" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="1263.96" y="319.41" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="1444.4" y="319.41" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="1624.24" y="319.41" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="542.37" y="499.7" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="722.77" y="499.7" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="902.38" y="499.7" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="1082.78" y="499.7" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="1263.96" y="499.7" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="1444.4" y="499.7" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="542.37" y="679.99" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="722.77" y="679.99" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="902.38" y="679.99" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="1082.78" y="679.99" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="1263.96" y="679.99" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="1444.4" y="679.99" width="180.4" height="180.4"/>
+    <rect class="cls-35" x="1624.24" y="499.7" width="180.4" height="180.4"/>
+    <text class="cls-36" transform="translate(203.49 276.04)" style="white-space: pre;">EMPRESA PRIVADA </text>
+    <text class="cls-37" transform="translate(378.22 276.04)" style="white-space: pre;">148</text>
+    <rect class="cls-38" x="148.7" y="241.29" width="94.71" height="10.23"/>
+    <text class="cls-36" transform="translate(203.49 350.64)" style="white-space: pre;">EMPRESA PÚBLICA </text>
+    <text class="cls-37" transform="translate(377.33 350.64)" style="white-space: pre;">8</text>
+    <rect class="cls-28" x="148.7" y="314.51" width="94.71" height="10.23"/>
+    <text class="cls-36" transform="translate(203.49 424.5)" style="white-space: pre;">INICIATIVA <tspan x="0" y="24.77">PÚBLICO-PRIVADA </tspan></text>
+    <text class="cls-37" transform="translate(375.16 449.27)" style="white-space: pre;">5</text>
+    <rect class="cls-33" x="148.7" y="387.73" width="94.71" height="10.23"/>
+    <text class="cls-39" transform="translate(203.49 516.32)" style="white-space: pre;">INSTITUIÇÃO DE ENSINO <tspan class="cls-40"><tspan x="0" y="25.2">SUPERIOR PÚBLICA </tspan></tspan></text>
+    <text class="cls-37" transform="translate(383.69 541.52)" style="white-space: pre;">13</text>
+    <rect class="cls-32" x="148.7" y="480.8" width="94.71" height="10.23"/>
+    <text class="cls-36" transform="translate(203.49 617.22)" style="white-space: pre;">ORGÃO PÚBLICO </text>
+    <text class="cls-37" transform="translate(362.61 617.22)" style="white-space: pre;">60</text>
+    <rect class="cls-29" x="148.7" y="579.23" width="94.71" height="10.23"/>
+    <text class="cls-36" transform="translate(203.49 691.97)" style="white-space: pre;">INSTITUIÇÃO PRIVADA <tspan x="0" y="25.2">S/ FINS LUCRATIVOS </tspan></text>
+    <text class="cls-37" transform="translate(392.16 717.17)" style="white-space: pre;">13</text>
+    <rect class="cls-30" x="148.7" y="655.89" width="94.71" height="10.23"/>
+    <text class="cls-36" transform="translate(203.49 797.77)" style="white-space: pre;"><tspan>NÃO INFORMADA  </tspan></text>
+    <text class="cls-37" transform="translate(373.21 797.77)" style="white-space: pre;">6</text>
+    <rect class="cls-31" x="148.7" y="763.75" width="94.71" height="10.23"/>
+    <text class="cls-41" transform="translate(1767.91 310.21)" style="white-space: pre;">13</text>
+    <text class="cls-41" transform="translate(1780.67 484.92)" style="white-space: pre;">7</text>
+    <text class="cls-41" transform="translate(1780.67 667.19)" style="white-space: pre;">2</text>
+    <text class="cls-41" transform="translate(1411.23 310.21)" style="white-space: pre;">20</text>
+    <text class="cls-41" transform="translate(1423.99 484.92)" style="white-space: pre;">7</text>
+    <text class="cls-41" transform="translate(1423.99 667.19)" style="white-space: pre;">4</text>
+    <text class="cls-41" transform="translate(1423.99 841.9)" style="white-space: pre;">1</text>
+    <text class="cls-41" transform="translate(1591.44 310.21)" style="white-space: pre;">15</text>
+    <text class="cls-41" transform="translate(1604.19 484.92)" style="white-space: pre;">7</text>
+    <text class="cls-41" transform="translate(1592.95 667.19)" style="white-space: pre;">3</text>
+    <text class="cls-41" transform="translate(1604.19 841.9)" style="white-space: pre;">1</text>
+    <text class="cls-41" transform="translate(1049.25 310.21)" style="white-space: pre;">22</text>
+    <text class="cls-41" transform="translate(1062.01 484.92)" style="white-space: pre;">8</text>
+    <text class="cls-41" transform="translate(1050.76 667.19)" style="white-space: pre;">4</text>
+    <text class="cls-41" transform="translate(1062.01 841.9)" style="white-space: pre;">1</text>
+    <text class="cls-41" transform="translate(1229.45 310.21)" style="white-space: pre;">22</text>
+    <text class="cls-41" transform="translate(1242.21 484.92)" style="white-space: pre;">8</text>
+    <text class="cls-41" transform="translate(1242.21 667.19)" style="white-space: pre;">4</text>
+    <text class="cls-41" transform="translate(1242.21 841.9)" style="white-space: pre;">1</text>
+    <text class="cls-41" transform="translate(687.74 310.21)" style="white-space: pre;">42</text>
+    <text class="cls-41" transform="translate(687.74 484.92)" style="white-space: pre;">12</text>
+    <text class="cls-41" transform="translate(700.49 667.19)" style="white-space: pre;">6</text>
+    <text class="cls-41" transform="translate(689.25 841.9)" style="white-space: pre;">2</text>
+    <text class="cls-41" transform="translate(867.94 310.21)" style="white-space: pre;">25</text>
+    <text class="cls-41" transform="translate(880.7 484.92)" style="white-space: pre;">9</text>
+    <text class="cls-41" transform="translate(880.7 667.19)" style="white-space: pre;">6</text>
+    <text class="cls-41" transform="translate(880.7 841.9)" style="white-space: pre;">1</text>
+    <path d="M 865.181 1187.45 L 850.021 1187.45 L 850.021 1185.73 L 852.251 1185.34 L 852.251 1169.66 L 850.021 1169.28 L 850.021 1167.54 L 864.761 1167.54 L 864.761 1172.33 L 862.601 1172.33 L 862.291 1169.62 L 854.941 1169.62 L 854.941 1176.1 L 862.281 1176.1 L 862.281 1178.22 L 854.941 1178.22 L 854.941 1185.43 L 862.731 1185.43 L 863.031 1182.68 L 865.181 1182.68 L 865.181 1187.45 ZM 874.923 1187.45 L 867.773 1187.45 L 867.773 1185.73 L 870.003 1185.34 L 870.003 1174.78 L 867.773 1174.39 L 867.773 1172.66 L 872.413 1172.66 L 872.603 1174.86 C 873.097 1174.073 873.713 1173.463 874.453 1173.03 C 875.193 1172.597 876.04 1172.38 876.993 1172.38 C 878.587 1172.38 879.82 1172.847 880.693 1173.78 C 881.567 1174.72 882.003 1176.163 882.003 1178.11 L 882.003 1185.34 L 884.233 1185.73 L 884.233 1187.45 L 877.083 1187.45 L 877.083 1185.73 L 879.313 1185.34 L 879.313 1178.17 C 879.313 1176.863 879.057 1175.937 878.543 1175.39 C 878.03 1174.843 877.243 1174.57 876.183 1174.57 C 875.41 1174.57 874.723 1174.757 874.123 1175.13 C 873.53 1175.503 873.053 1176.013 872.693 1176.66 L 872.693 1185.34 L 874.923 1185.73 L 874.923 1187.45 ZM 890.805 1187.68 C 889.711 1187.68 888.845 1187.36 888.205 1186.72 C 887.565 1186.073 887.245 1185.047 887.245 1183.64 L 887.245 1174.65 L 884.905 1174.65 L 884.905 1172.66 L 887.245 1172.66 L 887.245 1169.09 L 889.935 1169.09 L 889.935 1172.66 L 893.145 1172.66 L 893.145 1174.65 L 889.935 1174.65 L 889.935 1183.64 C 889.935 1184.347 890.075 1184.87 890.355 1185.21 C 890.641 1185.543 891.021 1185.71 891.495 1185.71 C 891.815 1185.71 892.168 1185.68 892.555 1185.62 C 892.948 1185.567 893.255 1185.517 893.475 1185.47 L 893.845 1187.23 C 893.451 1187.35 892.971 1187.457 892.405 1187.55 C 891.831 1187.637 891.298 1187.68 890.805 1187.68 ZM 902.03 1187.74 C 900.663 1187.74 899.473 1187.427 898.46 1186.8 C 897.453 1186.173 896.673 1185.307 896.12 1184.2 C 895.567 1183.087 895.29 1181.8 895.29 1180.34 L 895.29 1179.74 C 895.29 1178.333 895.58 1177.077 896.16 1175.97 C 896.74 1174.863 897.51 1173.99 898.47 1173.35 C 899.43 1172.703 900.48 1172.38 901.62 1172.38 C 902.953 1172.38 904.067 1172.653 904.96 1173.2 C 905.86 1173.747 906.537 1174.517 906.99 1175.51 C 907.45 1176.497 907.68 1177.66 907.68 1179 L 907.68 1180.68 L 898.08 1180.68 L 898.04 1180.75 C 898.06 1181.697 898.227 1182.537 898.54 1183.27 C 898.853 1184.003 899.307 1184.58 899.9 1185 C 900.493 1185.42 901.203 1185.63 902.03 1185.63 C 902.943 1185.63 903.743 1185.5 904.43 1185.24 C 905.117 1184.98 905.713 1184.623 906.22 1184.17 L 907.27 1185.92 C 906.743 1186.427 906.043 1186.857 905.17 1187.21 C 904.297 1187.563 903.25 1187.74 902.03 1187.74 Z M 898.14 1178.51 L 898.16 1178.58 L 904.99 1178.58 L 904.99 1178.22 C 904.99 1177.513 904.863 1176.877 904.61 1176.31 C 904.357 1175.75 903.983 1175.31 903.49 1174.99 C 902.99 1174.663 902.367 1174.5 901.62 1174.5 C 901.02 1174.5 900.473 1174.677 899.98 1175.03 C 899.487 1175.383 899.08 1175.86 898.76 1176.46 C 898.447 1177.06 898.24 1177.743 898.14 1178.51 ZM 916.886 1187.45 L 909.736 1187.45 L 909.736 1185.73 L 911.966 1185.34 L 911.966 1174.78 L 909.736 1174.39 L 909.736 1172.66 L 914.376 1172.66 L 914.606 1174.54 L 914.636 1174.8 C 915.056 1174.047 915.573 1173.457 916.186 1173.03 C 916.799 1172.597 917.503 1172.38 918.296 1172.38 C 918.583 1172.38 918.873 1172.407 919.166 1172.46 C 919.466 1172.507 919.679 1172.553 919.806 1172.6 L 919.446 1175.1 L 917.576 1174.99 C 916.863 1174.95 916.266 1175.113 915.786 1175.48 C 915.299 1175.847 914.926 1176.34 914.666 1176.96 L 914.666 1185.34 L 916.886 1185.73 L 916.886 1187.45 ZM 931.608 1193.42 C 931.401 1193.42 931.128 1193.397 930.788 1193.35 C 930.454 1193.297 930.198 1193.25 930.018 1193.21 L 930.288 1191.09 C 930.441 1191.103 930.654 1191.117 930.928 1191.13 C 931.201 1191.15 931.388 1191.16 931.488 1191.16 C 932.061 1191.16 932.528 1190.94 932.888 1190.5 C 933.248 1190.06 933.584 1189.463 933.898 1188.71 L 934.538 1187.15 L 929.298 1174.61 L 927.718 1174.39 L 927.718 1172.66 L 933.928 1172.66 L 933.928 1174.39 L 932.128 1174.67 L 935.018 1182.06 L 935.718 1183.99 L 935.798 1183.99 L 939.218 1174.67 L 937.328 1174.39 L 937.328 1172.66 L 943.408 1172.66 L 943.408 1174.39 L 941.878 1174.61 L 936.058 1189.72 C 935.784 1190.433 935.454 1191.07 935.068 1191.63 C 934.681 1192.19 934.204 1192.63 933.638 1192.95 C 933.078 1193.263 932.401 1193.42 931.608 1193.42 ZM 951.04 1187.74 C 949.673 1187.74 948.493 1187.417 947.5 1186.77 C 946.513 1186.13 945.75 1185.243 945.21 1184.11 C 944.677 1182.977 944.41 1181.68 944.41 1180.22 L 944.41 1179.92 C 944.41 1178.46 944.677 1177.163 945.21 1176.03 C 945.75 1174.89 946.513 1173.997 947.5 1173.35 C 948.493 1172.703 949.663 1172.38 951.01 1172.38 C 952.377 1172.38 953.553 1172.703 954.54 1173.35 C 955.533 1173.997 956.297 1174.887 956.83 1176.02 C 957.37 1177.153 957.64 1178.453 957.64 1179.92 L 957.64 1180.22 C 957.64 1181.687 957.37 1182.987 956.83 1184.12 C 956.297 1185.253 955.537 1186.14 954.55 1186.78 C 953.563 1187.42 952.393 1187.74 951.04 1187.74 Z M 951.04 1185.63 C 951.893 1185.63 952.61 1185.397 953.19 1184.93 C 953.77 1184.457 954.207 1183.813 954.5 1183 C 954.8 1182.187 954.95 1181.26 954.95 1180.22 L 954.95 1179.92 C 954.95 1178.88 954.8 1177.95 954.5 1177.13 C 954.207 1176.317 953.767 1175.677 953.18 1175.21 C 952.6 1174.737 951.877 1174.5 951.01 1174.5 C 950.15 1174.5 949.43 1174.737 948.85 1175.21 C 948.263 1175.677 947.827 1176.317 947.54 1177.13 C 947.247 1177.95 947.1 1178.88 947.1 1179.92 L 947.1 1180.22 C 947.1 1181.26 947.247 1182.187 947.54 1183 C 947.827 1183.813 948.267 1184.457 948.86 1184.93 C 949.447 1185.397 950.173 1185.63 951.04 1185.63 ZM 966.224 1187.74 C 964.618 1187.74 963.364 1187.223 962.464 1186.19 C 961.564 1185.163 961.114 1183.56 961.114 1181.38 L 961.114 1174.78 L 959.414 1174.39 L 959.414 1172.66 L 961.114 1172.66 L 963.804 1172.66 L 963.804 1181.41 C 963.804 1182.983 964.038 1184.067 964.504 1184.66 C 964.964 1185.253 965.688 1185.55 966.674 1185.55 C 967.634 1185.55 968.424 1185.357 969.044 1184.97 C 969.671 1184.583 970.144 1184.033 970.464 1183.32 L 970.464 1174.78 L 968.484 1174.39 L 968.484 1172.66 L 970.464 1172.66 L 973.154 1172.66 L 973.154 1185.34 L 974.854 1185.73 L 974.854 1187.45 L 970.734 1187.45 L 970.554 1185.26 C 970.094 1186.053 969.498 1186.663 968.764 1187.09 C 968.031 1187.523 967.184 1187.74 966.224 1187.74 ZM 983.853 1187.45 L 976.703 1187.45 L 976.703 1185.73 L 978.933 1185.34 L 978.933 1174.78 L 976.703 1174.39 L 976.703 1172.66 L 981.343 1172.66 L 981.573 1174.54 L 981.603 1174.8 C 982.023 1174.047 982.54 1173.457 983.153 1173.03 C 983.766 1172.597 984.47 1172.38 985.263 1172.38 C 985.55 1172.38 985.84 1172.407 986.133 1172.46 C 986.433 1172.507 986.646 1172.553 986.773 1172.6 L 986.413 1175.1 L 984.543 1174.99 C 983.83 1174.95 983.233 1175.113 982.753 1175.48 C 982.266 1175.847 981.893 1176.34 981.633 1176.96 L 981.633 1185.34 L 983.853 1185.73 L 983.853 1187.45 ZM 1000.585 1187.68 C 999.491 1187.68 998.625 1187.36 997.985 1186.72 C 997.345 1186.073 997.025 1185.047 997.025 1183.64 L 997.025 1174.65 L 994.685 1174.65 L 994.685 1172.66 L 997.025 1172.66 L 997.025 1169.09 L 999.715 1169.09 L 999.715 1172.66 L 1002.925 1172.66 L 1002.925 1174.65 L 999.715 1174.65 L 999.715 1183.64 C 999.715 1184.347 999.855 1184.87 1000.135 1185.21 C 1000.421 1185.543 1000.801 1185.71 1001.275 1185.71 C 1001.595 1185.71 1001.948 1185.68 1002.335 1185.62 C 1002.728 1185.567 1003.035 1185.517 1003.255 1185.47 L 1003.625 1187.23 C 1003.231 1187.35 1002.751 1187.457 1002.185 1187.55 C 1001.611 1187.637 1001.078 1187.68 1000.585 1187.68 ZM 1011.81 1187.74 C 1010.443 1187.74 1009.253 1187.427 1008.24 1186.8 C 1007.233 1186.173 1006.453 1185.307 1005.9 1184.2 C 1005.347 1183.087 1005.07 1181.8 1005.07 1180.34 L 1005.07 1179.74 C 1005.07 1178.333 1005.36 1177.077 1005.94 1175.97 C 1006.52 1174.863 1007.29 1173.99 1008.25 1173.35 C 1009.21 1172.703 1010.26 1172.38 1011.4 1172.38 C 1012.733 1172.38 1013.847 1172.653 1014.74 1173.2 C 1015.64 1173.747 1016.317 1174.517 1016.77 1175.51 C 1017.23 1176.497 1017.46 1177.66 1017.46 1179 L 1017.46 1180.68 L 1007.86 1180.68 L 1007.82 1180.75 C 1007.84 1181.697 1008.007 1182.537 1008.32 1183.27 C 1008.633 1184.003 1009.087 1184.58 1009.68 1185 C 1010.273 1185.42 1010.983 1185.63 1011.81 1185.63 C 1012.723 1185.63 1013.523 1185.5 1014.21 1185.24 C 1014.897 1184.98 1015.493 1184.623 1016 1184.17 L 1017.05 1185.92 C 1016.523 1186.427 1015.823 1186.857 1014.95 1187.21 C 1014.077 1187.563 1013.03 1187.74 1011.81 1187.74 Z M 1007.92 1178.51 L 1007.94 1178.58 L 1014.77 1178.58 L 1014.77 1178.22 C 1014.77 1177.513 1014.643 1176.877 1014.39 1176.31 C 1014.137 1175.75 1013.763 1175.31 1013.27 1174.99 C 1012.77 1174.663 1012.147 1174.5 1011.4 1174.5 C 1010.8 1174.5 1010.253 1174.677 1009.76 1175.03 C 1009.267 1175.383 1008.86 1175.86 1008.54 1176.46 C 1008.227 1177.06 1008.02 1177.743 1007.92 1178.51 ZM 1025.156 1187.45 L 1019.106 1187.45 L 1019.106 1185.73 L 1020.746 1185.41 L 1025.166 1179.97 L 1020.846 1174.71 L 1019.386 1174.39 L 1019.386 1172.66 L 1025.176 1172.66 L 1025.176 1174.39 L 1023.706 1174.56 L 1026.736 1178.33 L 1029.696 1174.54 L 1028.106 1174.39 L 1028.106 1172.66 L 1033.806 1172.66 L 1033.806 1174.39 L 1032.306 1174.71 L 1028.296 1179.93 L 1032.906 1185.41 L 1034.436 1185.73 L 1034.436 1187.45 L 1028.166 1187.45 L 1028.166 1185.73 L 1029.936 1185.58 L 1026.696 1181.63 L 1023.556 1185.58 L 1025.156 1185.73 L 1025.156 1187.45 ZM 1041.21 1187.68 C 1040.117 1187.68 1039.25 1187.36 1038.61 1186.72 C 1037.97 1186.073 1037.65 1185.047 1037.65 1183.64 L 1037.65 1174.65 L 1035.31 1174.65 L 1035.31 1172.66 L 1037.65 1172.66 L 1037.65 1169.09 L 1040.34 1169.09 L 1040.34 1172.66 L 1043.55 1172.66 L 1043.55 1174.65 L 1040.34 1174.65 L 1040.34 1183.64 C 1040.34 1184.347 1040.48 1184.87 1040.76 1185.21 C 1041.047 1185.543 1041.427 1185.71 1041.9 1185.71 C 1042.22 1185.71 1042.574 1185.68 1042.96 1185.62 C 1043.354 1185.567 1043.66 1185.517 1043.88 1185.47 L 1044.25 1187.23 C 1043.857 1187.35 1043.377 1187.457 1042.81 1187.55 C 1042.237 1187.637 1041.704 1187.68 1041.21 1187.68 ZM 1059.737 1187.45 L 1052.587 1187.45 L 1052.587 1185.73 L 1054.817 1185.34 L 1054.817 1168.24 L 1052.587 1167.86 L 1052.587 1166.12 L 1057.507 1166.12 L 1057.507 1174.63 C 1058.02 1173.917 1058.644 1173.363 1059.377 1172.97 C 1060.117 1172.577 1060.94 1172.38 1061.847 1172.38 C 1063.427 1172.38 1064.657 1172.857 1065.537 1173.81 C 1066.41 1174.757 1066.847 1176.213 1066.847 1178.18 L 1066.847 1185.34 L 1069.077 1185.73 L 1069.077 1187.45 L 1061.927 1187.45 L 1061.927 1185.73 L 1064.157 1185.34 L 1064.157 1178.15 C 1064.157 1176.93 1063.894 1176.03 1063.367 1175.45 C 1062.84 1174.863 1062.06 1174.57 1061.027 1174.57 C 1060.287 1174.57 1059.614 1174.747 1059.007 1175.1 C 1058.4 1175.447 1057.9 1175.923 1057.507 1176.53 L 1057.507 1185.34 L 1059.737 1185.73 L 1059.737 1187.45 ZM 1077.437 1187.74 C 1076.071 1187.74 1074.881 1187.427 1073.867 1186.8 C 1072.861 1186.173 1072.081 1185.307 1071.527 1184.2 C 1070.974 1183.087 1070.697 1181.8 1070.697 1180.34 L 1070.697 1179.74 C 1070.697 1178.333 1070.987 1177.077 1071.567 1175.97 C 1072.147 1174.863 1072.917 1173.99 1073.877 1173.35 C 1074.837 1172.703 1075.887 1172.38 1077.027 1172.38 C 1078.361 1172.38 1079.474 1172.653 1080.367 1173.2 C 1081.267 1173.747 1081.944 1174.517 1082.397 1175.51 C 1082.857 1176.497 1083.087 1177.66 1083.087 1179 L 1083.087 1180.68 L 1073.487 1180.68 L 1073.447 1180.75 C 1073.467 1181.697 1073.634 1182.537 1073.947 1183.27 C 1074.261 1184.003 1074.714 1184.58 1075.307 1185 C 1075.901 1185.42 1076.611 1185.63 1077.437 1185.63 C 1078.351 1185.63 1079.151 1185.5 1079.837 1185.24 C 1080.524 1184.98 1081.121 1184.623 1081.627 1184.17 L 1082.677 1185.92 C 1082.151 1186.427 1081.451 1186.857 1080.577 1187.21 C 1079.704 1187.563 1078.657 1187.74 1077.437 1187.74 Z M 1073.547 1178.51 L 1073.567 1178.58 L 1080.397 1178.58 L 1080.397 1178.22 C 1080.397 1177.513 1080.271 1176.877 1080.017 1176.31 C 1079.764 1175.75 1079.391 1175.31 1078.897 1174.99 C 1078.397 1174.663 1077.774 1174.5 1077.027 1174.5 C 1076.427 1174.5 1075.881 1174.677 1075.387 1175.03 C 1074.894 1175.383 1074.487 1175.86 1074.167 1176.46 C 1073.854 1177.06 1073.647 1177.743 1073.547 1178.51 ZM 1092.293 1187.45 L 1085.143 1187.45 L 1085.143 1185.73 L 1087.373 1185.34 L 1087.373 1174.78 L 1085.143 1174.39 L 1085.143 1172.66 L 1089.783 1172.66 L 1090.013 1174.54 L 1090.043 1174.8 C 1090.463 1174.047 1090.98 1173.457 1091.593 1173.03 C 1092.207 1172.597 1092.91 1172.38 1093.703 1172.38 C 1093.99 1172.38 1094.28 1172.407 1094.573 1172.46 C 1094.873 1172.507 1095.087 1172.553 1095.213 1172.6 L 1094.853 1175.1 L 1092.983 1174.99 C 1092.27 1174.95 1091.673 1175.113 1091.193 1175.48 C 1090.707 1175.847 1090.333 1176.34 1090.073 1176.96 L 1090.073 1185.34 L 1092.293 1185.73 L 1092.293 1187.45 ZM 1103.314 1187.74 C 1101.947 1187.74 1100.757 1187.427 1099.744 1186.8 C 1098.737 1186.173 1097.957 1185.307 1097.404 1184.2 C 1096.85 1183.087 1096.574 1181.8 1096.574 1180.34 L 1096.574 1179.74 C 1096.574 1178.333 1096.864 1177.077 1097.444 1175.97 C 1098.024 1174.863 1098.794 1173.99 1099.754 1173.35 C 1100.714 1172.703 1101.764 1172.38 1102.904 1172.38 C 1104.237 1172.38 1105.35 1172.653 1106.244 1173.2 C 1107.144 1173.747 1107.82 1174.517 1108.274 1175.51 C 1108.734 1176.497 1108.964 1177.66 1108.964 1179 L 1108.964 1180.68 L 1099.364 1180.68 L 1099.324 1180.75 C 1099.344 1181.697 1099.51 1182.537 1099.824 1183.27 C 1100.137 1184.003 1100.59 1184.58 1101.184 1185 C 1101.777 1185.42 1102.487 1185.63 1103.314 1185.63 C 1104.227 1185.63 1105.027 1185.5 1105.714 1185.24 C 1106.4 1184.98 1106.997 1184.623 1107.504 1184.17 L 1108.554 1185.92 C 1108.027 1186.427 1107.327 1186.857 1106.454 1187.21 C 1105.58 1187.563 1104.534 1187.74 1103.314 1187.74 Z M 1099.424 1178.51 L 1099.444 1178.58 L 1106.274 1178.58 L 1106.274 1178.22 C 1106.274 1177.513 1106.147 1176.877 1105.894 1176.31 C 1105.64 1175.75 1105.267 1175.31 1104.774 1174.99 C 1104.274 1174.663 1103.65 1174.5 1102.904 1174.5 C 1102.304 1174.5 1101.757 1174.677 1101.264 1175.03 C 1100.77 1175.383 1100.364 1175.86 1100.044 1176.46 C 1099.73 1177.06 1099.524 1177.743 1099.424 1178.51 ZM 1114.72 1187.45 L 1112.02 1187.45 L 1112.02 1184.69 L 1114.72 1184.69 L 1114.72 1187.45 Z" transform="matrix(1, 0, 0, 1, 0, 0)" style="fill: rgb(51, 51, 51); white-space: pre;"/>
+  </g>
+</svg>

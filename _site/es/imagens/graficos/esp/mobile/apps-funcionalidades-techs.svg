@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 108.43 768 643.063" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.cls-1{fill:#030321;}.cls-15,.cls-2,.cls-3,.cls-32{fill:none;stroke-miterlimit:10;}.cls-15,.cls-2,.cls-32{stroke:#fff;}.cls-2{stroke-width:0.25px;}.cls-3{stroke:#000;}.cls-17,.cls-4{fill:#f93543;}.cls-18,.cls-5{fill:#df4c46;}.cls-19,.cls-6{fill:#f67f47;}.cls-20,.cls-7{fill:#f6a020;}.cls-21,.cls-8{fill:#ffd37c;}.cls-22,.cls-9{fill:#edd38c;}.cls-10,.cls-24{fill:#ffe0d2;}.cls-11,.cls-25{fill:#ecfdb2;}.cls-12,.cls-16,.cls-28,.cls-29,.cls-30{fill:#fff;}.cls-13,.cls-26{fill:#3a5cdb;}.cls-14,.cls-27{fill:#9ce79b;}.cls-16{font-size:22.79px;}.cls-16,.cls-29,.cls-30{font-family:OpenSans-Bold, Open Sans;font-weight:700;}.cls-16,.cls-29{text-decoration:underline;}.cls-17,.cls-18,.cls-19,.cls-20,.cls-21,.cls-22,.cls-24,.cls-25,.cls-26,.cls-27,.cls-28,.cls-30{font-size:22px;}.cls-17,.cls-18,.cls-19,.cls-20,.cls-21,.cls-22,.cls-24,.cls-25,.cls-26,.cls-27,.cls-28{font-family:OpenSans, Open Sans;}.cls-17,.cls-18,.cls-19,.cls-20,.cls-21,.cls-24,.cls-25,.cls-26,.cls-27,.cls-28,.cls-30{letter-spacing:0.04em;}.cls-18,.cls-19,.cls-20,.cls-21,.cls-22,.cls-23,.cls-28{isolation:isolate;}.cls-29{font-size:21.96px;}.cls-31{opacity:0.28;}.cls-32{stroke-width:0.54px;}</style>
+  </defs>
+  <rect id="backgorund" class="cls-1" x="-34.93" y="-42.66" width="837.85" height="1129.35"/>
+  <line class="cls-2" x1="368.86" y1="694.15" x2="653.17" y2="694.15"/>
+  <line class="cls-2" x1="368.86" y1="650.1" x2="653.17" y2="650.1"/>
+  <line class="cls-2" x1="368.86" y1="606.05" x2="653.17" y2="606.05"/>
+  <line class="cls-2" x1="368.86" y1="562" x2="653.17" y2="562"/>
+  <line class="cls-2" x1="368.86" y1="517.69" x2="653.17" y2="517.69"/>
+  <line class="cls-2" x1="368.86" y1="473.15" x2="653.17" y2="473.15"/>
+  <line class="cls-2" x1="368.86" y1="429.1" x2="653.17" y2="429.1"/>
+  <line class="cls-2" x1="368.86" y1="385.05" x2="653.17" y2="385.05"/>
+  <line class="cls-2" x1="368.86" y1="341" x2="653.17" y2="341"/>
+  <line class="cls-2" x1="368.86" y1="296.17" x2="653.17" y2="296.17"/>
+  <line class="cls-2" x1="368.86" y1="249.31" x2="653.17" y2="249.31"/>
+  <line class="cls-3" x1="391.86" y1="218.63" x2="406.93" y2="218.63"/>
+  <rect class="cls-4" x="402.47" y="230.32" width="104.85" height="44.05"/>
+  <rect class="cls-5" x="477.06" y="275.15" width="102.23" height="44.05"/>
+  <rect class="cls-6" x="573.03" y="319.97" width="34.08" height="44.05"/>
+  <rect class="cls-7" x="600.85" y="364.02" width="32.77" height="44.05"/>
+  <rect class="cls-8" x="627.36" y="408.07" width="22.28" height="44.05"/>
+  <rect class="cls-9" x="643.38" y="452.13" width="13.11" height="44.05"/>
+  <rect class="cls-10" x="650.22" y="496.66" width="9.17" height="44.05"/>
+  <rect class="cls-11" x="653.14" y="540.98" width="7.86" height="44.05"/>
+  <rect class="cls-12" x="661.75" y="585.03" width="2.62" height="44.05"/>
+  <rect class="cls-13" x="666.11" y="629.08" width="2.62" height="44.05"/>
+  <rect class="cls-14" x="671.47" y="673.13" width="2.62" height="44.05"/>
+  <polyline class="cls-15" points="738.2 197.71 738.2 168.62 401.86 168.62 401.86 197.71"/>
+  <text class="cls-16" transform="matrix(1, 0, 0, 1, 688.799988, 259.390015)" style="white-space: pre;">31,6%</text>
+  <text class="cls-16" transform="matrix(1, 0, 0, 1, 688.799988, 303.049988)" style="white-space: pre;">30%</text>
+  <text class="cls-16" transform="matrix(1, 0, 0, 1, 688.799988, 347.940002)" style="white-space: pre;">10,3%</text>
+  <text class="cls-16" transform="matrix(1, 0, 0, 1, 688.799988, 391.880005)" style="white-space: pre;">9,9%</text>
+  <text class="cls-16" transform="matrix(1, 0, 0, 1, 688.799988, 433.690002)" style="white-space: pre;">6,7%</text>
+  <text class="cls-16" transform="matrix(1, 0, 0, 1, 688.799988, 479.470001)" style="white-space: pre;">3,9%</text>
+  <text class="cls-16" transform="matrix(1, 0, 0, 1, 688.799988, 520.309998)" style="white-space: pre;">2,8%</text>
+  <text class="cls-16" transform="matrix(1, 0, 0, 1, 688.799988, 567.190002)" style="white-space: pre;">2,4%</text>
+  <text class="cls-16" transform="matrix(1, 0, 0, 1, 688.799988, 615.200012)" style="white-space: pre;">0,8%</text>
+  <text class="cls-16" transform="matrix(1, 0, 0, 1, 688.799988, 659.01001)" style="white-space: pre;">0,8%</text>
+  <text class="cls-16" transform="matrix(1, 0, 0, 1, 688.799988, 699.549988)" style="white-space: pre;">0,8%</text>
+  <text class="cls-17" transform="matrix(1, 0, 0, 1, 109.760002, 249)" style="white-space: pre;">MONITORAMENTO DO <tspan x="38.93" y="18.45">FLUXO DE PESSOAS</tspan></text>
+  <text class="cls-18" transform="matrix(1, 0, 0, 1, 200.830002, 303.049988)" style="white-space: pre;">TELEMEDICINA</text>
+  <text class="cls-19" transform="matrix(1, 0, 0, 1, 73.470001, 347.880005)" style="white-space: pre;">TEMPERATURA CORPORAL</text>
+  <text class="cls-20" transform="matrix(1, 0, 0, 1, 91.43, 391.929993)" style="white-space: pre;">EVOLUÇÃO DA COVID-19</text>
+  <text class="cls-21" transform="matrix(1, 0, 0, 1, 18.049999, 435.980011)" style="white-space: pre;">RASTREAMENTO DE CONTATOS</text>
+  <text class="cls-22" transform="matrix(1, 0, 0, 1, -0.03, 480.029999)" style="white-space: pre;">FORNECIMENTO DE INFORMAÇÕES</text>
+  <g class="cls-23">
+    <text class="cls-24" transform="translate(50.49 523.03)" style="white-space: pre;">IDENTIFICAÇÃO DE PESSOAS</text>
+  </g>
+  <g class="cls-23">
+    <text class="cls-25" transform="translate(156.6 556.5)" style="white-space: pre;">DIGITALIZAÇÃO DE<tspan x="-17.61" y="22">SERVIÇOS PÚBLICOS</tspan></text>
+  </g>
+  <text class="cls-26" transform="matrix(1, 0, 0, 1, 167.539993, 655.840027)" style="white-space: pre;">NÃO INFORMADO</text>
+  <g class="cls-23">
+    <text class="cls-27" transform="translate(158.02 700.15)" style="white-space: pre;">ARMAZENAMENTO</text>
+  </g>
+  <text class="cls-28" transform="matrix(1, 0, 0, 1, 165.660004, 608.049988)" style="white-space: pre;">USO DE MÁSCARA</text>
+  <rect class="cls-1" x="507.78" y="152" width="125.59" height="33.24"/>
+  <text class="cls-29" transform="matrix(1, 0, 0, 1, 518.630005, 174.100006)" style="white-space: pre;">TOTAL 253</text>
+  <text class="cls-30" transform="matrix(1, 0, 0, 1, 144.240005, 172.910004)" style="white-space: pre;">FUNCIONALIDADE</text>
+  <g class="cls-31">
+    <path class="cls-12" d="M358.94,187.9v-3.83l-4,3.83v-6.55h-2.88v6.55l-4-3.83v3.83l5.43,5Z"/>
+  </g>
+</svg>

@@ -1,0 +1,132 @@
+source,target,value,regiao,count,tipo,funcao,uf
+GO,fluxo de pessoas,1,Centro-Oeste,41,regiao,fluxo de pessoas,GO
+GO,fluxo de pessoas,1,Centro-Oeste,41,regiao,fluxo de pessoas,GO
+GO,fluxo de pessoas,1,Centro-Oeste,41,regiao,fluxo de pessoas,GO
+DF,Telemedicina,1,Centro-Oeste,37,regiao,Telemedicina,DF
+GO,Telemedicina,1,Centro-Oeste,37,regiao,Telemedicina,GO
+GO,Telemedicina,1,Centro-Oeste,37,regiao,Telemedicina,GO
+MS,Telemedicina,1,Centro-Oeste,37,regiao,Telemedicina,MS
+MS,Telemedicina,1,Centro-Oeste,37,regiao,Telemedicina,MS
+GO,Rastr. contatos,1,Centro-Oeste,11,regiao,Rastr. contatos,GO
+GO,Dig. serviços públicos,1,Centro-Oeste,3,regiao,Dig. serviços públicos,GO
+AL,fluxo de pessoas,1,Nordeste,41,regiao,fluxo de pessoas,AL
+PB,fluxo de pessoas,1,Nordeste,41,regiao,fluxo de pessoas,PB
+PB,fluxo de pessoas,1,Nordeste,41,regiao,fluxo de pessoas,PB
+PE,fluxo de pessoas,1,Nordeste,41,regiao,fluxo de pessoas,PE
+PE,fluxo de pessoas,1,Nordeste,41,regiao,fluxo de pessoas,PE
+PE,fluxo de pessoas,1,Nordeste,41,regiao,fluxo de pessoas,PE
+PI,fluxo de pessoas,1,Nordeste,41,regiao,fluxo de pessoas,PI
+PI,fluxo de pessoas,1,Nordeste,41,regiao,fluxo de pessoas,PI
+SE,fluxo de pessoas,1,Nordeste,41,regiao,fluxo de pessoas,SE
+PE,Telemedicina,1,Nordeste,37,regiao,Telemedicina,PE
+PE,Telemedicina,1,Nordeste,37,regiao,Telemedicina,PE
+PI,Telemedicina,1,Nordeste,37,regiao,Telemedicina,PI
+BA,temperatura,1,Nordeste,17,regiao,temperatura,BA
+BA,evolução da COVID-19,1,Nordeste,17,regiao,evolução da COVID-19,BA
+CE,temperatura,1,Nordeste,17,regiao,temperatura,CE
+PB,temperatura,1,Nordeste,17,regiao,temperatura,PB
+PB,evolução da COVID-19,1,Nordeste,17,regiao,evolução da COVID-19,PB
+PE,evolução da COVID-19,1,Nordeste,17,regiao,evolução da COVID-19,PE
+PE,evolução da COVID-19,1,Nordeste,17,regiao,evolução da COVID-19,PE
+RN,evolução da COVID-19,1,Nordeste,17,regiao,evolução da COVID-19,RN
+SE,temperatura,1,Nordeste,17,regiao,temperatura,SE
+SE,evolução da COVID-19,1,Nordeste,17,regiao,evolução da COVID-19,SE
+TO,evolução da COVID-19,1,Nordeste,17,regiao,evolução da COVID-19,TO
+SE,Rastr. contatos,1,Nordeste,11,regiao,Rastr. contatos,SE
+PB,Forn. informações,1,Nordeste,3,regiao,Forn. informações,PB
+BA,Id. de pessoas,1,Nordeste,1,regiao,Id. de pessoas,BA
+AC,fluxo de pessoas,1,Norte,41,regiao,fluxo de pessoas,AC
+AP,fluxo de pessoas,1,Norte,41,regiao,fluxo de pessoas,AP
+RO,Telemedicina,1,Norte,37,regiao,Telemedicina,RO
+AM,evolução da COVID-19,1,Norte,17,regiao,evolução da COVID-19,AM
+AM,Rastr. contatos,1,Norte,11,regiao,Rastr. contatos,AM
+ES,fluxo de pessoas,1,Sudeste,41,regiao,fluxo de pessoas,ES
+MG,fluxo de pessoas,1,Sudeste,41,regiao,fluxo de pessoas,MG
+MG,fluxo de pessoas,1,Sudeste,41,regiao,fluxo de pessoas,MG
+MG,fluxo de pessoas,1,Sudeste,41,regiao,fluxo de pessoas,MG
+RJ,fluxo de pessoas,1,Sudeste,41,regiao,fluxo de pessoas,RJ
+RJ,fluxo de pessoas,1,Sudeste,41,regiao,fluxo de pessoas,RJ
+RJ,fluxo de pessoas,1,Sudeste,41,regiao,fluxo de pessoas,RJ
+RJ,fluxo de pessoas,1,Sudeste,41,regiao,fluxo de pessoas,RJ
+SP,fluxo de pessoas,1,Sudeste,41,regiao,fluxo de pessoas,SP
+SP,fluxo de pessoas,1,Sudeste,41,regiao,fluxo de pessoas,SP
+SP,fluxo de pessoas,1,Sudeste,41,regiao,fluxo de pessoas,SP
+SP,fluxo de pessoas,1,Sudeste,41,regiao,fluxo de pessoas,SP
+SP,fluxo de pessoas,1,Sudeste,41,regiao,fluxo de pessoas,SP
+SP,fluxo de pessoas,1,Sudeste,41,regiao,fluxo de pessoas,SP
+SP,fluxo de pessoas,1,Sudeste,41,regiao,fluxo de pessoas,SP
+SP,fluxo de pessoas,1,Sudeste,41,regiao,fluxo de pessoas,SP
+MG,Telemedicina,1,Sudeste,37,regiao,Telemedicina,MG
+MG,Telemedicina,1,Sudeste,37,regiao,Telemedicina,MG
+MG,Telemedicina,1,Sudeste,37,regiao,Telemedicina,MG
+MG,Telemedicina,1,Sudeste,37,regiao,Telemedicina,MG
+RJ,Telemedicina,1,Sudeste,37,regiao,Telemedicina,RJ
+RJ,Telemedicina,1,Sudeste,37,regiao,Telemedicina,RJ
+RJ,Telemedicina,1,Sudeste,37,regiao,Telemedicina,RJ
+RJ,Telemedicina,1,Sudeste,37,regiao,Telemedicina,RJ
+RJ,Telemedicina,1,Sudeste,37,regiao,Telemedicina,RJ
+RJ,Telemedicina,1,Sudeste,37,regiao,Telemedicina,RJ
+RJ,Telemedicina,1,Sudeste,37,regiao,Telemedicina,RJ
+RJ,Telemedicina,1,Sudeste,37,regiao,Telemedicina,RJ
+SP,Telemedicina,1,Sudeste,37,regiao,Telemedicina,SP
+SP,Telemedicina,1,Sudeste,37,regiao,Telemedicina,SP
+SP,Telemedicina,1,Sudeste,37,regiao,Telemedicina,SP
+SP,Telemedicina,1,Sudeste,37,regiao,Telemedicina,SP
+RJ,temperatura,1,Sudeste,17,regiao,temperatura,RJ
+RJ,evolução da COVID-19,1,Sudeste,17,regiao,evolução da COVID-19,RJ
+SP,evolução da COVID-19,1,Sudeste,17,regiao,evolução da COVID-19,SP
+SP,temperatura,1,Sudeste,17,regiao,temperatura,SP
+SP,evolução da COVID-19,1,Sudeste,17,regiao,evolução da COVID-19,SP
+SP,temperatura,1,Sudeste,17,regiao,temperatura,SP
+SP,temperatura,1,Sudeste,17,regiao,temperatura,SP
+SP,temperatura,1,Sudeste,17,regiao,temperatura,SP
+SP,evolução da COVID-19,1,Sudeste,17,regiao,evolução da COVID-19,SP
+SP,evolução da COVID-19,1,Sudeste,17,regiao,evolução da COVID-19,SP
+SP,temperatura,1,Sudeste,17,regiao,temperatura,SP
+MG,Rastr. contatos,1,Sudeste,11,regiao,Rastr. contatos,MG
+MG,Rastr. contatos,1,Sudeste,11,regiao,Rastr. contatos,MG
+SP,Rastr. contatos,1,Sudeste,11,regiao,Rastr. contatos,SP
+SP,Rastr. contatos,1,Sudeste,11,regiao,Rastr. contatos,SP
+SP,Rastr. contatos,1,Sudeste,11,regiao,Rastr. contatos,SP
+RJ,Forn. informações,1,Sudeste,3,regiao,Forn. informações,RJ
+SP,Dig. serviços públicos,1,Sudeste,3,regiao,Dig. serviços públicos,SP
+SP,Dig. serviços públicos,1,Sudeste,3,regiao,Dig. serviços públicos,SP
+PR,fluxo de pessoas,1,Sul,41,regiao,fluxo de pessoas,PR
+PR,fluxo de pessoas,1,Sul,41,regiao,fluxo de pessoas,PR
+PR,fluxo de pessoas,1,Sul,41,regiao,fluxo de pessoas,PR
+PR,fluxo de pessoas,1,Sul,41,regiao,fluxo de pessoas,PR
+PR,fluxo de pessoas,1,Sul,41,regiao,fluxo de pessoas,PR
+RS,fluxo de pessoas,1,Sul,41,regiao,fluxo de pessoas,RS
+RS,fluxo de pessoas,1,Sul,41,regiao,fluxo de pessoas,RS
+RS,fluxo de pessoas,1,Sul,41,regiao,fluxo de pessoas,RS
+RS,fluxo de pessoas,1,Sul,41,regiao,fluxo de pessoas,RS
+SC,fluxo de pessoas,1,Sul,41,regiao,fluxo de pessoas,SC
+SC,fluxo de pessoas,1,Sul,41,regiao,fluxo de pessoas,SC
+PR,Telemedicina,1,Sul,37,regiao,Telemedicina,PR
+PR,Telemedicina,1,Sul,37,regiao,Telemedicina,PR
+PR,Telemedicina,1,Sul,37,regiao,Telemedicina,PR
+PR,Telemedicina,1,Sul,37,regiao,Telemedicina,PR
+RS,Telemedicina,1,Sul,37,regiao,Telemedicina,RS
+RS,Telemedicina,1,Sul,37,regiao,Telemedicina,RS
+RS,Telemedicina,1,Sul,37,regiao,Telemedicina,RS
+SC,Telemedicina,1,Sul,37,regiao,Telemedicina,SC
+SC,Telemedicina,1,Sul,37,regiao,Telemedicina,SC
+SC,Telemedicina,1,Sul,37,regiao,Telemedicina,SC
+SC,Telemedicina,1,Sul,37,regiao,Telemedicina,SC
+SC,Telemedicina,1,Sul,37,regiao,Telemedicina,SC
+PR,temperatura,1,Sul,17,regiao,temperatura,PR
+PR,evolução da COVID-19,1,Sul,17,regiao,evolução da COVID-19,PR
+PR,evolução da COVID-19,1,Sul,17,regiao,evolução da COVID-19,PR
+PR,evolução da COVID-19,1,Sul,17,regiao,evolução da COVID-19,PR
+RS,temperatura,1,Sul,17,regiao,temperatura,RS
+RS,temperatura,1,Sul,17,regiao,temperatura,RS
+RS,temperatura,1,Sul,17,regiao,temperatura,RS
+SC,temperatura,1,Sul,17,regiao,temperatura,SC
+SC,temperatura,1,Sul,17,regiao,temperatura,SC
+SC,temperatura,1,Sul,17,regiao,temperatura,SC
+SC,evolução da COVID-19,1,Sul,17,regiao,evolução da COVID-19,SC
+SC,Rastr. contatos,1,Sul,11,regiao,Rastr. contatos,SC
+SC,Rastr. contatos,1,Sul,11,regiao,Rastr. contatos,SC
+SC,Rastr. contatos,1,Sul,11,regiao,Rastr. contatos,SC
+PR,Forn. informações,1,Sul,3,regiao,Forn. informações,PR
+SC,uso de máscara,1,Sul,1,regiao,uso de máscara,SC

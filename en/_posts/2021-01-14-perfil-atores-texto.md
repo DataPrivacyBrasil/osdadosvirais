@@ -1,5 +1,5 @@
 ---
-layout: texto
+layout: texto_eng
 ordem: 1275
 #slider: sim
 idn: "perfil-atores"

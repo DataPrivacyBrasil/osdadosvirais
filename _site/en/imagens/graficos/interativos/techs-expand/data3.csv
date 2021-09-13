@@ -1,0 +1,196 @@
+source,target,value,uf,regiao,count,tipo,funcao
+Aparecida de Goiânia,People flow monitoring,1,GO,Centro-Oeste,41,regiao,People flow monitoring
+Caldas Novas,People flow monitoring,1,GO,Centro-Oeste,41,regiao,People flow monitoring
+Brasília,Telemedicine,1,DF,Centro-Oeste,37,regiao,Telemedicine
+Luziânia,Telemedicine,1,GO,Centro-Oeste,37,regiao,Telemedicine
+Campo Grande,Telemedicine,1,MS,Centro-Oeste,37,regiao,Telemedicine
+Aparecida de Goiânia,Contact tracking,1,GO,Centro-Oeste,11,regiao,Contact tracking
+Aparecida de Goiânia,Digitalization of public services,1,GO,Centro-Oeste,3,regiao,Digitalization of public services
+Maceió,People flow monitoring,1,AL,Nordeste,41,regiao,People flow monitoring
+Campina Grande,People flow monitoring,1,PB,Nordeste,41,regiao,People flow monitoring
+João Pessoa,People flow monitoring,1,PB,Nordeste,41,regiao,People flow monitoring
+Caruaru,People flow monitoring,1,PE,Nordeste,41,regiao,People flow monitoring
+Recife,People flow monitoring,1,PE,Nordeste,41,regiao,People flow monitoring
+Teresina,People flow monitoring,1,PI,Nordeste,41,regiao,People flow monitoring
+Aracaju,People flow monitoring,1,SE,Nordeste,41,regiao,People flow monitoring
+Jaboatão dos Guararapes,Telemedicine,1,PE,Nordeste,37,regiao,Telemedicine
+Recife,Telemedicine,1,PE,Nordeste,37,regiao,Telemedicine
+Teresina,Telemedicine,1,PI,Nordeste,37,regiao,Telemedicine
+Salvador,Body temperature monitoring,1,BA,Nordeste,17,regiao,Body temperature monitoring
+Vitória da Conquista,Mapping of COVID-19 evolution,1,BA,Nordeste,17,regiao,Mapping of COVID-19 evolution
+Fortaleza,Body temperature monitoring,1,CE,Nordeste,17,regiao,Body temperature monitoring
+João Pessoa,Body temperature monitoring,1,PB,Nordeste,17,regiao,Body temperature monitoring
+João Pessoa,Mapping of COVID-19 evolution,1,PB,Nordeste,17,regiao,Mapping of COVID-19 evolution
+Recife,Mapping of COVID-19 evolution,1,PE,Nordeste,17,regiao,Mapping of COVID-19 evolution
+Parnamirim,Mapping of COVID-19 evolution,1,RN,Nordeste,17,regiao,Mapping of COVID-19 evolution
+Aracaju,Body temperature monitoring,1,SE,Nordeste,17,regiao,Body temperature monitoring
+Aracaju,Mapping of COVID-19 evolution,1,SE,Nordeste,17,regiao,Mapping of COVID-19 evolution
+Araguaína,Mapping of COVID-19 evolution,1,TO,Nordeste,17,regiao,Mapping of COVID-19 evolution
+Aracaju,Contact tracking,1,SE,Nordeste,11,regiao,Contact tracking
+João Pessoa,Information provision,1,PB,Nordeste,3,regiao,Information provision
+Salvador,People identification,1,BA,Nordeste,1,regiao,People identification
+Rio Branco,People flow monitoring,1,AC,Norte,41,regiao,People flow monitoring
+Macapá,People flow monitoring,1,AP,Norte,41,regiao,People flow monitoring
+Porto Velho,Telemedicine,1,RO,Norte,37,regiao,Telemedicine
+Manaus,Mapping of COVID-19 evolution,1,AM,Norte,17,regiao,Mapping of COVID-19 evolution
+Manaus,Contact tracking,1,AM,Norte,11,regiao,Contact tracking
+Cachoeiro de Itapemirim,People flow monitoring,1,ES,Sudeste,41,regiao,People flow monitoring
+Belo Horizonte,People flow monitoring,1,MG,Sudeste,41,regiao,People flow monitoring
+Governador Valadares,People flow monitoring,1,MG,Sudeste,41,regiao,People flow monitoring
+Varginha,People flow monitoring,1,MG,Sudeste,41,regiao,People flow monitoring
+Niterói,People flow monitoring,1,RJ,Sudeste,41,regiao,People flow monitoring
+Rio de Janeiro,People flow monitoring,1,RJ,Sudeste,41,regiao,People flow monitoring
+Teresópolis,People flow monitoring,1,RJ,Sudeste,41,regiao,People flow monitoring
+Campinas,People flow monitoring,1,SP,Sudeste,41,regiao,People flow monitoring
+Jacareí,People flow monitoring,1,SP,Sudeste,41,regiao,People flow monitoring
+Santo André,People flow monitoring,1,SP,Sudeste,41,regiao,People flow monitoring
+São Carlos,People flow monitoring,1,SP,Sudeste,41,regiao,People flow monitoring
+São Paulo,People flow monitoring,1,SP,Sudeste,41,regiao,People flow monitoring
+Belo Horizonte,Telemedicine,1,MG,Sudeste,37,regiao,Telemedicine
+Itajubá,Telemedicine,1,MG,Sudeste,37,regiao,Telemedicine
+Juiz de Fora,Telemedicine,1,MG,Sudeste,37,regiao,Telemedicine
+Campos dos Goytacazes,Telemedicine,1,RJ,Sudeste,37,regiao,Telemedicine
+Macaé,Telemedicine,1,RJ,Sudeste,37,regiao,Telemedicine
+Nova Iguaçu,Telemedicine,1,RJ,Sudeste,37,regiao,Telemedicine
+Rio de Janeiro,Telemedicine,1,RJ,Sudeste,37,regiao,Telemedicine
+São João da Barra,Telemedicine,1,RJ,Sudeste,37,regiao,Telemedicine
+São Leopoldo,Telemedicine,1,RJ,Sudeste,37,regiao,Telemedicine
+Teresópolis,Telemedicine,1,RJ,Sudeste,37,regiao,Telemedicine
+Campinas,Telemedicine,1,SP,Sudeste,37,regiao,Telemedicine
+Santa Isabel,Telemedicine,1,SP,Sudeste,37,regiao,Telemedicine
+Santana de Parnaíba,Telemedicine,1,SP,Sudeste,37,regiao,Telemedicine
+São Paulo,Telemedicine,1,SP,Sudeste,37,regiao,Telemedicine
+Rio de Janeiro,Body temperature monitoring,1,RJ,Sudeste,17,regiao,Body temperature monitoring
+Volta Redonda,Mapping of COVID-19 evolution,1,RJ,Sudeste,17,regiao,Mapping of COVID-19 evolution
+Bauru,Mapping of COVID-19 evolution,1,SP,Sudeste,17,regiao,Mapping of COVID-19 evolution
+Campinas,Body temperature monitoring,1,SP,Sudeste,17,regiao,Body temperature monitoring
+Campinas,Mapping of COVID-19 evolution,1,SP,Sudeste,17,regiao,Mapping of COVID-19 evolution
+Guarulhos,Body temperature monitoring,1,SP,Sudeste,17,regiao,Body temperature monitoring
+Guarulhos,Mapping of COVID-19 evolution,1,SP,Sudeste,17,regiao,Mapping of COVID-19 evolution
+Santos,Mapping of COVID-19 evolution,1,SP,Sudeste,17,regiao,Mapping of COVID-19 evolution
+São Sebastião,Body temperature monitoring,1,SP,Sudeste,17,regiao,Body temperature monitoring
+Betim,Contact tracking,1,MG,Sudeste,11,regiao,Contact tracking
+Governador Valadares,Contact tracking,1,MG,Sudeste,11,regiao,Contact tracking
+São Caetano do Sul,Contact tracking,1,SP,Sudeste,11,regiao,Contact tracking
+São Paulo,Contact tracking,1,SP,Sudeste,11,regiao,Contact tracking
+Sorocaba,Contact tracking,1,SP,Sudeste,11,regiao,Contact tracking
+Maricá,Information provision,1,RJ,Sudeste,3,regiao,Information provision
+Santo André,Digitalization of public services,1,SP,Sudeste,3,regiao,Digitalization of public services
+São Paulo,Digitalization of public services,1,SP,Sudeste,3,regiao,Digitalization of public services
+Cascavel,People flow monitoring,1,PR,Sul,41,regiao,People flow monitoring
+Curitiba,People flow monitoring,1,PR,Sul,41,regiao,People flow monitoring
+Foz do Iguaçu,People flow monitoring,1,PR,Sul,41,regiao,People flow monitoring
+Maringá,People flow monitoring,1,PR,Sul,41,regiao,People flow monitoring
+Ponta Grossa,People flow monitoring,1,PR,Sul,41,regiao,People flow monitoring
+Ijuí,People flow monitoring,1,RS,Sul,41,regiao,People flow monitoring
+Porto Alegre,People flow monitoring,1,RS,Sul,41,regiao,People flow monitoring
+Rio Grande,People flow monitoring,1,RS,Sul,41,regiao,People flow monitoring
+Tubarão,People flow monitoring,1,SC,Sul,41,regiao,People flow monitoring
+Curitiba,Telemedicine,1,PR,Sul,37,regiao,Telemedicine
+Foz do Iguaçu,Telemedicine,1,PR,Sul,37,regiao,Telemedicine
+Pinhais,Telemedicine,1,PR,Sul,37,regiao,Telemedicine
+São José dos Pinhais,Telemedicine,1,PR,Sul,37,regiao,Telemedicine
+Alegrete,Telemedicine,1,RS,Sul,37,regiao,Telemedicine
+Mampituba,Telemedicine,1,RS,Sul,37,regiao,Telemedicine
+Três Cachoeiras,Telemedicine,1,RS,Sul,37,regiao,Telemedicine
+Balneário Camboriú,Telemedicine,1,SC,Sul,37,regiao,Telemedicine
+Blumenau,Telemedicine,1,SC,Sul,37,regiao,Telemedicine
+Florianópolis,Telemedicine,1,SC,Sul,37,regiao,Telemedicine
+Jaraguá do Sul,Telemedicine,1,SC,Sul,37,regiao,Telemedicine
+Passo de Torres,Telemedicine,1,SC,Sul,37,regiao,Telemedicine
+Curitiba,Body temperature monitoring,1,PR,Sul,17,regiao,Body temperature monitoring
+Fazenda Rio Grande,Mapping of COVID-19 evolution,1,PR,Sul,17,regiao,Mapping of COVID-19 evolution
+São José dos Pinhais,Mapping of COVID-19 evolution,1,PR,Sul,17,regiao,Mapping of COVID-19 evolution
+Umuarama,Mapping of COVID-19 evolution,1,PR,Sul,17,regiao,Mapping of COVID-19 evolution
+Porto Alegre,Body temperature monitoring,1,RS,Sul,17,regiao,Body temperature monitoring
+Sapiranga,Body temperature monitoring,1,RS,Sul,17,regiao,Body temperature monitoring
+Florianópolis,Body temperature monitoring,1,SC,Sul,17,regiao,Body temperature monitoring
+Itajaí,Body temperature monitoring,1,SC,Sul,17,regiao,Body temperature monitoring
+Itajaí,Mapping of COVID-19 evolution,1,SC,Sul,17,regiao,Mapping of COVID-19 evolution
+Brusque,Contact tracking,1,SC,Sul,11,regiao,Contact tracking
+Governador Celso Ramos,Contact tracking,1,SC,Sul,11,regiao,Contact tracking
+Jaraguá do Sul,Contact tracking,1,SC,Sul,11,regiao,Contact tracking
+São José dos Pinhais,Information provision,1,PR,Sul,3,regiao,Information provision
+Balneário Camboriú,Mask use monitoring,1,SC,Sul,1,regiao,Mask use monitoring
+People flow monitoring,Inloco,27,,,27,funcao,People flow monitoring
+People flow monitoring,Scipopulis,5,,,5,funcao,People flow monitoring
+Telemedicine,inst D'Or de Pesquisa e Ensino,5,,,5,funcao,Telemedicine
+Telemedicine,Eagle Tecnologia,4,,,4,funcao,Telemedicine
+Body temperature monitoring,Dahua Technology,3,,,3,funcao,Body temperature monitoring
+Body temperature monitoring,Não Localizada,3,,,3,funcao,Body temperature monitoring
+Body temperature monitoring,Unale,2,,,2,funcao,Body temperature monitoring
+People flow monitoring,ABR Telecom,2,,,2,funcao,People flow monitoring
+Contact tracking,LifesHub,2,,,2,funcao,Contact tracking
+Telemedicine,Brainy Resolution,2,,,2,funcao,Telemedicine
+Telemedicine,"IMED",2,,,2,funcao,Telemedicine
+Telemedicine,inst Laura Fressatto,2,,,2,funcao,Telemedicine
+Telemedicine,pref Campo Grande,2,,,2,funcao,Telemedicine
+Telemedicine,ProntLife,2,,,2,funcao,Telemedicine
+Digitalization of public services,pref de Aparecida de Goiânia,1,,,1,funcao,Digitalization of public services
+Digitalization of public services,pref de Santo André; Eicon,1,,,1,funcao,Digitalization of public services
+Digitalization of public services,pref de São Paulo,1,,,1,funcao,Digitalization of public services
+Information provision,EduSim,1,,,1,funcao,Information provision
+Information provision,pref de Maricá,1,,,1,funcao,Information provision
+Information provision,pref de São José dos Pinhais,1,,,1,funcao,Information provision
+People identification,Agência Nacional de Aviação Civil,1,,,1,funcao,People identification
+Mapping of COVID-19 evolution,inst Soma,1,,,1,funcao,Mapping of COVID-19 evolution
+Mapping of COVID-19 evolution,Mamba Labs,1,,,1,funcao,Mapping of COVID-19 evolution
+Mapping of COVID-19 evolution,Ministério da Saúde,1,,,1,funcao,Mapping of COVID-19 evolution
+Mapping of COVID-19 evolution,Ministério Público RN,1,,,1,funcao,Mapping of COVID-19 evolution
+Mapping of COVID-19 evolution,Não Localizada,1,,,1,funcao,Mapping of COVID-19 evolution
+Mapping of COVID-19 evolution,Núcleo de Gestão do Porto Digital,1,,,1,funcao,Mapping of COVID-19 evolution
+Mapping of COVID-19 evolution,pref de Campinas,1,,,1,funcao,Mapping of COVID-19 evolution
+Mapping of COVID-19 evolution,pref de Fazenda Rio Grande,1,,,1,funcao,Mapping of COVID-19 evolution
+Mapping of COVID-19 evolution,pref de Itajaí,1,,,1,funcao,Mapping of COVID-19 evolution
+Mapping of COVID-19 evolution,pref de Santos,1,,,1,funcao,Mapping of COVID-19 evolution
+Mapping of COVID-19 evolution,pref de São José dos Pinhais,1,,,1,funcao,Mapping of COVID-19 evolution
+Mapping of COVID-19 evolution,pref de Umuarama,1,,,1,funcao,Mapping of COVID-19 evolution
+Mapping of COVID-19 evolution,pref de Vitória da Conquista,1,,,1,funcao,Mapping of COVID-19 evolution
+Mapping of COVID-19 evolution,pref de Volta Redonda,1,,,1,funcao,Mapping of COVID-19 evolution
+Mapping of COVID-19 evolution,Sec. da Fazenda de João Pessoa,1,,,1,funcao,Mapping of COVID-19 evolution
+Mapping of COVID-19 evolution,Sec. da Saúde de Manaus,1,,,1,funcao,Mapping of COVID-19 evolution
+Mapping of COVID-19 evolution,Uni. Fed. Sergipe; pref de Aracaju,1,,,1,funcao,Mapping of COVID-19 evolution
+Body temperature monitoring,2bTriade,1,,,1,funcao,Body temperature monitoring
+Body temperature monitoring,Contsec Serviços,1,,,1,funcao,Body temperature monitoring
+Body temperature monitoring,Direta Telecom,1,,,1,funcao,Body temperature monitoring
+Body temperature monitoring,Dyno Security,1,,,1,funcao,Body temperature monitoring
+Body temperature monitoring,HSH,1,,,1,funcao,Body temperature monitoring
+Body temperature monitoring,Intelbras,1,,,1,funcao,Body temperature monitoring
+Body temperature monitoring,Paipe,1,,,1,funcao,Body temperature monitoring
+Body temperature monitoring,Pix Force; UFRGS,1,,,1,funcao,Body temperature monitoring
+Body temperature monitoring,Unicamp,1,,,1,funcao,Body temperature monitoring
+Mask use monitoring,pref de Balneário Camboriú; PM SC,1,,,1,funcao,Mask use monitoring
+People flow monitoring,CyberLabs,1,,,1,funcao,People flow monitoring
+People flow monitoring,Deconve Tech,1,,,1,funcao,People flow monitoring
+People flow monitoring,Não Localizada,1,,,1,funcao,People flow monitoring
+People flow monitoring,New System,1,,,1,funcao,People flow monitoring
+People flow monitoring,Nuveo Technologies,1,,,1,funcao,People flow monitoring
+People flow monitoring,pref do Recife,1,,,1,funcao,People flow monitoring
+People flow monitoring,SPTrans,1,,,1,funcao,People flow monitoring
+Contact tracking,CIGA-SC,1,,,1,funcao,Contact tracking
+Contact tracking,JMM Tech,1,,,1,funcao,Contact tracking
+Contact tracking,Ministério da Saúde,1,,,1,funcao,Contact tracking
+Contact tracking,Olos Tecnologia,1,,,1,funcao,Contact tracking
+Contact tracking,pref de Aracaju,1,,,1,funcao,Contact tracking
+Contact tracking,pref de Betim,1,,,1,funcao,Contact tracking
+Contact tracking,pref de São Caetano do Sul; USP,1,,,1,funcao,Contact tracking
+Contact tracking,Sec. da Saúde de Manaus,1,,,1,funcao,Contact tracking
+Contact tracking,Smart Tour Brasil,1,,,1,funcao,Contact tracking
+Telemedicine,BirthTech,1,,,1,funcao,Telemedicine
+Telemedicine,Colab,1,,,1,funcao,Telemedicine
+Telemedicine,CyberLabs,1,,,1,funcao,Telemedicine
+Telemedicine,Fed Catarinense de Municípios,1,,,1,funcao,Telemedicine
+Telemedicine,Huawei,1,,,1,funcao,Telemedicine
+Telemedicine,IDS Software e Assessoria,1,,,1,funcao,Telemedicine
+Telemedicine,inst Federal Farroupilha,1,,,1,funcao,Telemedicine
+Telemedicine,M4 Inteligência Digital,1,,,1,funcao,Telemedicine
+Telemedicine,pref de BH; Unimed BH; Vale,1,,,1,funcao,Telemedicine
+Telemedicine,pref de Foz do Iguaçu,1,,,1,funcao,Telemedicine
+Telemedicine,pref de Jaboatão dos Guararapes,1,,,1,funcao,Telemedicine
+Telemedicine,pref de Jaraguá do Sul,1,,,1,funcao,Telemedicine
+Telemedicine,pref de Santana de Parnaíba; Google,1,,,1,funcao,Telemedicine
+Telemedicine,Sec. da Saúde de Blumenau,1,,,1,funcao,Telemedicine
+Telemedicine,Sec. Mun. da Saúde de SP,1,,,1,funcao,Telemedicine
+Telemedicine,Topmed,1,,,1,funcao,Telemedicine
+Telemedicine,Unicamp,1,,,1,funcao,Telemedicine
+Telemedicine,Unirio,1,,,1,funcao,Telemedicine

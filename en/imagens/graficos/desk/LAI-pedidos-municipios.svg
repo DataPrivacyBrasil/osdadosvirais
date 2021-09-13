@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="461.067 67.917 1185.044 727.788" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.cls-1{fill:#03051f;}.cls-2{fill:#2255ed;stroke:#1c1d36;}.cls-10,.cls-2,.cls-4,.cls-5{stroke-miterlimit:10;}.cls-2,.cls-4,.cls-5{stroke-width:0.91px;}.cls-3{fill:#87e089;}.cls-10,.cls-4,.cls-5{fill:none;}.cls-4{stroke:#2255ed;}.cls-5{stroke:#d4ed5a;}.cls-6{font-size:35.68px;text-decoration:underline;}.cls-6,.cls-7,.cls-8{fill:#fff;}.cls-6,.cls-8{font-family:OpenSans-Bold, Open Sans;font-weight:700;}.cls-7,.cls-8{font-size:18px;}.cls-7{font-family:OpenSans, Open Sans;letter-spacing:0.04em;}.cls-9{fill:#2263ff;}.cls-10{stroke:#fff;stroke-width:0.68px;}</style>
+  </defs>
+  <g id="Layer_2" data-name="Layer 2">
+    <rect class="cls-1" x="-17.14" y="-15.41" width="1972.94" height="828.2"/>
+    <path class="cls-2" d="M1123.33,422.63,873.71,365c27.18-117.74,128.79-198.56,249.62-198.56Z"/>
+    <path class="cls-3" d="M1123.33,422.63V166.44c141.49,0,256.19,114.7,256.19,256.19s-114.7,256.18-256.19,256.18S867.15,564.12,867.15,422.63A242.54,242.54,0,0,1,873.71,365Z"/>
+    <circle class="cls-1" cx="1123.33" cy="422.63" r="238.39"/>
+    <path class="cls-4" d="M1071.68,136.51A42.49,42.49,0,0,1,1114.17,179"/>
+    <path class="cls-5" d="M1343.41,636.33a42.5,42.5,0,0,1-42.49-42.49"/>
+    <text class="cls-6" transform="translate(934.85 143.45)" style="white-space: pre;">21,36%</text>
+    <text class="cls-6" transform="translate(1349.09 646.67)" style="white-space: pre;">78,64%</text>
+    <text class="cls-7" transform="translate(477.79 359.36)" style="white-space: pre;">E-SIC NÃO IDENTIFICADO <tspan x="0" y="25.2">OU COM PROBLEMA </tspan></text>
+    <text class="cls-8" transform="translate(667.54 384.56)" style="white-space: pre;">69</text>
+    <rect class="cls-3" x="453.79" y="405.93" width="90" height="10.2"/>
+    <text class="cls-7" transform="translate(477.79 440.39)" style="white-space: pre;">POSSÍVEL CONCLUIR E <tspan x="0" y="25.2">ACOMPANHAR PEDIDO DE LAI </tspan></text>
+    <text class="cls-8" transform="translate(755.31 465.59)" style="white-space: pre;">254</text>
+    <rect class="cls-9" x="453.79" y="317.77" width="90" height="10.2"/>
+    <line class="cls-10" x1="453.13" y1="-22.78" x2="453.13" y2="933.86"/>
+  </g>
+</svg>

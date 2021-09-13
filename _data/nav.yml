@@ -1,6 +1,12 @@
 - titulo: "Stories"
   url: "stories"
 
+- titulo: "English"
+  url: "en"
+
+- titulo: "Español"
+  url: "es"
+
 - titulo: "Metodologia e pedidos de acesso à informação"
   url: "metodologia"
 

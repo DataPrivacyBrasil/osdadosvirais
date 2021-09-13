@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 768 2790.47" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>.cls-1{fill:#030321;}.cls-16,.cls-2{fill:none;stroke:#fff;stroke-miterlimit:10;}.cls-2{stroke-width:0.54px;}.cls-11,.cls-3,.cls-7{isolation:isolate;}.cls-3,.cls-4,.cls-7{font-size:22px;}.cls-14,.cls-18,.cls-19,.cls-3,.cls-4,.cls-7,.cls-9{fill:#fff;}.cls-14,.cls-19,.cls-3,.cls-7{font-family:OpenSans, Open Sans;}.cls-3{letter-spacing:0.04em;}.cls-18,.cls-4{font-family:OpenSans-Bold, Open Sans;font-weight:700;}.cls-5{fill:#1c4ef0;}.cls-6{fill:#f8ee5c;}.cls-7{letter-spacing:0.04em;}.cls-8{fill:#24a122;}.cls-10{fill:#83e084;}.cls-12{fill:#df4c46;}.cls-13{fill:#8550a5;}.cls-14,.cls-19{font-size:26px;}.cls-14{letter-spacing:0.04em;}.cls-15{fill:#3a5cdb;}.cls-16{stroke-width:0.29px;}.cls-17{opacity:0.44;}.cls-18{font-size:32px;}.cls-19{letter-spacing:0.04em;}</style>
+  </defs>
+  <rect id="backgorund" class="cls-1" x="-17.56" y="-90.71" width="812.89" height="3060.14"/>
+  <line class="cls-2" x1="-8.54" y1="2790.47" x2="768" y2="2790.47"/>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 98.089996, 141.070007)" style="white-space: pre;">EMPRESA PRIVADA </text>
+  <text class="cls-4" transform="matrix(1, 0, 0, 1, 311.649994, 141.070007)" style="white-space: pre;">148</text>
+  <rect class="cls-5" x="33.41" y="99.04" width="111.81" height="12.08"/>
+  <text class="cls-3" transform="matrix(1, 0, 0, 1, 98.089996, 281.109985)" style="white-space: pre;">EMPRESA PÚBLICA </text>
+  <text class="cls-4" transform="matrix(1, 0, 0, 1, 310.559998, 281.109985)" style="white-space: pre;">8</text>
+  <rect class="cls-6" x="33.41" y="237.45" width="111.81" height="12.08"/>
+  <text class="cls-7" transform="matrix(1, 0, 0, 1, 98.449997, 394.279999)" style="white-space: pre;">INICIATIVA <tspan x="0" y="26.4">PÚBLICO-PRIVADA </tspan></text>
+  <text class="cls-4" transform="matrix(1, 0, 0, 1, 308.269989, 420.679993)" style="white-space: pre;">5</text>
+  <rect class="cls-8" x="33.77" y="349.88" width="111.81" height="12.08"/>
+  <text class="cls-7" transform="matrix(1, 0, 0, 1, 473.040009, 153.929993)" style="white-space: pre;">INSTITUIÇÃO DE ENSINO <tspan x="0" y="26.4">SUPERIOR PÚBLICA </tspan></text>
+  <text class="cls-4" transform="matrix(1, 0, 0, 1, 693.289978, 180.330002)" style="white-space: pre;">13</text>
+  <rect class="cls-9" x="408.36" y="111" width="111.81" height="12.08"/>
+  <text class="cls-7" transform="matrix(1, 0, 0, 1, 473.040009, 272.959991)" style="white-space: pre;">ORGÃO PÚBLICO </text>
+  <text class="cls-4" transform="matrix(1, 0, 0, 1, 667.52002, 272.959991)" style="white-space: pre;">60</text>
+  <rect class="cls-10" x="408.36" y="227.11" width="111.81" height="12.08"/>
+  <g class="cls-11">
+    <path class="cls-9" d="M470.34,387.42v-15.7h1.83v15.7Z"/>
+    <path class="cls-9" d="M489.7,387.42h-2.09L479,374.24h-.09q.18,2.33.18,4.26v8.92h-1.7v-15.7h2.07l8.6,13.13h.09c0-.2-.05-.82-.1-1.87s-.07-1.8-.05-2.25v-9h1.71Z"/>
+    <path class="cls-9" d="M503.83,383.24a3.87,3.87,0,0,1-1.51,3.24,6.61,6.61,0,0,1-4.1,1.16,10.34,10.34,0,0,1-4.32-.72v-1.76a11.69,11.69,0,0,0,2.12.64,10.92,10.92,0,0,0,2.26.24,4.53,4.53,0,0,0,2.76-.7,2.26,2.26,0,0,0,.93-1.92,2.46,2.46,0,0,0-.33-1.34,3,3,0,0,0-1.1-1,14.47,14.47,0,0,0-2.35-1,7.46,7.46,0,0,1-3.14-1.86,4.09,4.09,0,0,1-.94-2.8,3.46,3.46,0,0,1,1.37-2.89,5.67,5.67,0,0,1,3.62-1.08,10.8,10.8,0,0,1,4.33.86l-.57,1.59a9.92,9.92,0,0,0-3.8-.81,3.68,3.68,0,0,0-2.28.62,2,2,0,0,0-.82,1.73,2.68,2.68,0,0,0,.3,1.34,2.87,2.87,0,0,0,1,.95,12.62,12.62,0,0,0,2.2,1,8.77,8.77,0,0,1,3.41,1.89A3.74,3.74,0,0,1,503.83,383.24Z"/>
+    <path class="cls-9" d="M512.79,387.42H511V373.34h-5v-1.62h11.83v1.62h-5Z"/>
+    <path class="cls-9" d="M521,387.42v-15.7h1.84v15.7Z"/>
+    <path class="cls-9" d="M532.94,387.42h-1.83V373.34h-5v-1.62h11.83v1.62h-5Z"/>
+    <path class="cls-9" d="M553.11,371.72v10.16a5.54,5.54,0,0,1-1.63,4.22,6.25,6.25,0,0,1-4.48,1.54,6,6,0,0,1-4.41-1.55,5.72,5.72,0,0,1-1.56-4.25V371.72h1.84V382a4,4,0,0,0,1.08,3,4.31,4.31,0,0,0,3.17,1.06,4.22,4.22,0,0,0,3.07-1.06,4.07,4.07,0,0,0,1.08-3V371.72Z"/>
+    <path class="cls-9" d="M558.16,387.42v-15.7H560v15.7Z"/>
+    <path class="cls-9" d="M572,373.13a5.15,5.15,0,0,0-4.1,1.72,6.9,6.9,0,0,0-1.51,4.72,7.09,7.09,0,0,0,1.45,4.76,5.16,5.16,0,0,0,4.14,1.69,14.38,14.38,0,0,0,3.77-.59V387a11.91,11.91,0,0,1-4.05.61,6.85,6.85,0,0,1-5.38-2.11,8.65,8.65,0,0,1-1.89-6,9.34,9.34,0,0,1,.91-4.25,6.58,6.58,0,0,1,2.63-2.82,8,8,0,0,1,4.05-1,9.84,9.84,0,0,1,4.34.9l-.78,1.57A8.32,8.32,0,0,0,572,373.13Zm1.33,17.4a1.85,1.85,0,0,1-.83,1.61,4.29,4.29,0,0,1-2.44.57,5,5,0,0,1-1-.1v-1.14a6.31,6.31,0,0,0,1.13.09,3,3,0,0,0,1.29-.22.79.79,0,0,0,.43-.79.87.87,0,0,0-.42-.75,4.41,4.41,0,0,0-1.61-.46l1-1.92h1.19l-.59,1.24C572.64,388.94,573.29,389.56,573.29,390.53Z"/>
+    <path class="cls-9" d="M590,387.42l-2-5h-6.32l-1.94,5h-1.86l6.24-15.77h1.54l6.2,15.77Zm-3.54-17a2.26,2.26,0,0,1-.91-.2c-.29-.13-.58-.28-.87-.44s-.55-.31-.82-.44a1.69,1.69,0,0,0-.76-.2,1,1,0,0,0-.81.32,2.24,2.24,0,0,0-.43,1h-1.06a3.75,3.75,0,0,1,.76-2,2,2,0,0,1,1.61-.74,2.46,2.46,0,0,1,1,.2,8,8,0,0,1,.88.44c.28.16.55.31.81.44a1.64,1.64,0,0,0,.73.2,1,1,0,0,0,.79-.32,2.43,2.43,0,0,0,.42-1h1.07a3.7,3.7,0,0,1-.75,2A2,2,0,0,1,586.41,370.44Zm1,10.34-1.83-4.86c-.24-.62-.49-1.37-.74-2.27a19.88,19.88,0,0,1-.68,2.27l-1.85,4.86Z"/>
+    <path class="cls-9" d="M608.59,379.55a8.62,8.62,0,0,1-1.92,5.93,6.73,6.73,0,0,1-5.32,2.16,6.85,6.85,0,0,1-5.38-2.12,8.71,8.71,0,0,1-1.89-6,8.57,8.57,0,0,1,1.9-5.95,6.85,6.85,0,0,1,5.39-2.11,6.74,6.74,0,0,1,5.31,2.15A8.63,8.63,0,0,1,608.59,379.55Zm-12.57,0a7.43,7.43,0,0,0,1.36,4.84,4.87,4.87,0,0,0,4,1.65,4.79,4.79,0,0,0,4-1.65,9.36,9.36,0,0,0,0-9.65,4.77,4.77,0,0,0-3.94-1.64,4.88,4.88,0,0,0-4,1.65A7.36,7.36,0,0,0,596,379.55Z"/>
+    <path class="cls-9" d="M629.61,376.29A4.38,4.38,0,0,1,628,380a7.41,7.41,0,0,1-4.68,1.29h-1.85v6.17h-1.84v-15.7h4.09Q629.61,371.72,629.61,376.29Zm-8.16,3.39h1.65a6.12,6.12,0,0,0,3.53-.79,2.89,2.89,0,0,0,1.08-2.51,2.71,2.71,0,0,0-1-2.32,5.36,5.36,0,0,0-3.19-.76h-2Z"/>
+    <path class="cls-9" d="M635.63,380.89v6.53H633.8v-15.7h4.32a6.87,6.87,0,0,1,4.29,1.1,4,4,0,0,1,1.39,3.33,4.18,4.18,0,0,1-3.17,4.22l4.28,7.05h-2.17l-3.82-6.53Zm0-1.57h2.52a4.34,4.34,0,0,0,2.84-.76,2.85,2.85,0,0,0,.91-2.31A2.61,2.61,0,0,0,641,374a5,5,0,0,0-3-.69h-2.39Z"/>
+    <path class="cls-9" d="M648.34,387.42v-15.7h1.83v15.7Z"/>
+    <path class="cls-9" d="M664.39,371.72h2l-5.69,15.7h-1.81l-5.65-15.7h1.94l3.62,10.16a28.8,28.8,0,0,1,1,3.41,26.25,26.25,0,0,1,1-3.47Z"/>
+    <path class="cls-9" d="M679.34,387.42l-2-5h-6.32l-1.94,5h-1.86l6.24-15.77H675l6.2,15.77Zm-2.54-6.64L675,375.92c-.24-.62-.49-1.37-.74-2.27a19.88,19.88,0,0,1-.68,2.27l-1.85,4.86Z"/>
+    <path class="cls-9" d="M696.88,379.42a8,8,0,0,1-2.12,5.95,8.43,8.43,0,0,1-6.1,2.05h-4.37v-15.7h4.83a7.73,7.73,0,0,1,5.72,2A7.63,7.63,0,0,1,696.88,379.42Zm-2,.06a5.46,5.46,0,0,0-6.14-6.18h-2.67v12.54h2.23a6.8,6.8,0,0,0,4.93-1.6A6.36,6.36,0,0,0,694.93,379.48Z"/>
+    <path class="cls-9" d="M711.19,387.42l-2-5h-6.32l-1.95,5h-1.85l6.23-15.77h1.55l6.2,15.77Zm-2.53-6.64-1.84-4.86c-.23-.62-.48-1.37-.73-2.27a22.14,22.14,0,0,1-.68,2.27l-1.86,4.86Z"/>
+    <path class="cls-9" d="M479.24,409.64a3.85,3.85,0,0,1-1.51,3.24,6.59,6.59,0,0,1-4.1,1.16,10.34,10.34,0,0,1-4.32-.72v-1.76a11.94,11.94,0,0,0,2.12.64,11,11,0,0,0,2.26.24,4.54,4.54,0,0,0,2.77-.7,2.25,2.25,0,0,0,.92-1.92,2.56,2.56,0,0,0-.32-1.34,3,3,0,0,0-1.1-1,14.87,14.87,0,0,0-2.35-1,7.44,7.44,0,0,1-3.15-1.86,4.09,4.09,0,0,1-.94-2.8,3.48,3.48,0,0,1,1.37-2.89,5.67,5.67,0,0,1,3.62-1.08,10.8,10.8,0,0,1,4.33.86l-.57,1.59a9.88,9.88,0,0,0-3.8-.81,3.63,3.63,0,0,0-2.27.62,2,2,0,0,0-.82,1.73,2.68,2.68,0,0,0,.3,1.34,2.87,2.87,0,0,0,1,.95,12.45,12.45,0,0,0,2.19,1,8.82,8.82,0,0,1,3.42,1.89A3.73,3.73,0,0,1,479.24,409.64Z"/>
+    <path class="cls-9" d="M489.07,398.12l-5.88,15.7H481.4l5.88-15.7Z"/>
+    <path class="cls-9" d="M500.8,413.82H499v-15.7h8.79v1.62h-7v5.75h6.54v1.62H500.8Z"/>
+    <path class="cls-9" d="M511.26,413.82v-15.7h1.83v15.7Z"/>
+    <path class="cls-9" d="M530.62,413.82h-2.09l-8.62-13.18h-.09q.18,2.33.18,4.26v8.92h-1.7v-15.7h2.07l8.6,13.12h.09c0-.19,0-.81-.1-1.86s-.07-1.8-.05-2.25v-9h1.71Z"/>
+    <path class="cls-9" d="M544.74,409.64a3.85,3.85,0,0,1-1.51,3.24,6.57,6.57,0,0,1-4.1,1.16,10.29,10.29,0,0,1-4.31-.72v-1.76a11.83,11.83,0,0,0,2.11.64,11.09,11.09,0,0,0,2.27.24,4.53,4.53,0,0,0,2.76-.7,2.26,2.26,0,0,0,.93-1.92,2.46,2.46,0,0,0-.33-1.34,3,3,0,0,0-1.1-1,14.87,14.87,0,0,0-2.35-1,7.46,7.46,0,0,1-3.14-1.86,4.09,4.09,0,0,1-1-2.8,3.48,3.48,0,0,1,1.37-2.89,5.72,5.72,0,0,1,3.63-1.08,10.71,10.71,0,0,1,4.32.86l-.57,1.59a9.84,9.84,0,0,0-3.79-.81,3.66,3.66,0,0,0-2.28.62,2,2,0,0,0-.82,1.73,2.68,2.68,0,0,0,.3,1.34,2.87,2.87,0,0,0,1,.95,12.62,12.62,0,0,0,2.2,1,8.77,8.77,0,0,1,3.41,1.89A3.73,3.73,0,0,1,544.74,409.64Z"/>
+    <path class="cls-9" d="M555.48,413.82v-15.7h1.83v14.05h7v1.65Z"/>
+    <path class="cls-9" d="M579.74,398.12v10.16a5.5,5.5,0,0,1-1.63,4.22,6.25,6.25,0,0,1-4.48,1.54,6,6,0,0,1-4.4-1.55,5.72,5.72,0,0,1-1.56-4.25V398.12h1.83v10.25a4,4,0,0,0,1.08,3,4.34,4.34,0,0,0,3.17,1.06,4.25,4.25,0,0,0,3.08-1.06,4.07,4.07,0,0,0,1.08-3V398.12Z"/>
+    <path class="cls-9" d="M591.55,399.53a5.15,5.15,0,0,0-4.1,1.72,6.9,6.9,0,0,0-1.51,4.72,7.09,7.09,0,0,0,1.45,4.76,5.16,5.16,0,0,0,4.14,1.69,14.38,14.38,0,0,0,3.77-.59v1.6a11.91,11.91,0,0,1-4,.61,6.85,6.85,0,0,1-5.38-2.11,8.65,8.65,0,0,1-1.89-6,9.34,9.34,0,0,1,.91-4.25,6.58,6.58,0,0,1,2.63-2.82,8,8,0,0,1,4.05-1,9.84,9.84,0,0,1,4.34.9l-.78,1.57A8.32,8.32,0,0,0,591.55,399.53Z"/>
+    <path class="cls-9" d="M601.46,407.29v6.53h-1.84v-15.7H604a6.91,6.91,0,0,1,4.29,1.1,4,4,0,0,1,1.38,3.33,4.18,4.18,0,0,1-3.17,4.22l4.28,7.05h-2.16l-3.82-6.53Zm0-1.57H604a4.39,4.39,0,0,0,2.85-.76,2.88,2.88,0,0,0,.9-2.31,2.58,2.58,0,0,0-.92-2.24,5,5,0,0,0-3-.69h-2.38Z"/>
+    <path class="cls-9" d="M624.08,413.82l-2-5h-6.33l-1.94,5H612l6.23-15.77h1.54L626,413.82Zm-2.54-6.64-1.83-4.86c-.24-.62-.48-1.37-.73-2.27a22.14,22.14,0,0,1-.68,2.27l-1.86,4.86Z"/>
+    <path class="cls-9" d="M633.88,413.82h-1.83V399.74h-5v-1.62h11.82v1.62h-5Z"/>
+    <path class="cls-9" d="M642.14,413.82v-15.7H644v15.7Z"/>
+    <path class="cls-9" d="M658.19,398.12h2l-5.68,15.7h-1.81L647,398.12H649l3.63,10.16a26.93,26.93,0,0,1,1,3.41,27.92,27.92,0,0,1,1-3.47Z"/>
+    <path class="cls-9" d="M676.91,406a8.62,8.62,0,0,1-1.92,5.93,6.73,6.73,0,0,1-5.32,2.16,6.85,6.85,0,0,1-5.38-2.12,8.71,8.71,0,0,1-1.89-6,8.57,8.57,0,0,1,1.9-5.95,6.85,6.85,0,0,1,5.39-2.11A6.74,6.74,0,0,1,675,400,8.63,8.63,0,0,1,676.91,406Zm-12.57,0a7.43,7.43,0,0,0,1.36,4.84,4.87,4.87,0,0,0,4,1.65,4.79,4.79,0,0,0,4-1.65,9.36,9.36,0,0,0,0-9.65,4.77,4.77,0,0,0-3.94-1.64,4.88,4.88,0,0,0-4,1.65A7.36,7.36,0,0,0,664.34,406Z"/>
+    <path class="cls-9" d="M690.21,409.64a3.85,3.85,0,0,1-1.51,3.24,6.59,6.59,0,0,1-4.1,1.16,10.34,10.34,0,0,1-4.32-.72v-1.76a11.94,11.94,0,0,0,2.12.64,11,11,0,0,0,2.26.24,4.54,4.54,0,0,0,2.77-.7,2.27,2.27,0,0,0,.92-1.92,2.46,2.46,0,0,0-.33-1.34,2.87,2.87,0,0,0-1.1-1,14.28,14.28,0,0,0-2.34-1,7.44,7.44,0,0,1-3.15-1.86,4.09,4.09,0,0,1-.94-2.8,3.48,3.48,0,0,1,1.37-2.89,5.67,5.67,0,0,1,3.62-1.08,10.8,10.8,0,0,1,4.33.86l-.57,1.59a9.88,9.88,0,0,0-3.8-.81,3.68,3.68,0,0,0-2.28.62,2.06,2.06,0,0,0-.82,1.73,2.58,2.58,0,0,0,.31,1.34,2.87,2.87,0,0,0,1,.95,12.45,12.45,0,0,0,2.19,1,8.82,8.82,0,0,1,3.42,1.89A3.73,3.73,0,0,1,690.21,409.64Z"/>
+    <path class="cls-9" d="M707.86,413.82h-3.32v-9.08l0-1.5.06-1.63c-.55.55-.94.91-1.15,1.08l-1.81,1.45-1.6-2,5.06-4h2.73Z"/>
+    <path class="cls-9" d="M722.58,401.63a3.7,3.7,0,0,1-.89,2.5,4.64,4.64,0,0,1-2.51,1.42v.07a5,5,0,0,1,2.88,1.15,3.25,3.25,0,0,1,1,2.48,4.22,4.22,0,0,1-1.64,3.53,7.6,7.6,0,0,1-4.7,1.26,11.33,11.33,0,0,1-4.53-.85v-2.83a10.61,10.61,0,0,0,2,.76,8.58,8.58,0,0,0,2.17.29,4.27,4.27,0,0,0,2.43-.56,2.06,2.06,0,0,0,.78-1.8,1.61,1.61,0,0,0-.9-1.56,6.62,6.62,0,0,0-2.88-.47h-1.19v-2.54h1.21a5.61,5.61,0,0,0,2.67-.48,1.74,1.74,0,0,0,.84-1.64c0-1.19-.74-1.78-2.23-1.78a4.93,4.93,0,0,0-1.58.26,7.32,7.32,0,0,0-1.77.89l-1.54-2.29a8.54,8.54,0,0,1,5.12-1.55,6.65,6.65,0,0,1,3.86,1A3.18,3.18,0,0,1,722.58,401.63Z"/>
+  </g>
+  <rect class="cls-12" x="403.49" y="343.84" width="111.81" height="12.08"/>
+  <text class="cls-7" transform="matrix(1, 0, 0, 1, 91.230003, 513.349976)" style="white-space: pre;">NÃO INFORMADA </text>
+  <text class="cls-4" transform="matrix(1, 0, 0, 1, 292.040009, 513.349976)" style="white-space: pre;">6</text>
+  <rect class="cls-13" x="26.55" y="472.19" width="111.81" height="12.08"/>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 41.09, 1085.920044)" style="white-space: pre;">GO</text>
+  <g id="GO">
+    <g id="cicles">
+      <circle class="cls-15" cx="168.58" cy="1194.75" r="6.31"/>
+      <circle class="cls-15" cx="151.69" cy="1152.46" r="6.31"/>
+      <circle class="cls-15" cx="137.2" cy="1161.74" r="6.31"/>
+      <circle class="cls-15" cx="154.08" cy="1204.04" r="6.31"/>
+      <circle class="cls-15" cx="138.79" cy="1196.14" r="6.31"/>
+      <circle class="cls-15" cx="167.78" cy="1177.56" r="6.31"/>
+      <circle class="cls-12" cx="153.29" cy="1186.85" r="6.31"/>
+      <circle class="cls-15" cx="166.98" cy="1160.36" r="6.31"/>
+      <circle class="cls-10" cx="138" cy="1178.94" r="6.31"/>
+      <circle class="cls-10" cx="122.71" cy="1171.03" r="6.31"/>
+      <circle class="cls-10" cx="123.5" cy="1188.22" r="6.31"/>
+      <circle class="cls-10" cx="136.4" cy="1144.55" r="6.31"/>
+      <circle class="cls-10" cx="152.49" cy="1169.65" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="31.63" y="1055.71" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(210.94 1278.76)" style="white-space: pre;">13</text>
+  </g>
+  <text class="cls-19" transform="matrix(1, 0, 0, 1, 275.299988, 1554.219971)" style="white-space: pre;">CE</text>
+  <g id="CE">
+    <g id="cicles-2" data-name="cicles">
+      <circle class="cls-10" cx="372.91" cy="1655.35" r="6.31"/>
+      <circle class="cls-15" cx="373.89" cy="1625.55" r="6.31"/>
+      <circle class="cls-10" cx="382" cy="1640.73" r="6.31"/>
+      <circle class="cls-15" cx="390.12" cy="1655.92" r="6.31"/>
+      <circle class="cls-15" cx="391.09" cy="1626.12" r="6.31"/>
+      <circle class="cls-10" cx="364.8" cy="1640.17" r="6.31"/>
+      <circle class="cls-10" cx="399.21" cy="1641.3" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="265.84" y="1524.13" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(459.12 1740.01)" style="white-space: pre;">7</text>
+  </g>
+  <text class="cls-19" transform="matrix(1, 0, 0, 1, 509.109985, 2023.719971)" style="white-space: pre;">RO</text>
+  <g id="RO">
+    <g id="cicles-3" data-name="cicles">
+      <circle class="cls-15" cx="620.38" cy="2104.99" r="6.31"/>
+      <circle class="cls-15" cx="611.77" cy="2119.9" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="499.64" y="1992.55" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(689.31 2211.01)" style="white-space: pre;">2</text>
+  </g>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 271.690002, 852.919983)" style="white-space: pre;">PR</text>
+  <g id="PR">
+    <g id="cicles-4" data-name="cicles">
+      <circle class="cls-15" cx="361.45" cy="919.71" r="6.31"/>
+      <circle class="cls-12" cx="369.95" cy="904.74" r="6.31"/>
+      <circle class="cls-12" cx="379.1" cy="979.2" r="6.31"/>
+      <circle class="cls-6" cx="352.95" cy="934.68" r="6.31"/>
+      <circle class="cls-15" cx="413.31" cy="949.14" r="6.31"/>
+      <circle class="cls-15" cx="378.66" cy="919.58" r="6.31"/>
+      <circle class="cls-15" cx="361.67" cy="949.52" r="6.31"/>
+      <circle class="cls-15" cx="353.18" cy="964.49" r="6.31"/>
+      <circle class="cls-15" cx="387.16" cy="904.61" r="6.31"/>
+      <circle class="cls-15" cx="413.09" cy="919.33" r="6.31"/>
+      <circle class="cls-15" cx="395.88" cy="919.45" r="6.31"/>
+      <circle class="cls-15" cx="370.17" cy="934.55" r="6.31"/>
+      <circle class="cls-10" cx="404.6" cy="934.3" r="6.31"/>
+      <circle class="cls-10" cx="404.82" cy="964.1" r="6.31"/>
+      <circle class="cls-10" cx="387.38" cy="934.42" r="6.31"/>
+      <circle class="cls-10" cx="387.6" cy="964.24" r="6.31"/>
+      <circle class="cls-10" cx="396.1" cy="949.26" r="6.31"/>
+      <circle class="cls-15" cx="370.39" cy="964.36" r="6.31"/>
+      <circle class="cls-15" cx="396.32" cy="979.07" r="6.31"/>
+      <circle class="cls-9" cx="378.89" cy="949.39" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="265.84" y="821.5" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(440.85 1044.55)" style="white-space: pre;">20</text>
+  </g>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 271.070007, 2497.949951)" style="white-space: pre;">PA</text>
+  <g id="PA">
+    <g id="cicles-5" data-name="cicles">
+      <circle class="cls-15" cx="383.18" cy="2578.08" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="265.22" y="2460.98" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(459.12 2672.18)" style="white-space: pre;">1</text>
+  </g>
+  <text class="cls-19" transform="matrix(1, 0, 0, 1, 507.450012, 851.710022)" style="white-space: pre;">RS</text>
+  <g id="RS">
+    <g id="cicles-6" data-name="cicles">
+      <circle class="cls-15" cx="641.93" cy="956.01" r="6.31"/>
+      <circle class="cls-10" cx="638.56" cy="939.13" r="6.31"/>
+      <circle class="cls-15" cx="609.32" cy="944.99" r="6.31"/>
+      <circle class="cls-15" cx="625.63" cy="950.5" r="6.31"/>
+      <circle class="cls-15" cx="580.09" cy="950.84" r="6.31"/>
+      <circle class="cls-15" cx="602.56" cy="911.23" r="6.31"/>
+      <circle class="cls-15" cx="596.4" cy="956.35" r="6.31"/>
+      <circle class="cls-15" cx="589.63" cy="922.59" r="6.31"/>
+      <circle class="cls-9" cx="622.25" cy="933.62" r="6.31"/>
+      <circle class="cls-15" cx="612.7" cy="961.86" r="6.31"/>
+      <circle class="cls-15" cx="635.17" cy="922.25" r="6.31"/>
+      <circle class="cls-6" cx="618.86" cy="916.74" r="6.31"/>
+      <circle class="cls-15" cx="593.02" cy="939.48" r="6.31"/>
+      <circle class="cls-10" cx="605.94" cy="928.11" r="6.31"/>
+      <circle class="cls-15" cx="631.79" cy="905.37" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="500.05" y="821.5" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(671.04 1044.55)" style="white-space: pre;">15</text>
+  </g>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 39.029999, 1554.150024)" style="white-space: pre;">SE</text>
+  <g id="SE">
+    <g id="cicles-7" data-name="cicles">
+      <circle class="cls-15" cx="165.2" cy="1650.19" r="6.31"/>
+      <circle class="cls-10" cx="135.67" cy="1654.32" r="6.31"/>
+      <circle class="cls-9" cx="151.63" cy="1660.78" r="6.31"/>
+      <circle class="cls-15" cx="133.28" cy="1637.27" r="6.31"/>
+      <circle class="cls-15" cx="162.81" cy="1633.14" r="6.31"/>
+      <circle class="cls-10" cx="146.85" cy="1626.68" r="6.31"/>
+      <circle class="cls-15" cx="149.24" cy="1643.73" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="31.63" y="1524.06" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(229.21 1739.93)" style="white-space: pre;">7</text>
+  </g>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 507.119995, 2497.949951)" style="white-space: pre;">TO</text>
+  <g id="TO">
+    <g id="cicles-8" data-name="cicles">
+      <circle class="cls-10" cx="615.24" cy="2580.42" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="499.66" y="2460.98" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(689.31 2672.18)" style="white-space: pre;">1</text>
+  </g>
+  <text class="cls-19" transform="matrix(1, 0, 0, 1, 508.130005, 620.51001)" style="white-space: pre;">BRASIL</text>
+  <g id="BR">
+    <g id="cicles-9" data-name="cicles">
+      <circle class="cls-15" cx="624.48" cy="740.39" r="6.31"/>
+      <circle class="cls-12" cx="580.83" cy="699.78" r="6.31"/>
+      <circle class="cls-15" cx="652.98" cy="731.64" r="6.31"/>
+      <circle class="cls-15" cx="654.6" cy="686.13" r="6.31"/>
+      <circle class="cls-15" cx="619.43" cy="723.94" r="6.31"/>
+      <circle class="cls-15" cx="649.55" cy="669.67" r="6.31"/>
+      <circle class="cls-8" cx="647.93" cy="715.19" r="6.31"/>
+      <circle class="cls-8" cx="637.83" cy="682.28" r="6.31"/>
+      <circle class="cls-10" cx="614.38" cy="707.48" r="6.31"/>
+      <circle class="cls-10" cx="585.88" cy="716.23" r="6.31"/>
+      <circle class="cls-10" cx="631.15" cy="711.34" r="6.31"/>
+      <circle class="cls-10" cx="626.1" cy="694.88" r="6.31"/>
+      <circle class="cls-15" cx="621.06" cy="678.42" r="6.31"/>
+      <circle class="cls-6" cx="597.6" cy="703.63" r="6.31"/>
+      <circle class="cls-15" cx="659.65" cy="702.59" r="6.31"/>
+      <circle class="cls-15" cx="642.88" cy="698.73" r="6.31"/>
+      <circle class="cls-6" cx="592.55" cy="687.17" r="6.31"/>
+      <circle class="cls-15" cx="602.66" cy="720.08" r="6.31"/>
+      <circle class="cls-15" cx="636.2" cy="727.79" r="6.31"/>
+      <circle class="cls-15" cx="607.7" cy="736.54" r="6.31"/>
+      <circle class="cls-9" cx="604.28" cy="674.57" r="6.31"/>
+      <circle class="cls-15" cx="609.33" cy="691.02" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="500.05" y="587.73" width="234.21" height="233.77"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(671.04 810.78)" style="white-space: pre;">22</text>
+  </g>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 507.790009, 2263.73999)" style="white-space: pre;">MA</text>
+  <g id="MA">
+    <g id="cicles-10" data-name="cicles">
+      <circle class="cls-15" cx="618.24" cy="2345.77" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="499.66" y="2226.76" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(689.31 2437.97)" style="white-space: pre;">1</text>
+  </g>
+  <text class="cls-19" transform="matrix(1, 0, 0, 1, 42.23, 852.919983)" style="white-space: pre;">RJ</text>
+  <g id="RJ">
+    <g id="cicles-11" data-name="cicles">
+      <circle class="cls-15" cx="183.1" cy="963.65" r="6.31"/>
+      <circle class="cls-15" cx="112.72" cy="937.64" r="6.31"/>
+      <circle class="cls-10" cx="129.91" cy="936.7" r="6.31"/>
+      <circle class="cls-15" cx="128.28" cy="906.93" r="6.31"/>
+      <circle class="cls-15" cx="131.54" cy="966.47" r="6.31"/>
+      <circle class="cls-15" cx="158.13" cy="979.94" r="6.31"/>
+      <circle class="cls-10" cx="145.47" cy="905.99" r="6.31"/>
+      <circle class="cls-12" cx="148.72" cy="965.53" r="6.31"/>
+      <circle class="cls-12" cx="137.69" cy="921.34" r="6.31"/>
+      <circle class="cls-12" cx="165.91" cy="964.58" r="6.31"/>
+      <circle class="cls-12" cx="120.5" cy="922.28" r="6.31"/>
+      <circle class="cls-12" cx="122.13" cy="952.05" r="6.31"/>
+      <circle class="cls-10" cx="154.87" cy="920.4" r="6.31"/>
+      <circle class="cls-15" cx="190.88" cy="948.29" r="6.31"/>
+      <circle class="cls-10" cx="147.1" cy="935.75" r="6.31"/>
+      <circle class="cls-10" cx="181.48" cy="933.88" r="6.31"/>
+      <circle class="cls-15" cx="173.69" cy="949.23" r="6.31"/>
+      <circle class="cls-15" cx="172.07" cy="919.46" r="6.31"/>
+      <circle class="cls-15" cx="164.28" cy="934.81" r="6.31"/>
+      <circle class="cls-9" cx="156.5" cy="950.17" r="6.31"/>
+      <circle class="cls-9" cx="139.32" cy="951.11" r="6.31"/>
+      <circle class="cls-15" cx="162.66" cy="905.05" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="31.63" y="821.5" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(210.94 1044.55)" style="white-space: pre;">22</text>
+  </g>
+  <text class="cls-19" transform="matrix(1, 0, 0, 1, 37.080002, 2024.709961)" style="white-space: pre;">RN</text>
+  <g id="cicles-12" data-name="cicles">
+    <circle class="cls-15" cx="137.23" cy="2115.43" r="6.31"/>
+    <circle class="cls-10" cx="153.59" cy="2120.79" r="6.31"/>
+    <circle class="cls-15" cx="142.97" cy="2099.2" r="6.31"/>
+    <circle class="cls-9" cx="159.33" cy="2104.56" r="6.31"/>
+  </g>
+  <rect class="cls-16" x="31.23" y="1992.55" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(229.21 2211.01)" style="white-space: pre;">4</text>
+  </g>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 272.850006, 2024.709961)" style="white-space: pre;">AL</text>
+  <g id="AL">
+    <g id="cicles-13" data-name="cicles">
+      <circle class="cls-15" cx="390.77" cy="2114.36" r="6.31"/>
+      <circle class="cls-15" cx="373.56" cy="2114.73" r="6.31"/>
+      <circle class="cls-9" cx="381.85" cy="2099.64" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="265.45" y="1992.55" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(459.12 2211.01)" style="white-space: pre;">3</text>
+  </g>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 276.440002, 1790.5)" style="white-space: pre;">AM</text>
+  <g id="AM">
+    <g id="cicles-14" data-name="cicles">
+      <circle class="cls-15" cx="392.15" cy="1865.79" r="6.31"/>
+      <circle class="cls-10" cx="375.08" cy="1867.98" r="6.31"/>
+      <circle class="cls-10" cx="373.34" cy="1885.1" r="6.31"/>
+      <circle class="cls-15" cx="390.42" cy="1882.92" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="265.84" y="1758.34" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(459.12 1976.8)" style="white-space: pre;">4</text>
+  </g>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 509.579987, 1790.5)" style="white-space: pre;">MS</text>
+  <g id="MS">
+    <g id="cicles-15" data-name="cicles">
+      <circle class="cls-15" cx="626.04" cy="1880.05" r="6.31"/>
+      <circle class="cls-10" cx="612.01" cy="1870.08" r="6.31"/>
+      <circle class="cls-10" cx="602.09" cy="1884.15" r="6.31"/>
+      <circle class="cls-10" cx="616.12" cy="1894.12" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="499.66" y="1758.34" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(689.31 1976.8)" style="white-space: pre;">4</text>
+  </g>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 41.880001, 2497.949951)" style="white-space: pre;">MT</text>
+  <g id="MT">
+    <g id="cicles-16" data-name="cicles">
+      <circle class="cls-15" cx="148.38" cy="2574.57" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="31.22" y="2460.98" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(229.21 2672.18)" style="white-space: pre;">1</text>
+  </g>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 42.580002, 618.710022)" style="white-space: pre;"><tspan> SP</tspan></text>
+  <circle class="cls-15" cx="193.95" cy="673.62" r="6.31"/>
+  <circle class="cls-15" cx="194.31" cy="735.67" r="6.31"/>
+  <circle class="cls-15" cx="181.48" cy="661.76" r="6.31"/>
+  <circle class="cls-15" cx="173.77" cy="757.27" r="6.31"/>
+  <circle class="cls-15" cx="90.89" cy="719.57" r="6.31"/>
+  <circle class="cls-6" cx="165.34" cy="728.68" r="6.31"/>
+  <circle class="cls-15" cx="103.36" cy="731.43" r="6.31"/>
+  <circle class="cls-15" cx="189.91" cy="690.34" r="6.31"/>
+  <circle class="cls-10" cx="94.92" cy="702.84" r="6.31"/>
+  <circle class="cls-15" cx="181.84" cy="723.81" r="6.31"/>
+  <circle class="cls-15" cx="160.94" cy="683.36" r="6.31"/>
+  <circle class="cls-15" cx="198.35" cy="718.94" r="6.31"/>
+  <circle class="cls-15" cx="140.4" cy="704.96" r="6.31"/>
+  <circle class="cls-15" cx="202.39" cy="702.2" r="6.31"/>
+  <circle class="cls-15" cx="119.86" cy="726.56" r="6.31"/>
+  <circle class="cls-12" cx="127.94" cy="693.1" r="6.31"/>
+  <circle class="cls-15" cx="132.33" cy="738.41" r="6.31"/>
+  <circle class="cls-15" cx="152.87" cy="716.82" r="6.31"/>
+  <circle class="cls-15" cx="131.96" cy="676.37" r="6.31"/>
+  <circle class="cls-10" cx="148.46" cy="671.5" r="6.31"/>
+  <circle class="cls-15" cx="136.37" cy="721.69" r="6.31"/>
+  <circle class="cls-10" cx="185.89" cy="707.08" r="6.31"/>
+  <circle class="cls-10" cx="169.37" cy="711.95" r="6.31"/>
+  <circle class="cls-10" cx="156.9" cy="700.09" r="6.31"/>
+  <circle class="cls-10" cx="123.91" cy="709.83" r="6.31"/>
+  <circle class="cls-10" cx="148.83" cy="733.54" r="6.31"/>
+  <circle class="cls-10" cx="177.44" cy="678.49" r="6.31"/>
+  <circle class="cls-13" cx="169.01" cy="649.89" r="6.31"/>
+  <circle class="cls-13" cx="152.5" cy="654.77" r="6.31"/>
+  <circle class="cls-13" cx="136" cy="659.64" r="6.31"/>
+  <circle class="cls-13" cx="164.97" cy="666.63" r="6.31"/>
+  <circle class="cls-15" cx="111.43" cy="697.97" r="6.31"/>
+  <circle class="cls-15" cx="144.43" cy="688.23" r="6.31"/>
+  <circle class="cls-15" cx="119.49" cy="664.5" r="6.31"/>
+  <circle class="cls-6" cx="107.39" cy="714.7" r="6.31"/>
+  <circle class="cls-15" cx="161.3" cy="745.41" r="6.31"/>
+  <circle class="cls-15" cx="173.41" cy="695.22" r="6.31"/>
+  <circle class="cls-10" cx="177.81" cy="740.54" r="6.31"/>
+  <circle class="cls-15" cx="115.46" cy="681.24" r="6.31"/>
+  <circle class="cls-9" cx="144.8" cy="750.28" r="6.31"/>
+  <circle class="cls-9" cx="98.95" cy="686.1" r="6.31"/>
+  <circle class="cls-9" cx="115.83" cy="743.29" r="6.31"/>
+  <rect class="cls-16" x="31.63" y="587.29" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(210.94 810.34)" style="white-space: pre;">42</text>
+  </g>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 276.790009, 1085.800049)" style="white-space: pre;">MG</text>
+  <g id="MG">
+    <g id="cicles-17" data-name="cicles">
+      <circle class="cls-15" cx="359.48" cy="1177.82" r="6.31"/>
+      <circle class="cls-15" cx="384.62" cy="1201.35" r="6.31"/>
+      <circle class="cls-15" cx="363.38" cy="1161.06" r="6.31"/>
+      <circle class="cls-15" cx="404.99" cy="1179.58" r="6.31"/>
+      <circle class="cls-12" cx="367.3" cy="1144.29" r="6.31"/>
+      <circle class="cls-15" cx="375.95" cy="1172.82" r="6.31"/>
+      <circle class="cls-8" cx="396.33" cy="1151.05" r="6.31"/>
+      <circle class="cls-10" cx="392.42" cy="1167.82" r="6.31"/>
+      <circle class="cls-15" cx="379.86" cy="1156.06" r="6.31"/>
+      <circle class="cls-15" cx="388.52" cy="1184.58" r="6.31"/>
+      <circle class="cls-10" cx="372.05" cy="1189.58" r="6.31"/>
+      <circle class="cls-15" cx="408.89" cy="1162.82" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="265.84" y="1055.71" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(440.85 1271.59)" style="white-space: pre;">12</text>
+  </g>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 511, 1556.290039)" style="white-space: pre;">DF</text>
+  <g id="DF">
+    <g id="cicles-18" data-name="cicles">
+      <circle class="cls-15" cx="617.63" cy="1628.29" r="6.31"/>
+      <circle class="cls-10" cx="629.37" cy="1640.89" r="6.31"/>
+      <circle class="cls-9" cx="624.32" cy="1657.35" r="6.31"/>
+      <circle class="cls-15" cx="612.59" cy="1644.75" r="6.31"/>
+      <circle class="cls-15" cx="600.86" cy="1632.15" r="6.31"/>
+      <circle class="cls-15" cx="607.54" cy="1661.2" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="500.05" y="1524.13" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(689.31 1742.59)" style="white-space: pre;">6</text>
+  </g>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 42.169998, 2263.73999)" style="white-space: pre;">AC</text>
+  <g id="AC">
+    <g id="cicles-19" data-name="cicles">
+      <circle class="cls-15" cx="144.01" cy="2348.17" r="6.31"/>
+      <circle class="cls-15" cx="157.18" cy="2337.07" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="31.22" y="2226.76" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(229.21 2437.97)" style="white-space: pre;">2</text>
+  </g>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 274.269989, 617.5)" style="white-space: pre;">SC</text>
+  <g id="SC">
+    <g id="cicles-20" data-name="cicles">
+      <circle class="cls-15" cx="394.08" cy="670.25" r="6.31"/>
+      <circle class="cls-10" cx="339.85" cy="695.04" r="6.31"/>
+      <circle class="cls-15" cx="418.37" cy="687.53" r="6.31"/>
+      <circle class="cls-6" cx="405.58" cy="731.24" r="6.31"/>
+      <circle class="cls-6" cx="371.31" cy="727.98" r="6.31"/>
+      <circle class="cls-10" cx="401.24" cy="685.9" r="6.31"/>
+      <circle class="cls-15" cx="395.6" cy="745.26" r="6.31"/>
+      <circle class="cls-15" cx="361.33" cy="742.01" r="6.31"/>
+      <circle class="cls-15" cx="408.4" cy="701.55" r="6.31"/>
+      <circle class="cls-12" cx="391.26" cy="699.93" r="6.31"/>
+      <circle class="cls-15" cx="398.42" cy="715.58" r="6.31"/>
+      <circle class="cls-15" cx="415.55" cy="717.21" r="6.31"/>
+      <circle class="cls-10" cx="347.01" cy="710.7" r="6.31"/>
+      <circle class="cls-10" cx="378.46" cy="743.63" r="6.31"/>
+      <circle class="cls-10" cx="384.1" cy="684.28" r="6.31"/>
+      <circle class="cls-10" cx="337.04" cy="724.73" r="6.31"/>
+      <circle class="cls-15" cx="364.15" cy="712.33" r="6.31"/>
+      <circle class="cls-8" cx="388.44" cy="729.61" r="6.31"/>
+      <circle class="cls-8" cx="349.83" cy="681.02" r="6.31"/>
+      <circle class="cls-15" cx="381.28" cy="713.96" r="6.31"/>
+      <circle class="cls-15" cx="376.94" cy="668.62" r="6.31"/>
+      <circle class="cls-15" cx="374.13" cy="698.3" r="6.31"/>
+      <circle class="cls-15" cx="366.97" cy="682.65" r="6.31"/>
+      <circle class="cls-15" cx="356.99" cy="696.68" r="6.31"/>
+      <circle class="cls-15" cx="354.17" cy="726.35" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="265.84" y="587.29" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(440.85 810.34)" style="white-space: pre;">25</text>
+  </g>
+  <text class="cls-19" transform="matrix(1, 0, 0, 1, 505.899994, 1319.930054)" style="white-space: pre;">BA</text>
+  <g id="BA">
+    <g id="cicles-21" data-name="cicles">
+      <circle class="cls-10" cx="628.28" cy="1427.73" r="6.31"/>
+      <circle class="cls-10" cx="630.05" cy="1397.97" r="6.31"/>
+      <circle class="cls-15" cx="637.76" cy="1413.36" r="6.31"/>
+      <circle class="cls-10" cx="612.87" cy="1396.94" r="6.31"/>
+      <circle class="cls-13" cx="620.58" cy="1412.34" r="6.31"/>
+      <circle class="cls-13" cx="603.39" cy="1411.31" r="6.31"/>
+      <circle class="cls-15" cx="611.1" cy="1426.71" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="500.05" y="1289.85" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(689.31 1505.72)" style="white-space: pre;">7</text>
+  </g>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 276.450012, 1320.01001)" style="white-space: pre;">PE</text>
+  <g id="PE">
+    <g id="cicles-22" data-name="cicles">
+      <circle class="cls-15" cx="392.4" cy="1430.77" r="6.31"/>
+      <circle class="cls-15" cx="405.3" cy="1403.89" r="6.31"/>
+      <circle class="cls-15" cx="389.77" cy="1396.45" r="6.31"/>
+      <circle class="cls-15" cx="374.25" cy="1389" r="6.31"/>
+      <circle class="cls-15" cx="361.36" cy="1415.89" r="6.31"/>
+      <circle class="cls-10" cx="375.57" cy="1406.17" r="6.31"/>
+      <circle class="cls-10" cx="376.88" cy="1423.33" r="6.31"/>
+      <circle class="cls-12" cx="391.09" cy="1413.61" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="265.84" y="1289.92" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(459.12 1505.8)" style="white-space: pre;">8</text>
+  </g>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 39.700001, 1320.01001)" style="white-space: pre;">ES</text>
+  <g id="ES">
+    <g id="cicles-23" data-name="cicles">
+      <circle class="cls-15" cx="169.27" cy="1418.94" r="6.31"/>
+      <circle class="cls-15" cx="127.58" cy="1400.59" r="6.31"/>
+      <circle class="cls-15" cx="152.11" cy="1417.55" r="6.31"/>
+      <circle class="cls-15" cx="161.9" cy="1403.39" r="6.31"/>
+      <circle class="cls-15" cx="144.74" cy="1401.99" r="6.31"/>
+      <circle class="cls-15" cx="154.52" cy="1387.83" r="6.31"/>
+      <circle class="cls-15" cx="134.95" cy="1416.15" r="6.31"/>
+      <circle class="cls-15" cx="142.32" cy="1431.71" r="6.31"/>
+    </g>
+  </g>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(229.21 1505.8)" style="white-space: pre;">8</text>
+  </g>
+  <rect class="cls-16" x="31.63" y="1289.92" width="234.21" height="234.21"/>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 509.100006, 1085.719971)" style="white-space: pre;">PB</text>
+  <g id="PB">
+    <g id="cicles-24" data-name="cicles">
+      <circle class="cls-15" cx="625.86" cy="1153.35" r="6.31"/>
+      <circle class="cls-10" cx="596.59" cy="1159" r="6.31"/>
+      <circle class="cls-15" cx="616.13" cy="1181.53" r="6.31"/>
+      <circle class="cls-15" cx="619.39" cy="1198.43" r="6.31"/>
+      <circle class="cls-15" cx="612.86" cy="1164.63" r="6.31"/>
+      <circle class="cls-15" cx="599.86" cy="1175.9" r="6.31"/>
+      <circle class="cls-10" cx="629.13" cy="1170.25" r="6.31"/>
+      <circle class="cls-15" cx="603.12" cy="1192.81" r="6.31"/>
+      <circle class="cls-15" cx="632.4" cy="1187.15" r="6.31"/>
+    </g>
+  </g>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(689.31 1271.51)" style="white-space: pre;">9</text>
+  </g>
+  <rect class="cls-16" x="500.05" y="1055.63" width="234.21" height="234.21"/>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 40.060001, 1790.5)" style="white-space: pre;">PI</text>
+  <g id="PI">
+    <g id="cicles-25" data-name="cicles">
+      <circle class="cls-15" cx="154.93" cy="1885.05" r="6.31"/>
+      <circle class="cls-10" cx="139.66" cy="1892.98" r="6.31"/>
+      <circle class="cls-9" cx="170.21" cy="1877.11" r="6.31"/>
+      <circle class="cls-15" cx="140.42" cy="1875.79" r="6.31"/>
+      <circle class="cls-15" cx="141.19" cy="1858.59" r="6.31"/>
+      <circle class="cls-15" cx="155.7" cy="1867.85" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="31.63" y="1758.34" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(229.21 1976.8)" style="white-space: pre;">6</text>
+  </g>
+  <text class="cls-14" transform="matrix(1, 0, 0, 1, 273.869995, 2263.73999)" style="white-space: pre;">AP</text>
+  <g id="AP">
+    <g id="cicles-26" data-name="cicles">
+      <circle class="cls-15" cx="382.18" cy="2345.53" r="6.31"/>
+    </g>
+  </g>
+  <rect class="cls-16" x="265.43" y="2226.76" width="234.21" height="234.21"/>
+  <g class="cls-17">
+    <text class="cls-18" transform="translate(459.12 2437.97)" style="white-space: pre;">1</text>
+  </g>
+</svg>

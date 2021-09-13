@@ -1,5 +1,5 @@
 ---
-layout: texto
+layout: texto_eng
 ordem: 1100
 #slider: sim
 idn: atores

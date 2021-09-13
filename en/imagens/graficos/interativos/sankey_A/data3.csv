@@ -1,0 +1,132 @@
+source,target,value,uf,regiao,count,tipo,funcao
+Aparecida de Goiânia,fluxo de pessoas,1,GO,Centro-Oeste,41,regiao,fluxo de pessoas
+Aparecida de Goiânia,fluxo de pessoas,1,GO,Centro-Oeste,41,regiao,fluxo de pessoas
+Caldas Novas,fluxo de pessoas,1,GO,Centro-Oeste,41,regiao,fluxo de pessoas
+Brasília,Telemedicina,1,DF,Centro-Oeste,37,regiao,Telemedicina
+Luziânia,Telemedicina,1,GO,Centro-Oeste,37,regiao,Telemedicina
+Luziânia,Telemedicina,1,GO,Centro-Oeste,37,regiao,Telemedicina
+Campo Grande,Telemedicina,1,MS,Centro-Oeste,37,regiao,Telemedicina
+Campo Grande,Telemedicina,1,MS,Centro-Oeste,37,regiao,Telemedicina
+Aparecida de Goiânia,Rastr contatos,1,GO,Centro-Oeste,11,regiao,Rastr contatos
+Aparecida de Goiânia,Dig serviços públicos,1,GO,Centro-Oeste,3,regiao,Dig serviços públicos
+Maceió,fluxo de pessoas,1,AL,Nordeste,41,regiao,fluxo de pessoas
+Campina Grande,fluxo de pessoas,1,PB,Nordeste,41,regiao,fluxo de pessoas
+João Pessoa,fluxo de pessoas,1,PB,Nordeste,41,regiao,fluxo de pessoas
+Caruaru,fluxo de pessoas,1,PE,Nordeste,41,regiao,fluxo de pessoas
+Recife,fluxo de pessoas,1,PE,Nordeste,41,regiao,fluxo de pessoas
+Recife,fluxo de pessoas,1,PE,Nordeste,41,regiao,fluxo de pessoas
+Teresina,fluxo de pessoas,1,PI,Nordeste,41,regiao,fluxo de pessoas
+Teresina,fluxo de pessoas,1,PI,Nordeste,41,regiao,fluxo de pessoas
+Aracaju,fluxo de pessoas,1,SE,Nordeste,41,regiao,fluxo de pessoas
+Jaboatão dos Guararapes,Telemedicina,1,PE,Nordeste,37,regiao,Telemedicina
+Recife,Telemedicina,1,PE,Nordeste,37,regiao,Telemedicina
+Teresina,Telemedicina,1,PI,Nordeste,37,regiao,Telemedicina
+Salvador,temperatura,1,BA,Nordeste,17,regiao,temperatura
+Vitória da Conquista,Evolução COVID-19,1,BA,Nordeste,17,regiao,Evolução COVID-19
+Fortaleza,temperatura,1,CE,Nordeste,17,regiao,temperatura
+João Pessoa,temperatura,1,PB,Nordeste,17,regiao,temperatura
+João Pessoa,Evolução COVID-19,1,PB,Nordeste,17,regiao,Evolução COVID-19
+Recife,Evolução COVID-19,1,PE,Nordeste,17,regiao,Evolução COVID-19
+Recife,Evolução COVID-19,1,PE,Nordeste,17,regiao,Evolução COVID-19
+Parnamirim,Evolução COVID-19,1,RN,Nordeste,17,regiao,Evolução COVID-19
+Aracaju,temperatura,1,SE,Nordeste,17,regiao,temperatura
+Aracaju,Evolução COVID-19,1,SE,Nordeste,17,regiao,Evolução COVID-19
+Araguaína,Evolução COVID-19,1,TO,Nordeste,17,regiao,Evolução COVID-19
+Aracaju,Rastr contatos,1,SE,Nordeste,11,regiao,Rastr contatos
+João Pessoa,Forn informações,1,PB,Nordeste,3,regiao,Forn informações
+Salvador,Id de pessoas,1,BA,Nordeste,1,regiao,Id de pessoas
+Rio Branco,fluxo de pessoas,1,AC,Norte,41,regiao,fluxo de pessoas
+Macapá,fluxo de pessoas,1,AP,Norte,41,regiao,fluxo de pessoas
+Porto Velho,Telemedicina,1,RO,Norte,37,regiao,Telemedicina
+Manaus,Evolução COVID-19,1,AM,Norte,17,regiao,Evolução COVID-19
+Manaus,Rastr contatos,1,AM,Norte,11,regiao,Rastr contatos
+Cachoeiro de Itapemirim,fluxo de pessoas,1,ES,Sudeste,41,regiao,fluxo de pessoas
+Belo Horizonte,fluxo de pessoas,1,MG,Sudeste,41,regiao,fluxo de pessoas
+Governador Valadares,fluxo de pessoas,1,MG,Sudeste,41,regiao,fluxo de pessoas
+Varginha,fluxo de pessoas,1,MG,Sudeste,41,regiao,fluxo de pessoas
+Niterói,fluxo de pessoas,1,RJ,Sudeste,41,regiao,fluxo de pessoas
+Rio de Janeiro,fluxo de pessoas,1,RJ,Sudeste,41,regiao,fluxo de pessoas
+Rio de Janeiro,fluxo de pessoas,1,RJ,Sudeste,41,regiao,fluxo de pessoas
+Teresópolis,fluxo de pessoas,1,RJ,Sudeste,41,regiao,fluxo de pessoas
+Campinas,fluxo de pessoas,1,SP,Sudeste,41,regiao,fluxo de pessoas
+Campinas,fluxo de pessoas,1,SP,Sudeste,41,regiao,fluxo de pessoas
+Jacareí,fluxo de pessoas,1,SP,Sudeste,41,regiao,fluxo de pessoas
+Santo André,fluxo de pessoas,1,SP,Sudeste,41,regiao,fluxo de pessoas
+São Carlos,fluxo de pessoas,1,SP,Sudeste,41,regiao,fluxo de pessoas
+São Paulo,fluxo de pessoas,1,SP,Sudeste,41,regiao,fluxo de pessoas
+São Paulo,fluxo de pessoas,1,SP,Sudeste,41,regiao,fluxo de pessoas
+São Paulo,fluxo de pessoas,1,SP,Sudeste,41,regiao,fluxo de pessoas
+Belo Horizonte,Telemedicina,1,MG,Sudeste,37,regiao,Telemedicina
+Belo Horizonte,Telemedicina,1,MG,Sudeste,37,regiao,Telemedicina
+Itajubá,Telemedicina,1,MG,Sudeste,37,regiao,Telemedicina
+Juiz de Fora,Telemedicina,1,MG,Sudeste,37,regiao,Telemedicina
+Campos dos Goytacazes,Telemedicina,1,RJ,Sudeste,37,regiao,Telemedicina
+Macaé,Telemedicina,1,RJ,Sudeste,37,regiao,Telemedicina
+Nova Iguaçu,Telemedicina,1,RJ,Sudeste,37,regiao,Telemedicina
+Rio de Janeiro,Telemedicina,1,RJ,Sudeste,37,regiao,Telemedicina
+Rio de Janeiro,Telemedicina,1,RJ,Sudeste,37,regiao,Telemedicina
+São João da Barra,Telemedicina,1,RJ,Sudeste,37,regiao,Telemedicina
+São Leopoldo,Telemedicina,1,RJ,Sudeste,37,regiao,Telemedicina
+Teresópolis,Telemedicina,1,RJ,Sudeste,37,regiao,Telemedicina
+Campinas,Telemedicina,1,SP,Sudeste,37,regiao,Telemedicina
+Santa Isabel,Telemedicina,1,SP,Sudeste,37,regiao,Telemedicina
+Santana de Parnaíba,Telemedicina,1,SP,Sudeste,37,regiao,Telemedicina
+São Paulo,Telemedicina,1,SP,Sudeste,37,regiao,Telemedicina
+Rio de Janeiro,temperatura,1,RJ,Sudeste,17,regiao,temperatura
+Volta Redonda,Evolução COVID-19,1,RJ,Sudeste,17,regiao,Evolução COVID-19
+Bauru,Evolução COVID-19,1,SP,Sudeste,17,regiao,Evolução COVID-19
+Campinas,temperatura,1,SP,Sudeste,17,regiao,temperatura
+Campinas,Evolução COVID-19,1,SP,Sudeste,17,regiao,Evolução COVID-19
+Campinas,temperatura,1,SP,Sudeste,17,regiao,temperatura
+Guarulhos,temperatura,1,SP,Sudeste,17,regiao,temperatura
+Guarulhos,temperatura,1,SP,Sudeste,17,regiao,temperatura
+Guarulhos,Evolução COVID-19,1,SP,Sudeste,17,regiao,Evolução COVID-19
+Santos,Evolução COVID-19,1,SP,Sudeste,17,regiao,Evolução COVID-19
+São Sebastião,temperatura,1,SP,Sudeste,17,regiao,temperatura
+Betim,Rastr contatos,1,MG,Sudeste,11,regiao,Rastr contatos
+Governador Valadares,Rastr contatos,1,MG,Sudeste,11,regiao,Rastr contatos
+São Caetano do Sul,Rastr contatos,1,SP,Sudeste,11,regiao,Rastr contatos
+São Paulo,Rastr contatos,1,SP,Sudeste,11,regiao,Rastr contatos
+Sorocaba,Rastr contatos,1,SP,Sudeste,11,regiao,Rastr contatos
+Maricá,Forn informações,1,RJ,Sudeste,3,regiao,Forn informações
+Santo André,Dig serviços públicos,1,SP,Sudeste,3,regiao,Dig serviços públicos
+São Paulo,Dig serviços públicos,1,SP,Sudeste,3,regiao,Dig serviços públicos
+Cascavel,fluxo de pessoas,1,PR,Sul,41,regiao,fluxo de pessoas
+Curitiba,fluxo de pessoas,1,PR,Sul,41,regiao,fluxo de pessoas
+Foz do Iguaçu,fluxo de pessoas,1,PR,Sul,41,regiao,fluxo de pessoas
+Maringá,fluxo de pessoas,1,PR,Sul,41,regiao,fluxo de pessoas
+Ponta Grossa,fluxo de pessoas,1,PR,Sul,41,regiao,fluxo de pessoas
+Ijuí,fluxo de pessoas,1,RS,Sul,41,regiao,fluxo de pessoas
+Porto Alegre,fluxo de pessoas,1,RS,Sul,41,regiao,fluxo de pessoas
+Porto Alegre,fluxo de pessoas,1,RS,Sul,41,regiao,fluxo de pessoas
+Rio Grande,fluxo de pessoas,1,RS,Sul,41,regiao,fluxo de pessoas
+Tubarão,fluxo de pessoas,1,SC,Sul,41,regiao,fluxo de pessoas
+Tubarão,fluxo de pessoas,1,SC,Sul,41,regiao,fluxo de pessoas
+Curitiba,Telemedicina,1,PR,Sul,37,regiao,Telemedicina
+Foz do Iguaçu,Telemedicina,1,PR,Sul,37,regiao,Telemedicina
+Pinhais,Telemedicina,1,PR,Sul,37,regiao,Telemedicina
+São José dos Pinhais,Telemedicina,1,PR,Sul,37,regiao,Telemedicina
+Alegrete,Telemedicina,1,RS,Sul,37,regiao,Telemedicina
+Mampituba,Telemedicina,1,RS,Sul,37,regiao,Telemedicina
+Três Cachoeiras,Telemedicina,1,RS,Sul,37,regiao,Telemedicina
+Balneário Camboriú,Telemedicina,1,SC,Sul,37,regiao,Telemedicina
+Blumenau,Telemedicina,1,SC,Sul,37,regiao,Telemedicina
+Florianópolis,Telemedicina,1,SC,Sul,37,regiao,Telemedicina
+Jaraguá do Sul,Telemedicina,1,SC,Sul,37,regiao,Telemedicina
+Passo de Torres,Telemedicina,1,SC,Sul,37,regiao,Telemedicina
+Curitiba,temperatura,1,PR,Sul,17,regiao,temperatura
+Fazenda Rio Grande,Evolução COVID-19,1,PR,Sul,17,regiao,Evolução COVID-19
+São José dos Pinhais,Evolução COVID-19,1,PR,Sul,17,regiao,Evolução COVID-19
+Umuarama,Evolução COVID-19,1,PR,Sul,17,regiao,Evolução COVID-19
+Porto Alegre,temperatura,1,RS,Sul,17,regiao,temperatura
+Porto Alegre,temperatura,1,RS,Sul,17,regiao,temperatura
+Sapiranga,temperatura,1,RS,Sul,17,regiao,temperatura
+Florianópolis,temperatura,1,SC,Sul,17,regiao,temperatura
+Florianópolis,temperatura,1,SC,Sul,17,regiao,temperatura
+Itajaí,temperatura,1,SC,Sul,17,regiao,temperatura
+Itajaí,Evolução COVID-19,1,SC,Sul,17,regiao,Evolução COVID-19
+Brusque,Rastr contatos,1,SC,Sul,11,regiao,Rastr contatos
+Governador Celso Ramos,Rastr contatos,1,SC,Sul,11,regiao,Rastr contatos
+Jaraguá do Sul,Rastr contatos,1,SC,Sul,11,regiao,Rastr contatos
+São José dos Pinhais,Forn informações,1,PR,Sul,3,regiao,Forn informações
+Balneário Camboriú,uso de máscara,1,SC,Sul,1,regiao,uso de máscara

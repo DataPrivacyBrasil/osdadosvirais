@@ -1,5 +1,5 @@
 ---
-layout: grafico_escuro
+layout: grafico_escuro_eng
 title: "TECHNOLOGIES PER MUNICIPALITIES, PLAYERS AND FUNCTIONALITIES"
 descricao: "The graph allows the interactive visualization of the correlation between three variables: location in which the technology was implemented, suppliers and functionalities of those technologies. Thus, it is possible to identify what functionalities were applied in a given city, as well as which players supply a given functionality"
 iframe: '<iframe class="d-desk" src="imagens/graficos/interativos/techs-expand" height="1500px" width="100%" frameborder="no" seamless> </iframe>'

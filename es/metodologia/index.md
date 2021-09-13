@@ -1,3 +1,3 @@
 ---
-layout: page_lai
+layout: page_lai_esp
 ---

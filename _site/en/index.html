@@ -1,0 +1,1015 @@
+<!DOCTYPE html>
+
+<!DOCTYPE html>
+  <head>
+    <title>Dados Virais</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name=”robots” content="index, follow">
+    <meta name="googlebot" content="index,follow" />
+    <link rel="canonical" href="https://osdadosvirais.dataprivacybr.org" />
+
+    <!-- CSS -->
+    <link rel="stylesheet" type="text/css" href="/css/master.css">
+    <link rel="stylesheet" type="text/css" href="/css/slick.css"/>
+
+    <!-- Favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/imagens/favicon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/imagens/favicon.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/imagens/favicon.png">
+
+    <!-- META -->
+    <meta name="msapplication-TileImage" content="/imagens/favicon.png" />
+    <meta name="author" content="DataPrivacyBr">
+    <meta name="description" content="Uma investigação sobre tecnologias baseadas em dados pessoais, usadas no combate à Covid-19 no Brasil">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,700;1,300&display=swap" rel="stylesheet">
+
+    <!-- AVOID PHONE NUMBER AUTO FORMAT ON iOS FUCKING SAFARI  -->
+    <meta name="format-detection" content="telephone=no">
+
+    <!-- Facebook's OG Tags -->
+    <meta property="og:url" content="https://osdadosvirais.dataprivacybr.org" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Dados Virais" />
+    <meta property="og:description" content="Uma investigação sobre tecnologias baseadas em dados pessoais, usadas no combate à Covid-19 no Brasil" />
+    <meta property="og:image" content="/imagens/social-share.png">
+    <meta property="og:image:width" content="2400">
+    <meta property="og:image:height" content="1260">
+
+    <!-- Twitter -->
+    <meta name="twitter:description" content="Uma investigação sobre tecnologias baseadas em dados pessoais, usadas no combate à Covid-19 no Brasil">
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:site" content="@DataPrivacyBr" />
+    <meta name="twitter:creator" content="@DataPrivacyBr" />
+    <meta name="twitter:image" content="/imagens/social-share.png">
+
+    <!-- Google Analytics Tracking Code -->
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-FTKTMJZJYX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-FTKTMJZJYX');
+    </script>
+
+
+  <body class="home">
+
+<nav class="site-nav" id="navContainer">
+  <ul>
+    <li class="btn-close" id="closeMenu">&times;</li>
+    <li class="menu">
+      <ul>
+        
+        
+        <li><a href="methodology">Methodology and Foia Request</a></li>
+        
+        
+        
+        <li><a href="#intro">Introdução</a></li>
+        
+        
+        
+        <li><a href="#tech-estadual">Localidades e abrangência</a></li>
+        
+        
+        
+        <li><a href="#funcionalidades">Funcionalidades</a></li>
+        
+        
+        
+        <li><a href="#fornecedores-devs">Fornecedores e desenvolvedores</a></li>
+        
+        
+        
+        <li><a href="#creditos">Créditos</a></li>
+        
+        
+        
+        <li><a href="https://drive.google.com/file/d/1-PmjyYubF65W_8LuOiYR2pwFQiRWEyZ3/view?usp=sharing">Relatório</a></li>
+        
+        
+        
+        <li><a href="https://public.flourish.studio/visualisation/6751192/">Repositório de dados</a></li>
+        
+        
+        
+        <li><a href="https://www.dataprivacybr.org/">Associação Data Privacy Brasil de Pesquisa</a></li>
+        
+        
+      </ul>
+    </li>
+    <li class="social-menu">
+      <ul>
+        <li><a href="https://instagram.com/dataprivacybrasil"><img src="/imagens/ico_instagram.svg" alt="ícone do instagram" title="instagram"></a></li>
+        <li><a href="https://twitter.com/DataPrivacyBr"><img src="/imagens/ico_twitter.svg" alt="ícone do twitter" title="twitter"></a></li>
+        <li><a href="https://www.youtube.com/channel/UCT8kR3_EIBSEqg8kLh6pXTw"><img src="/imagens/ico_youtube.svg" alt="ícone do youtube" title="youtube"></a></li>
+        <li><a href="https://www.facebook.com/DataPrivacy.br/"><img src="/imagens/ico_facebook.svg" alt="ícone do facebook" title="facebook"></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+<nav class="social-nav" id="socialNav">
+  <ul>
+    <li class="btn-close" id="closeSocial">&times;</li>
+    <li class="social-menu">
+      <ul>
+        <li><a href="https://twitter.com/intent/tweet?source=https%3A%2F%2Fosdadosvirais.dataprivacybr.org&text=Quais foram as tecnologias que usam dados pessoais ou pseudonimizados adquiridas pelo Poder Público para combate à COVID-19 em 2020? Confira na plataforma Dados Virais:%20https%3A%2F%2Fosdadosvirais.dataprivacybr.org&via=dataprivacybr" target="_blank" title="Tweet"><img src="/imagens/ico_twitter.svg" alt="ícone do twitter" title="twitter"></a></li>
+        <li><a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fosdadosvirais.dataprivacybr.org&quote=O Poder Público brasileiro adquiriu 253 tecnologias que usam dados pessoais ou pseudonimizados para combate à COVID-19 em 2020. A plataforma Dados Virais, da @dataprivacybr, mapeou esses casos." title="Share on Facebook" target="_blank"><img src="/imagens/ico_facebook.svg" alt="ícone do facebook" title="facebook"></a></li>
+        <li><a href="https://instagram.com/dataprivacybrasil"><img src="/imagens/ico_instagram.svg" alt="ícone do instagram" title="instagram"></a></li>
+        <li><a href="https://www.youtube.com/channel/UCT8kR3_EIBSEqg8kLh6pXTw"><img src="/imagens/ico_youtube.svg" alt="ícone do youtube" title="youtube"></a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+<header class="content">
+    <div class="__container">
+        <div class="ico">
+          <img src="/imagens/ico_hamburguer.svg" alt="ícone de menu hambúguer" title="abrir menu" id="openMenu">
+        </div>
+        <img src="/imagens/logo_dados-virais.png" alt="imagem do logo" title="dados virais" class="logo" />
+        <div class="ico compartilhar">
+          <a href="/stories"><img src="imagens/stories.png" alt="ícone do stories" title="stories"></a>
+          <img src="/imagens/ico_compartilhar.svg" alt="ícone de compartilhar" title="compartilhar"  id="openSocial" style="margin-left:20px">
+        </div>
+    </div>
+</header>
+
+<section class="content hero">
+    <ul>
+      <li></li>
+      <li class="title">
+        <div class="__container" style="text-align:center">
+          <h1><span>AN INVESTIGATION ABOUT TECHNOLOGIES BASED ON PERSONAL DATA</span></h1>
+          <a href="/en/methodology" class="btn">Methodology</a>
+          <a href="URL AQUI" class="btn-negative" target="_blank">Download the report</a>
+        </div>
+      </li>
+      <li></li>
+    </ul>
+</section>
+
+
+          
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO ATERNADO 2 TIPOS -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+              <div id="tech-estadual" class="anchor-upperlimit"></div>
+              <section class="content graph --white-background">
+                <div class="__container">
+                  <div class="" style="max-width:950px;margin:0 auto">
+                  <h2 class="legend-tit-white"> State-wide technologies</h2>
+                  <p class="legend-sub-white">An interactive map that indicates the number of technologies in each state and its respective functionalities. Data in this map is related only to technologies that are applied state-wide.</p>
+                    
+
+                      
+                          <iframe class="d-desk" src="imagens/graficos/interativos/mapa/index.html" height="720px" width="100%" frameborder="no" seamless> </iframe>
+                          <iframe class="d-mob" src="imagens/graficos/interativos/mapa/index.html" height="500px" width="100%" frameborder="no" seamless> </iframe>
+                      
+
+                      
+                    </div>
+                </div>
+
+                
+                
+
+                  <div class="accordion">
+    <div class="option">
+      <input type="checkbox" id="toggle200" class="toggle" />
+      <label class="titleaco" for="toggle200">LEARN MORE&nbsp;
+      </label>
+      <div class="contentaco">
+        <p style="color:#1c1d36 !important">The state governments leading the implementation of technologies at the state level are São Paulo (17), Santa Catarina (10), Rio de Janeiro and Espírito Santo (7 each). Ceará, Goiás and Paraná have 5 contracts each. The Southeast region accumulated the highest number of contracts, 33 in total, followed by the Northeast (27) and South (21).</p>
+      </div>
+    </div>
+  </div>
+
+
+              
+              </section>
+
+
+
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO ATERNADO 2 TIPOS -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO ATERNADO 2 TIPOS -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+              <div id="techs-ufs-municipios" class="anchor-upperlimit"></div>
+              <section class="content --darker-background graph">
+                <div class="__container">
+                  <div class="" style="max-width:950px;margin:0 auto">
+                    <div class="" style="max-width:950px;margin:0 auto">
+                  <h2 class="legend-tit"> Number of technologies per state and municipalities</h2>
+                  <p class="legend-sub">The graph allows the interactive  visualization of the number of technologies mapped per state and their respective municipalities. Click in the superior bar to return one level.</p>
+                </div>
+                    
+
+                      
+                          <iframe class="d-desk" src="imagens/graficos/interativos/treemap/index.html" onload="loadIframe()" scrolling="auto" width="70%" height="700px" frameborder="no" seamless allowfullscreen style="max-width:100%;margin:0 auto"> </iframe>
+                          <iframe class="d-mob" src="imagens/graficos/interativos/treemap_mobile/index.html" onload="loadIframe()" scrolling="auto" width="100%" height="800px" frameborder="no" seamless allowfullscreen style="max-width:100%;margin:0 auto"> </iframe>
+                      
+
+                      
+                    </div>
+                </div>
+                
+                
+                
+              </section>
+              
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO ATERNADO 2 TIPOS -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+              <div id="funcionalidades-de-tecnologia" class="anchor-upperlimit"></div>
+              <section class="content --darker-background graph">
+                <div class="__container">
+                  <div class="" style="max-width:950px;margin:0 auto">
+                    <div class="" style="max-width:950px;margin:0 auto">
+                  <h2 class="legend-tit"> Number of technologies per municipalities</h2>
+                  
+                </div>
+                    
+
+                      
+                          <iframe class="d-desk" src="imagens/graficos/interativos/bar-chart" onload="loadIframe()" scrolling="auto" width="100%" height="500px" frameborder="no" seamless allowfullscreen style="max-width:100%;margin:0 auto"> </iframe>
+                          <iframe class="d-mob" src="imagens/graficos/interativos/bar-chart" onload="loadIframe()" scrolling="auto" width="100%" height="520px" frameborder="no" seamless allowfullscreen> </iframe>
+                      
+
+                      
+                    </div>
+                </div>
+                
+                
+                <div id="funcionalidades-de-tecnologia" class="anchor-upperlimit"></div>
+
+                  <div class="accordion">
+    <div class="option">
+      <input type="checkbox" id="toggle400" class="toggle" />
+      <label class="titleaco" for="toggle400">LEARN MORE&nbsp;
+      </label>
+      <div class="contentaco">
+        <p>Among municipalities, the capitals aggregate most of the occurrences of implementation of technologies registered in the study. Some exceptions can be highlighted such as Campinas (SP - São Paulo state), which leads the implementations with 6 technologies, next to São Paulo (SP). The capitals Rio de Janeiro and Recife are next on the list, each with 5 cases. Aparecida de Goiânia (GO - Goiás state) is another exception, having 4 cases, the same as the capitals Porto Alegre (RS), João Pessoa (PB) and Aracaju (SE). Municipalities from regions with more resources, such as South and Southeast, represent 52 out of 69 occurrences, that is to say that only 17 municipalities are not in these regions.</p>
+      </div>
+    </div>
+  </div>
+
+
+              
+              </section>
+              
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO ATERNADO 2 TIPOS -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO ATERNADO 2 TIPOS -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+              <div id="funcoes-tech" class="anchor-upperlimit"></div>
+              <section class="content --darker-background graph">
+                <div class="__container">
+                  <div class="" style="max-width:950px;margin:0 auto">
+                    <div class="" style="max-width:950px;margin:0 auto">
+                  <h2 class="legend-tit"> FUNCTIONALITIES OF THE TECHNOLOGIES</h2>
+                  <p class="legend-sub">The graph allows the identification of the main functions of the mapped technologies. </p>
+                </div>
+                    
+                  <h4 style="margin-left:17px;text-align:right"><a href="/en/imagens/graficos/desk/apps-funcionalidades-techs.png"><img src="/en/imagens/download-icon.png" class="download-icon" alt="download de imagem" /> </a></h4>
+                  <img class="d-desk" src="/en/imagens/graficos/desk/apps-funcionalidades-techs.svg" alt="FUNCTIONALITIES OF THE TECHNOLOGIES" title="placeholder grafico" />
+                  <img class="d-mob" src="/en/imagens/graficos/mobile/apps-funcionalidades-techs.png" alt="FUNCTIONALITIES OF THE TECHNOLOGIES" title="placeholder grafico" />
+                  
+                    
+                    </div>
+                </div>
+                
+                
+                <div id="funcoes-tech" class="anchor-upperlimit"></div>
+
+                  <div class="accordion">
+    <div class="option">
+      <input type="checkbox" id="toggle600" class="toggle" />
+      <label class="titleaco" for="toggle600">LEARN MORE&nbsp;
+      </label>
+      <div class="contentaco">
+        <p>As a highlight, it is possible to observe that the main goals of the public sector when adopting technologies to fight COVID-19 were to monitor people flow (31.6%) and provide telemedicine services (30%). In 10.3% of the cases, technologies were implemented for body temperature monitoring, including the use of photothermal cameras, in some cases also equipped with facial recognition technology. Platforms with data on the evolution of COVID-19 represent 9.9%, including some that had online risk maps based on georeferencing. Contact tracing represented 6.7% of the cases, information provision 3.9%, people identification 2.8%, digitalization of public services 2.4%, mask use monitoring 0.8% and data storage also 0.8%.</p>
+      </div>
+    </div>
+  </div>
+
+
+              
+              </section>
+              
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO ATERNADO 2 TIPOS -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+              <div id="techs-municipios-funs" class="anchor-upperlimit"></div>
+              <section class="content --darker-background graph">
+                <div class="__container">
+                  <div class="" style="max-width:1200px;margin:0 auto">
+                    <div class="" style="max-width:950px;margin:0 auto">
+                  <h2 class="legend-tit"> TECHNOLOGIES PER MUNICIPALITIES, PLAYERS AND FUNCTIONALITIES</h2>
+                  <p class="legend-sub">The graph allows the interactive visualization of the correlation between three variables: location in which the technology was implemented, suppliers and functionalities of those technologies. Thus, it is possible to identify what functionalities were applied in a given city, as well as which players supply a given functionality</p>
+                </div>
+                    
+
+                      
+                          <iframe class="d-desk" src="imagens/graficos/interativos/techs-expand" height="1500px" width="100%" frameborder="no" seamless> </iframe>
+                          <iframe class="d-mob" src="imagens/graficos/interativos/techs-expand_mobile" height="1550px" width="100%" frameborder="no" seamless> </iframe>
+                      
+
+                      
+                    </div>
+                </div>
+                
+                
+                <div id="techs-municipios-funs" class="anchor-upperlimit"></div>
+
+                  <div class="accordion">
+    <div class="option">
+      <input type="checkbox" id="toggle650" class="toggle" />
+      <label class="titleaco" for="toggle650">LEARN MORE&nbsp;
+      </label>
+      <div class="contentaco">
+        <p>As a highlight, it is possible to observe that the main goals of the public sector when adopting technologies to fight COVID-19 were to monitor people flow (31.6%) and provide telemedicine services (30%). In 10.3% of the cases, technologies were implemented for body temperature monitoring, including the use of photothermal cameras, in some cases also equipped with facial recognition technology. Platforms with data on the evolution of COVID-19 represent 9.9%, including some that had online risk maps based on georeferencing. Contact tracing represented 6.7% of the cases, information provision 3.9%, people identification 2.8%, digitalization of public services 2.4%, mask use monitoring 0.8% and data storage also 0.8%.</p>
+      </div>
+    </div>
+  </div>
+
+
+              
+              </section>
+               <section class="content slider target-section">
+  <div class="__container">
+    <div id= "scroll-to" class="slider-name">
+
+      
+
+          <div class="slide">
+            <div>
+              <ul>
+                <li><p style="color: #1c1d36;"><span class="counter counter-1">58</span><span style="color: #1c1d36;">%</span></p></li>
+                <li><p style="color: #1c1d36;">(English) Percentual de empresas privadas que forneceram soluções tecnológicas utilizadas pelo poder público</p></li>
+              </ul>
+            </div>
+          </div>
+
+      
+
+          <div class="slide">
+            <div>
+              <ul>
+                <li><p style="color: #1c1d36;"><span class="counter counter-2">253</span><span style="color: #1c1d36;"></span></p></li>
+                <li><p style="color: #1c1d36;">Identificamos 253 soluções tecnológicas adotadas em 24 Unidades da Federação</p></li>
+              </ul>
+            </div>
+          </div>
+
+      
+
+          <div class="slide">
+            <div>
+              <ul>
+                <li><p style="color: #1c1d36;"><span class="counter counter-3">151</span><span style="color: #1c1d36;"></span></p></li>
+                <li><p style="color: #1c1d36;">Identificamos 151 fornecedores de tecnologias que coletam dados pessoais</p></li>
+              </ul>
+            </div>
+          </div>
+
+      
+
+    </div>
+  </div>
+</section>
+
+<script src="https://cdn.jsdelivr.net/npm/animejs@3.1.0/lib/anime.min.js" type="text/javascript">
+
+</script>
+<script type="text/javascript">
+  function runAnimtion() {
+    anime({
+      targets: '.counter-1',
+      textContent: [0, 58],
+      round: 1,
+      easing: 'linear',
+      duration: 4000
+    });
+
+    anime({
+      targets: '.counter-2',
+      textContent: [0, 253],
+      round: 1,
+      easing: 'linear',
+      duration: 1000
+    });
+
+    anime({
+      targets: '.counter-3',
+      textContent: [0, 151],
+      round: 1,
+      easing: 'linear',
+      duration: 1000
+    });
+  }
+
+  const observer = new IntersectionObserver(
+    entries => {
+      entries.forEach(entry => {
+        if (entry.intersectionRatio >= 0.7) {
+          runAnimtion();
+          observer.disconnect();
+        }
+      });
+    },
+    {
+      threshold: 0.7
+    }
+  );
+
+  observer.observe(document.querySelector('.target-section'));
+
+</script>
+ 
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+              <div id="techs-estados" class="anchor-upperlimit"></div>
+              <section class="content graph --white-background">
+                <div class="__container">
+                  <div class="" style="max-width:950px;margin:0 auto">
+                  <h2 class="legend-tit-white"> TECHNOLOGIES PER STATE AND FUNCTIONALITY</h2>
+                  <p class="legend-sub-white">The graph allows the interactive visualization of the technologies’ functionalities placed in the states they were adopted, as well as the number of times they appeared.</p>
+                    
+
+                      
+                          <iframe class="d-desk" src="imagens/graficos/interativos/sunburst" onload="loadIframe()" scrolling="auto" width="100%" height="700px" frameborder="no" seamless allowfullscreen> </iframe>
+                          <iframe class="d-mob" src="imagens/graficos/interativos/sunburst_mobile" onload="loadIframe()" scrolling="auto" width="100%" height="830px" frameborder="no" seamless allowfullscreen> </iframe>
+                      
+
+                      
+                    </div>
+                </div>
+
+                
+                
+                
+              </section>
+
+
+
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO ATERNADO 2 TIPOS -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO ATERNADO 2 TIPOS -->
+              
+              <div id="" class="anchor-upperlimit"></div>
+              <section class="content graph --white-background">
+                <div class="__container">
+                  <div class="" style="max-width:950px;margin:0 auto">
+                    <h2 class="legend-tit-white"> TECHNOLOGIES WITH NACIONAL REACH: SUPPLIERS, DEVELOPERS AND FUNCTIONALITIES</h2>
+                    <p class="legend-sub-white">The graph presents information on technologies implemented nationally, organized by functionalies, pointing out its suppliers and developers.</p>
+              <div class="tabset">
+                      <!-- Tab 1 -->
+                      <input type="radio" name="tabset" id="tab1" aria-controls="pt" checked>
+                      <label for="tab1">SUPPLIERS</label>
+                      <!-- Tab 2 -->
+                      <input type="radio" name="tabset" id="tab2" aria-controls="en">
+                      <label for="tab2">DEVELOPERS</label>
+
+                          <div class="tab-panels">
+                            <section id="marzen" class="tab-panel">
+                              <h4 style="margin-left:17px; text-align:right"><a href="/en/imagens/graficos/desk/apps-fornecedores.png"><img src="/en/imagens/download-icon.png" class="download-icon" alt="download de imagem" /> </a></h4>
+                              <img class="d-desk" src="/en/imagens/graficos/desk/apps-fornecedores.svg" alt="TECHNOLOGIES WITH NACIONAL REACH: SUPPLIERS, DEVELOPERS AND FUNCTIONALITIES" title="placeholder grafico" />
+                              <img class="d-mob" src="/en/imagens/graficos/mobile/apps-fornecedores.png" alt="TECHNOLOGIES WITH NACIONAL REACH: SUPPLIERS, DEVELOPERS AND FUNCTIONALITIES" title="placeholder grafico" />
+                          </section>
+                            <section id="rauchbier" class="tab-panel">
+                              <h4 style="margin-left:17px; text-align:right"><a href="/en/imagens/graficos/desk/apps-desenvolvedores.png"><img src="/en/imagens/download-icon.png" class="download-icon" alt="download de imagem" /> </a></h4>
+                              <img class="d-desk" src="/en/imagens/graficos/desk/apps-desenvolvedores.svg" alt="TECHNOLOGIES WITH NACIONAL REACH: SUPPLIERS, DEVELOPERS AND FUNCTIONALITIES" title="placeholder grafico" />
+                              <img class="d-mob" src="/en/imagens/graficos/mobile/apps-desenvolvedores.png" alt="TECHNOLOGIES WITH NACIONAL REACH: SUPPLIERS, DEVELOPERS AND FUNCTIONALITIES" title="placeholder grafico" />
+                            </section>
+                          </div>
+
+                        </div>
+                      </div>
+                    </div>
+                  </section>
+
+
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO ATERNADO 2 TIPOS -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO ATERNADO 2 TIPOS -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+              <div id="" class="anchor-upperlimit"></div>
+              <section class="content --darker-background graph">
+                <div class="__container">
+                  <div class="" style="max-width:950px;margin:0 auto">
+                    <div class="" style="max-width:950px;margin:0 auto">
+                  <h2 class="legend-tit"> APP: FUNCTIONALITIES AND DEVELOPERS</h2>
+                  <p class="legend-sub">The graph shows the relation between the identified apps and their functionalities.</p>
+                </div>
+                    
+                  <h4 style="margin-left:17px;text-align:right"><a href="/en/imagens/graficos/desk/apps-funcionalidades-desenvolvedores.png"><img src="/en/imagens/download-icon.png" class="download-icon" alt="download de imagem" /> </a></h4>
+                  <img class="d-desk" src="/en/imagens/graficos/desk/apps-funcionalidades-desenvolvedores.svg" alt="APP: FUNCTIONALITIES AND DEVELOPERS" title="placeholder grafico" />
+                  <img class="d-mob" src="/en/imagens/graficos/mobile/apps-funcionalidades-desenvolvedores.png" alt="APP: FUNCTIONALITIES AND DEVELOPERS" title="placeholder grafico" />
+                  
+                    
+                    </div>
+                </div>
+                
+                
+                <div id="" class="anchor-upperlimit"></div>
+
+                  <div class="accordion">
+    <div class="option">
+      <input type="checkbox" id="toggle990" class="toggle" />
+      <label class="titleaco" for="toggle990">LEARN MORE&nbsp;
+      </label>
+      <div class="contentaco">
+        <p>The use of mobile apps also became widespread, there were 29 occurrences. In 18 of them, the main functionality was providing telemedicine services. The highlight apps were “Dados do Bem” developed by a private enterprise and very popular in Goiás and Rio de Janeiro states, and “Monitora COVID-19” developed by Consórcio Nordeste and contracted with 5 northeastern states (Ceará, Piauí, Maranhão, Bahia and Sergipe). Besides the telemedicine services, the apps identified were used for digitalization of public services (4 cases), mapping the COVID-19 evolution (2 cases),  providing information, body temperature monitoring, people flow monitoring and contact tracking (each with 1 case).</p>
+      </div>
+    </div>
+  </div>
+
+
+              
+              </section>
+              
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO ATERNADO 2 TIPOS -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+              <div id="" class="anchor-upperlimit"></div>
+              <section class="content --darker-background graph">
+                <div class="__container">
+                  <div class="" style="max-width:1200px;margin:0 auto">
+                    <div class="" style="max-width:950px;margin:0 auto">
+                  <h2 class="legend-tit"> INFORMATION ACCESSED BY APPS IN ANDROID SYSTEMS</h2>
+                  <p class="legend-sub">The graph shows the permissions requested by the identified apps.</p>
+                </div>
+                    
+
+                      
+                          <iframe class="d-desk" src="imagens/graficos/interativos/sankey_android/index.html" onload="loadIframe()" scrolling="no" width="100%" height="1450px" frameborder="no" seamless allowfullscreen style="max-width:100%;margin:0 auto"> </iframe>
+                          <iframe class="d-mob" src="imagens/graficos/interativos/sankey_android_mobile/index.html" onload="loadIframe()" scrolling="no" width="90%" height="2550px" frameborder="no" seamless allowfullscreen style="max-width:100%;margin:0 auto"> </iframe>
+                      
+
+                      
+                    </div>
+                </div>
+                
+                
+                <div id="" class="anchor-upperlimit"></div>
+
+                  <div class="accordion">
+    <div class="option">
+      <input type="checkbox" id="toggle1000" class="toggle" />
+      <label class="titleaco" for="toggle1000">SAIBA MAIS&nbsp;
+      </label>
+      <div class="contentaco">
+        <p>To consult the level of risk associated with each type of permission, access<a href="https://docs.google.com/spreadsheets/d/1GXqRZFBWWTMqJF9x1exhJT0VJQVkBeJAENW2oStNrzM/edit?usp=sharing" target="_blank">this table (Google Sheets)</a> </p>
+      </div>
+    </div>
+  </div>
+
+
+              
+              </section>
+              
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO ATERNADO 2 TIPOS -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO ATERNADO 2 TIPOS -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+              <div id="" class="anchor-upperlimit"></div>
+              <section class="content --darker-background graph">
+                <div class="__container">
+                  <div class="" style="max-width:950px;margin:0 auto">
+                    <div class="" style="max-width:950px;margin:0 auto">
+                  <h2 class="legend-tit"> TECHNOLOGY SUPPLIERS</h2>
+                  <p class="legend-sub">Percentage of suppliers responsible for providing the technology identified.</p>
+                </div>
+                    
+                  <h4 style="margin-left:17px;text-align:right"><a href="/en/imagens/graficos/desk/fornecedores.png"><img src="/en/imagens/download-icon.png" class="download-icon" alt="download de imagem" /> </a></h4>
+                  <img class="d-desk" src="/en/imagens/graficos/desk/fornecedores.svg" alt="TECHNOLOGY SUPPLIERS" title="placeholder grafico" />
+                  <img class="d-mob" src="/en/imagens/graficos/mobile/fornecedores.png" alt="TECHNOLOGY SUPPLIERS" title="placeholder grafico" />
+                  
+                    
+                    </div>
+                </div>
+                
+                
+                <div id="" class="anchor-upperlimit"></div>
+
+                  <div class="accordion">
+    <div class="option">
+      <input type="checkbox" id="toggle1200" class="toggle" />
+      <label class="titleaco" for="toggle1200">LEARN MORE&nbsp;
+      </label>
+      <div class="contentaco">
+        <p>In Loco, currently called Incognia, was the most prominent company as a supplier of technology in the pandemic (18.6%) due to the offering of a Social Isolation Rate that was implemented in 47 locations all around the country. Then, with a large margin of difference in relation to the In Loco, appear, ABR Telecom and Instituto D’or de Ensino de Pesquisa, with 8 and 7 locations implementing their technologies (corresponding to 3.2% and 2.8% of the cases, respectively). In 49.8% of the cases identified, the suppliers presented their product in only one location. Therefore, apart from In Loco’s case, the supply of technology in Brazil was very dispersed among a vast range of suppliers, instead of being centered in a handful of players. </p>
+      </div>
+    </div>
+  </div>
+
+
+              
+              </section>
+              
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO ATERNADO 2 TIPOS -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+              <div id="" class="anchor-upperlimit"></div>
+              <section class="content --darker-background graph">
+                <div class="__container">
+                  <div class="" style="max-width:950px;margin:0 auto">
+                    <div class="" style="max-width:950px;margin:0 auto">
+                  <h2 class="legend-tit"> TECHNOLOGY DEVELOPERS</h2>
+                  <p class="legend-sub">Percentage of developers responsible for the creation of technologies identified.</p>
+                </div>
+                    
+                  <h4 style="margin-left:17px;text-align:right"><a href="/en/imagens/graficos/desk/fornecedores_locais.png"><img src="/en/imagens/download-icon.png" class="download-icon" alt="download de imagem" /> </a></h4>
+                  <img class="d-desk" src="/en/imagens/graficos/desk/fornecedores_locais.svg" alt="TECHNOLOGY DEVELOPERS" title="placeholder grafico" />
+                  <img class="d-mob" src="/en/imagens/graficos/mobile/fornecedores_locais.png" alt="TECHNOLOGY DEVELOPERS" title="placeholder grafico" />
+                  
+                    
+                    </div>
+                </div>
+                
+                
+                <div id="" class="anchor-upperlimit"></div>
+
+                  <div class="accordion">
+    <div class="option">
+      <input type="checkbox" id="toggle1250" class="toggle" />
+      <label class="titleaco" for="toggle1250">LEARN MORE&nbsp;
+      </label>
+      <div class="contentaco">
+        <p>In Loco (Incognia) and ABR Telecom (together with the telecommunication providers Claro, Oi, Vivo and Tim) are suppliers but also developers of two different Social Isolation Rates. Thus, both In Loco (Incognia) and ABR Telecom lead the list of developers identified at 8.6% and 3.2% respectively.</p>
+        <p>An important aspect to highlight in the results regarding developers is that in 8,3% (the second biggest rate) of the technologies mapped the team was unable to  identify the developer. This result is indicative of flaws in the fulfilment of the transparency principle regarding the disclosure of information related to the technologies implemented by the public sector in the country.</p>
+        <p>A new observation made based on the results about developers is the presence of Dahua, a Chinese multinational company, that appeared as the third company with the most reach (2.8%), corresponding to 8 of all the cases mapped out. The results of Dahua are related to the offering of thermographic cameras used during the pandemic to measure body temperature. Part of these cameras measure temperature using facial recognition technologies. Since fever is one of the main symptoms associated with COVID-19, the application of these cameras has the purpose of identifying possible individuals infected with the virus. Hikvision, another Chinese multinational company manufacturer of thermographic cameras, appears in the results at 2% of the total of developers, corresponding to 6 of the mapped cases. Like Dahua’s cameras, Hikvision’s cameras measure temperature with facial recognition technology and are capable of doing this procedure even if there is a high number of people passing by, at a distance, and also in real time.</p>
+      </div>
+    </div>
+  </div>
+
+
+              
+              </section>
+              
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO ATERNADO 2 TIPOS -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO ATERNADO 2 TIPOS -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+              <div id="fornecedores-de-tecnologia" class="anchor-upperlimit"></div>
+              <section class="content --darker-background graph">
+                <div class="__container">
+                  <div class="" style="max-width:950px;margin:0 auto">
+                    <div class="" style="max-width:950px;margin:0 auto">
+                  <h2 class="legend-tit"> SUPPLIERS’ PROFILE</h2>
+                  <p class="legend-sub">The graph indicates the concentration of technologies per state and the profile of the suppliers.</p>
+                </div>
+                    
+                  <h4 style="margin-left:17px;text-align:right"><a href="/en/imagens/graficos/desk/fornecedores-expandido.png"><img src="/en/imagens/download-icon.png" class="download-icon" alt="download de imagem" /> </a></h4>
+                  <img class="d-desk" src="/en/imagens/graficos/desk/fornecedores-expandido.svg" alt="SUPPLIERS’ PROFILE" title="placeholder grafico" />
+                  <img class="d-mob" src="/en/imagens/graficos/mobile/fornecedores-expandido.png" alt="SUPPLIERS’ PROFILE" title="placeholder grafico" />
+                  
+                    
+                    </div>
+                </div>
+                
+                
+                <div id="fornecedores-de-tecnologia" class="anchor-upperlimit"></div>
+
+                  <p>Private companies are the main responsible for supplying technology used by the public sector.</p>
+
+<p>They correspond to almost 60% of the technologies,while public agencies supply around 24%.</p>
+
+<div class="accordion">
+    <div class="option">
+      <input type="checkbox" id="toggle1300" class="toggle" />
+      <label class="titleaco" for="toggle1300">LEARN MORE&nbsp;
+      </label>
+      <div class="contentaco">
+        <p>In Loco (Incognia) and ABR Telecom (together with the telecommunication providers Claro, Oi, Vivo and Tim) are suppliers but also developers of two different Social Isolation Rates. Thus, both In Loco (Incognia) and ABR Telecom lead the list of developers identified at 8.6% and 3.2% respectively.</p>
+        <p>An important aspect to highlight in the results regarding developers is that in 8,3% (the second biggest rate) of the technologies mapped the team was unable to  identify the developer. This result is indicative of flaws in the fulfilment of the transparency principle regarding the disclosure of information related to the technologies implemented by the public sector in the country.</p>
+        <p>A new observation made based on the results about developers is the presence of Dahua, a Chinese multinational company, that appeared as the third company with the most reach (2.8%), corresponding to 8 of all the cases mapped out. The results of Dahua are related to the offering of thermographic cameras used during the pandemic to measure body temperature. Part of these cameras measure temperature using facial recognition technologies. Since fever is one of the main symptoms associated with COVID-19, the application of these cameras has the purpose of identifying possible individuals infected with the virus. Hikvision, another Chinese multinational company manufacturer of thermographic cameras, appears in the results at 2% of the total of developers, corresponding to 6 of the mapped cases. Like Dahua’s cameras, Hikvision’s cameras measure temperature with facial recognition technology and are capable of doing this procedure even if there is a high number of people passing by, at a distance, and also in real time.</p>
+      </div>
+    </div>
+  </div>
+
+
+              
+              </section>
+              
+              
+
+
+          
+
+              <!-- TEXTUAIS PUROS -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO -->
+              
+
+              <!-- GRÁFICO COM FUNDO CLARO ATERNADO 2 TIPOS -->
+              
+
+              <!-- GRÁFICO COM FUNDO ESCURO -->
+              
+
+
+          
+
+
+  </body>
+
+  <footer class="content --darker-background">
+  <div class="__container">
+    <!-- COLUNA 1 -->
+    <ul>
+      <li>
+        <img src="/imagens/logo_dados-virais.png" class="logo" alt="imagem do logo" title="logo dados virais" width="200px">
+        <ul>
+          <li><a href="https://www.dataprivacybr.org/" target="_blank">DATA PRIVACY PESQUISA</a></li>
+          <li><a href="https://dataprivacy.com.br/" target="_blank">DATA PRIVACY ENSINO</a></li>
+          <li><a href="https://anchor.fm/dadocracia" target="_blank">DADOCRACIA</a></li>
+        </ul>
+      </li>
+    </ul>
+    <!-- COLUNA 2 -->
+    <ul>
+      <li>
+        <ul>
+          <li>CONTATO INSTITUCIONAL</li>
+          <li>+55 11 9 3406 6554</li>
+          <li><a href="mailto:contato@dataprivacy.com.br">contato@dataprivacybr.org</a></li>
+        </ul>
+        <ul>
+          <li>IMPRENSA</li>
+          <li><a href="mailto:imprensa@dataprivacybr.org">imprensa@dataprivacybr.org</a></li>
+
+        </ul>
+        <ul>
+          <li><a href="https://instagram.com/dataprivacybrasil"><img src="/imagens/ico_instagram.svg" alt="ícone do instagram" title="instagram"></a></li>
+          <li><a href="https://twitter.com/DataPrivacyBr"><img src="/imagens/ico_twitter.svg" alt="ícone do twitter" title="twitter"></a></li>
+          <li><a href="https://www.youtube.com/channel/UCT8kR3_EIBSEqg8kLh6pXTw"><img src="/imagens/ico_youtube.svg" alt="ícone do youtube" title="youtube"></a></li>
+          <li><a href="https://www.facebook.com/DataPrivacy.br/"><img src="/imagens/ico_facebook.svg" alt="ícone do facebook" title="facebook"></a></li>
+        </ul>
+        <ul>
+          <li><a href="https://dataprivacy.com.br/politica-de-privacidade/" target="_blank">Política de uso e Privacidade</a></li>
+        </ul>
+      </li>
+    </ul>
+    <!-- COLUNA 3 -->
+    <ul>
+      <li>
+        ENDEREÇO<br>
+        Alameda Santos, 1293<br>
+        3º Andar Jardim Paulista<br>
+        São Paulo – SP<br>
+        CEP 01419-904
+      </li>
+      <li>2021 © todos os direitos reservados</li>
+    </ul>
+  </div>
+</footer>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script type="text/javascript" src="/js/slick.min.js"></script>
+<script type="text/javascript" src="/js/nav.js"></script>
+<script type="text/javascript" src="/js/softScroll.js"></script>
+<script type="text/javascript">
+    $(document).ready(function(){
+      $('.slider-name').slick({
+        arrows: false,
+        dots: true
+      });
+    });
+</script>
+
+</html>

@@ -1,5 +1,5 @@
 ---
-layout: grafico_escuro
+layout: grafico_escuro_eng
 title: "TECHNOLOGY DEVELOPERS"
 descricao: "Percentage of developers responsible for the creation of technologies identified."
 img: "fornecedores_locais"

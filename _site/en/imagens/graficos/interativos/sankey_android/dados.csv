@@ -1,0 +1,331 @@
+target,source,value,tipo,regiao,count,uf,funcao
+full network access,Aglomerações,1,app,Aglomerações,1,Aglomerações,full network access
+full network access,Alô Saúde Floripa,1,app,Alô Saúde Floripa,1,Alô Saúde Floripa,full network access
+full network access,Atende em Casa,1,app,Atende em Casa,1,Atende em Casa,full network access
+full network access,AVISU,1,app,AVISU,1,AVISU,full network access
+full network access,Ceará App,1,app,Ceará App,1,Ceará App,full network access
+full network access,Colab,1,app,Colab,1,Colab,full network access
+full network access,Combate Coronavírus,1,app,Combate Coronavírus,1,Combate Coronavírus,full network access
+full network access,Coronavírus - SUS,1,app,Coronavírus - SUS,1,Coronavírus - SUS,full network access
+full network access,Covid Monitor,1,app,Covid Monitor,1,Covid Monitor,full network access
+full network access,CovidPR,1,app,CovidPR,1,CovidPR,full network access
+full network access,Dados do Bem,1,app,Dados do Bem,1,Dados do Bem,full network access
+full network access,Distanciamento Controlado RS,1,app,Distanciamento Controlado RS,1,Distanciamento Controlado RS,full network access
+full network access,Dycovid - Dynamic Contact Tracing,1,app,Dycovid - Dynamic Contact Tracing,1,Dycovid - Dynamic Contact Tracing,full network access
+full network access,e-Saúde SP,1,app,e-Saúde SP,1,e-Saúde SP,full network access
+full network access,ISUS,1,app,ISUS,1,ISUS,full network access
+full network access,KeyApp,1,app,KeyApp,1,KeyApp,full network access
+full network access,Mais Saúde Cidadão,1,app,Mais Saúde Cidadão,1,Mais Saúde Cidadão,full network access
+full network access,Meu Info Sáude,1,app,Meu Info Sáude,1,Meu Info Sáude,full network access
+full network access,Minha Saúde,1,app,Minha Saúde,1,Minha Saúde,full network access
+full network access,Monitora Covid-19,1,app,Monitora Covid-19,1,Monitora Covid-19,full network access
+full network access,Pronto Mobile,1,app,Pronto Mobile,1,Pronto Mobile,full network access
+full network access,Santa Isabel Contra o Coronavírus,1,app,Santa Isabel Contra o Coronavírus,1,Santa Isabel Contra o Coronavírus,full network access
+full network access,SASI,1,app,SASI,1,SASI,full network access
+full network access,Saúde Aparecida,1,app,Saúde Aparecida,1,Saúde Aparecida,full network access
+full network access,Saúde Digital MG - Covid-19,1,app,Saúde Digital MG - Covid-19,1,Saúde Digital MG - Covid-19,full network access
+full network access,Saúde Online PR,1,app,Saúde Online PR,1,Saúde Online PR,full network access
+full network access,Saúde Santo André,1,app,Saúde Santo André,1,Saúde Santo André,full network access
+full network access,Simot,1,app,Simot,1,Simot,full network access
+full network access,Telemedicina Paraná,1,app,Telemedicina Paraná,1,Telemedicina Paraná,full network access
+change network connectivity,Pronto Mobile,1,app,Pronto Mobile,1,Pronto Mobile,change network connectivity
+change network connectivity,Santa Isabel Contra o Coronavírus,1,app,Santa Isabel Contra o Coronavírus,1,Santa Isabel Contra o Coronavírus,change network connectivity
+change your audio settings,Alô Saúde Floripa,1,app,Alô Saúde Floripa,1,Alô Saúde Floripa,change your audio settings
+change your audio settings,e-Saúde SP,1,app,e-Saúde SP,1,e-Saúde SP,change your audio settings
+change your audio settings,Minha Saúde,1,app,Minha Saúde,1,Minha Saúde,change your audio settings
+change your audio settings,Monitora Covid-19,1,app,Monitora Covid-19,1,Monitora Covid-19,change your audio settings
+change your audio settings,Saúde Digital MG - Covid-19,1,app,Saúde Digital MG - Covid-19,1,Saúde Digital MG - Covid-19,change your audio settings
+change your audio settings,Saúde Online PR,1,app,Saúde Online PR,1,Saúde Online PR,change your audio settings
+change your audio settings,Saúde Santo André,1,app,Saúde Santo André,1,Saúde Santo André,change your audio settings
+API ref GooglePlay,Atende em Casa,1,app,Atende em Casa,1,Atende em Casa,API ref GooglePlay
+API ref GooglePlay,Ceará App,1,app,Ceará App,1,Ceará App,API ref GooglePlay
+API ref GooglePlay,Colab,1,app,Colab,1,Colab,API ref GooglePlay
+API ref GooglePlay,Dados do Bem,1,app,Dados do Bem,1,Dados do Bem,API ref GooglePlay
+API ref GooglePlay,Distanciamento Controlado RS,1,app,Distanciamento Controlado RS,1,Distanciamento Controlado RS,API ref GooglePlay
+API ref GooglePlay,Dycovid - Dynamic Contact Tracing,1,app,Dycovid - Dynamic Contact Tracing,1,Dycovid - Dynamic Contact Tracing,API ref GooglePlay
+API ref GooglePlay,ISUS,1,app,ISUS,1,ISUS,API ref GooglePlay
+API ref GooglePlay,Minha Saúde,1,app,Minha Saúde,1,Minha Saúde,API ref GooglePlay
+API ref GooglePlay,Monitora Covid-19,1,app,Monitora Covid-19,1,Monitora Covid-19,API ref GooglePlay
+API ref GooglePlay,Saúde Digital MG - Covid-19,1,app,Saúde Digital MG - Covid-19,1,Saúde Digital MG - Covid-19,API ref GooglePlay
+API ref GooglePlay,Saúde Online PR,1,app,Saúde Online PR,1,Saúde Online PR,API ref GooglePlay
+API ref GooglePlay,Simot,1,app,Simot,1,Simot,API ref GooglePlay
+control flashlight,KeyApp,1,app,KeyApp,1,KeyApp,control flashlight
+control flashlight,SASI,1,app,SASI,1,SASI,control flashlight
+control vibration,Ceará App,1,app,Ceará App,1,Ceará App,control vibration
+control vibration,Colab,1,app,Colab,1,Colab,control vibration
+control vibration,Coronavírus - SUS,1,app,Coronavírus - SUS,1,Coronavírus - SUS,control vibration
+control vibration,CovidPR,1,app,CovidPR,1,CovidPR,control vibration
+control vibration,e-Saúde SP,1,app,e-Saúde SP,1,e-Saúde SP,control vibration
+control vibration,ISUS,1,app,ISUS,1,ISUS,control vibration
+control vibration,KeyApp,1,app,KeyApp,1,KeyApp,control vibration
+control vibration,Mais Saúde Cidadão,1,app,Mais Saúde Cidadão,1,Mais Saúde Cidadão,control vibration
+control vibration,Monitora Covid-19,1,app,Monitora Covid-19,1,Monitora Covid-19,control vibration
+control vibration,Pronto Mobile,1,app,Pronto Mobile,1,Pronto Mobile,control vibration
+control vibration,Santa Isabel Contra o Coronavírus,1,app,Santa Isabel Contra o Coronavírus,1,Santa Isabel Contra o Coronavírus,control vibration
+control vibration,SASI,1,app,SASI,1,SASI,control vibration
+control vibration,Simot,1,app,Simot,1,Simot,control vibration
+find accounts on the device,Alô Saúde Floripa,1,app,Alô Saúde Floripa,1,Alô Saúde Floripa,find accounts on the device
+find accounts on the device,Colab,1,app,Colab,1,Colab,find accounts on the device
+find accounts on the device,Telemedicina Paraná,1,app,Telemedicina Paraná,1,Telemedicina Paraná,find accounts on the device
+exec na inicialização,Alô Saúde Floripa,1,app,Alô Saúde Floripa,1,Alô Saúde Floripa,exec na inicialização
+run at startup,Ceará App,1,app,Ceará App,1,Ceará App,run at startup
+run at startup,Coronavírus - SUS,1,app,Coronavírus - SUS,1,Coronavírus - SUS,run at startup
+run at startup,CovidPR,1,app,CovidPR,1,CovidPR,run at startup
+run at startup,Dados do Bem,1,app,Dados do Bem,1,Dados do Bem,run at startup
+run at startup,Distanciamento Controlado RS,1,app,Distanciamento Controlado RS,1,Distanciamento Controlado RS,run at startup
+run at startup,Dycovid - Dynamic Contact Tracing,1,app,Dycovid - Dynamic Contact Tracing,1,Dycovid - Dynamic Contact Tracing,run at startup
+run at startup,ISUS,1,app,ISUS,1,ISUS,run at startup
+run at startup,Mais Saúde Cidadão,1,app,Mais Saúde Cidadão,1,Mais Saúde Cidadão,run at startup
+run at startup,Meu Info Sáude,1,app,Meu Info Sáude,1,Meu Info Sáude,run at startup
+run at startup,Minha Saúde,1,app,Minha Saúde,1,Minha Saúde,run at startup
+run at startup,Monitora Covid-19,1,app,Monitora Covid-19,1,Monitora Covid-19,run at startup
+run at startup,Pronto Mobile,1,app,Pronto Mobile,1,Pronto Mobile,run at startup
+run at startup,Santa Isabel Contra o Coronavírus,1,app,Santa Isabel Contra o Coronavírus,1,Santa Isabel Contra o Coronavírus,run at startup
+executar serviço 1º plano,Coronavírus - SUS,1,app,Coronavírus - SUS,1,Coronavírus - SUS,executar serviço 1º plano
+executar serviço 1º plano,Dados do Bem,1,app,Dados do Bem,1,Dados do Bem,executar serviço 1º plano
+executar serviço 1º plano,Dycovid - Dynamic Contact Tracing,1,app,Dycovid - Dynamic Contact Tracing,1,Dycovid - Dynamic Contact Tracing,executar serviço 1º plano
+executar serviço 1º plano,Pronto Mobile,1,app,Pronto Mobile,1,Pronto Mobile,executar serviço 1º plano
+take pictures and videos,Alô Saúde Floripa,1,app,Alô Saúde Floripa,1,Alô Saúde Floripa,take pictures and videos
+take pictures and videos,Ceará App,1,app,Ceará App,1,Ceará App,take pictures and videos
+take pictures and videos,Colab,1,app,Colab,1,Colab,take pictures and videos
+take pictures and videos,CovidPR,1,app,CovidPR,1,CovidPR,take pictures and videos
+take pictures and videos,Dados do Bem,1,app,Dados do Bem,1,Dados do Bem,take pictures and videos
+take pictures and videos,e-Saúde SP,1,app,e-Saúde SP,1,e-Saúde SP,take pictures and videos
+take pictures and videos,KeyApp,1,app,KeyApp,1,KeyApp,take pictures and videos
+take pictures and videos,Minha Saúde,1,app,Minha Saúde,1,Minha Saúde,take pictures and videos
+take pictures and videos,Monitora Covid-19,1,app,Monitora Covid-19,1,Monitora Covid-19,take pictures and videos
+take pictures and videos,SASI,1,app,SASI,1,SASI,take pictures and videos
+take pictures and videos,Saúde Digital MG - Covid-19,1,app,Saúde Digital MG - Covid-19,1,Saúde Digital MG - Covid-19,take pictures and videos
+take pictures and videos,Saúde Online PR,1,app,Saúde Online PR,1,Saúde Online PR,take pictures and videos
+take pictures and videos,Saúde Santo André,1,app,Saúde Santo André,1,Saúde Santo André,take pictures and videos
+take pictures and videos,Simot,1,app,Simot,1,Simot,take pictures and videos
+precise location (GPS and network-based),Alô Saúde Floripa,1,app,Alô Saúde Floripa,1,Alô Saúde Floripa,precise location (GPS and network-based)
+precise location (GPS and network-based),Telemedicina Paraná,1,app,Telemedicina Paraná,1,Telemedicina Paraná,precise location (GPS and network-based)
+record audio,Alô Saúde Floripa,1,app,Alô Saúde Floripa,1,Alô Saúde Floripa,record audio
+record audio,e-Saúde SP,1,app,e-Saúde SP,1,e-Saúde SP,record audio
+record audio,Monitora Covid-19,1,app,Monitora Covid-19,1,Monitora Covid-19,record audio
+record audio,SASI,1,app,SASI,1,SASI,record audio
+record audio,Saúde Digital MG - Covid-19,1,app,Saúde Digital MG - Covid-19,1,Saúde Digital MG - Covid-19,record audio
+record audio,Saúde Online PR,1,app,Saúde Online PR,1,Saúde Online PR,record audio
+record audio,Saúde Santo André,1,app,Saúde Santo André,1,Saúde Santo André,record audio
+record audio,Simot,1,app,Simot,1,Simot,record audio
+prevent device from sleeping,Alô Saúde Floripa,1,app,Alô Saúde Floripa,1,Alô Saúde Floripa,prevent device from sleeping
+prevent device from sleeping,Atende em Casa,1,app,Atende em Casa,1,Atende em Casa,prevent device from sleeping
+prevent device from sleeping,Ceará App,1,app,Ceará App,1,Ceará App,prevent device from sleeping
+prevent device from sleeping,Colab,1,app,Colab,1,Colab,prevent device from sleeping
+prevent device from sleeping,Coronavírus - SUS,1,app,Coronavírus - SUS,1,Coronavírus - SUS,prevent device from sleeping
+prevent device from sleeping,Covid Monitor,1,app,Covid Monitor,1,Covid Monitor,prevent device from sleeping
+prevent device from sleeping,CovidPR,1,app,CovidPR,1,CovidPR,prevent device from sleeping
+prevent device from sleeping,Dados do Bem,1,app,Dados do Bem,1,Dados do Bem,prevent device from sleeping
+prevent device from sleeping,Distanciamento Controlado RS,1,app,Distanciamento Controlado RS,1,Distanciamento Controlado RS,prevent device from sleeping
+prevent device from sleeping,Dycovid - Dynamic Contact Tracing,1,app,Dycovid - Dynamic Contact Tracing,1,Dycovid - Dynamic Contact Tracing,prevent device from sleeping
+prevent device from sleeping,e-Saúde SP,1,app,e-Saúde SP,1,e-Saúde SP,prevent device from sleeping
+prevent device from sleeping,ISUS,1,app,ISUS,1,ISUS,prevent device from sleeping
+prevent device from sleeping,KeyApp,1,app,KeyApp,1,KeyApp,prevent device from sleeping
+prevent device from sleeping,Mais Saúde Cidadão,1,app,Mais Saúde Cidadão,1,Mais Saúde Cidadão,prevent device from sleeping
+prevent device from sleeping,Meu Info Sáude,1,app,Meu Info Sáude,1,Meu Info Sáude,prevent device from sleeping
+prevent device from sleeping,Minha Saúde,1,app,Minha Saúde,1,Minha Saúde,prevent device from sleeping
+prevent device from sleeping,Monitora Covid-19,1,app,Monitora Covid-19,1,Monitora Covid-19,prevent device from sleeping
+prevent device from sleeping,Pronto Mobile,1,app,Pronto Mobile,1,Pronto Mobile,prevent device from sleeping
+prevent device from sleeping,Santa Isabel Contra o Coronavírus,1,app,Santa Isabel Contra o Coronavírus,1,Santa Isabel Contra o Coronavírus,prevent device from sleeping
+prevent device from sleeping,SASI,1,app,SASI,1,SASI,prevent device from sleeping
+prevent device from sleeping,Saúde Aparecida,1,app,Saúde Aparecida,1,Saúde Aparecida,prevent device from sleeping
+prevent device from sleeping,Saúde Digital MG - Covid-19,1,app,Saúde Digital MG - Covid-19,1,Saúde Digital MG - Covid-19,prevent device from sleeping
+prevent device from sleeping,Saúde Online PR,1,app,Saúde Online PR,1,Saúde Online PR,prevent device from sleeping
+prevent device from sleeping,Saúde Santo André,1,app,Saúde Santo André,1,Saúde Santo André,prevent device from sleeping
+prevent device from sleeping,Simot,1,app,Simot,1,Simot,prevent device from sleeping
+prevent device from sleeping,Telemedicina Paraná,1,app,Telemedicina Paraná,1,Telemedicina Paraná,prevent device from sleeping
+read the contents of your USB storage,Alô Saúde Floripa,1,app,Alô Saúde Floripa,1,Alô Saúde Floripa,read the contents of your USB storage
+read the contents of your USB storage,Atende em Casa,1,app,Atende em Casa,1,Atende em Casa,read the contents of your USB storage
+read the contents of your USB storage,Ceará App,1,app,Ceará App,1,Ceará App,read the contents of your USB storage
+read the contents of your USB storage,Colab,1,app,Colab,1,Colab,read the contents of your USB storage
+read the contents of your USB storage,Distanciamento Controlado RS,1,app,Distanciamento Controlado RS,1,Distanciamento Controlado RS,read the contents of your USB storage
+read the contents of your USB storage,e-Saúde SP,1,app,e-Saúde SP,1,e-Saúde SP,read the contents of your USB storage
+read the contents of your USB storage,ISUS,1,app,ISUS,1,ISUS,read the contents of your USB storage
+read the contents of your USB storage,KeyApp,1,app,KeyApp,1,KeyApp,read the contents of your USB storage
+read the contents of your USB storage,Mais Saúde Cidadão,1,app,Mais Saúde Cidadão,1,Mais Saúde Cidadão,read the contents of your USB storage
+read the contents of your USB storage,Minha Saúde,1,app,Minha Saúde,1,Minha Saúde,read the contents of your USB storage
+read the contents of your USB storage,Monitora Covid-19,1,app,Monitora Covid-19,1,Monitora Covid-19,read the contents of your USB storage
+read the contents of your USB storage,Pronto Mobile,1,app,Pronto Mobile,1,Pronto Mobile,read the contents of your USB storage
+read the contents of your USB storage,Santa Isabel Contra o Coronavírus,1,app,Santa Isabel Contra o Coronavírus,1,Santa Isabel Contra o Coronavírus,read the contents of your USB storage
+read the contents of your USB storage,SASI,1,app,SASI,1,SASI,read the contents of your USB storage
+read the contents of your USB storage,Saúde Aparecida,1,app,Saúde Aparecida,1,Saúde Aparecida,read the contents of your USB storage
+read the contents of your USB storage,Saúde Digital MG - Covid-19,1,app,Saúde Digital MG - Covid-19,1,Saúde Digital MG - Covid-19,read the contents of your USB storage
+read the contents of your USB storage,Saúde Online PR,1,app,Saúde Online PR,1,Saúde Online PR,read the contents of your USB storage
+read the contents of your USB storage,Saúde Santo André,1,app,Saúde Santo André,1,Saúde Santo André,read the contents of your USB storage
+read the contents of your USB storage,Simot,1,app,Simot,1,Simot,read the contents of your USB storage
+read the contents of your USB storage,Telemedicina Paraná,1,app,Telemedicina Paraná,1,Telemedicina Paraná,read the contents of your USB storage
+read Google service configuration,Colab,1,app,Colab,1,Colab,read Google service configuration
+read Google service configuration,Pronto Mobile,1,app,Pronto Mobile,1,Pronto Mobile,read Google service configuration
+n/d,Ceará App,1,app,Ceará App,1,Ceará App,n/d
+n/d,Colab,1,app,Colab,1,Colab,n/d
+n/d,Coronavírus - SUS,1,app,Coronavírus - SUS,1,Coronavírus - SUS,n/d
+n/d,Distanciamento Controlado RS,1,app,Distanciamento Controlado RS,1,Distanciamento Controlado RS,n/d
+n/d,e-Saúde SP,1,app,e-Saúde SP,1,e-Saúde SP,n/d
+n/d,ISUS,1,app,ISUS,1,ISUS,n/d
+n/d,Mais Saúde Cidadão,1,app,Mais Saúde Cidadão,1,Mais Saúde Cidadão,n/d
+n/d,Monitora Covid-19,1,app,Monitora Covid-19,1,Monitora Covid-19,n/d
+n/d,Pronto Mobile,1,app,Pronto Mobile,1,Pronto Mobile,n/d
+approximate location (network-based),Aglomerações,1,app,Aglomerações,1,Aglomerações,approximate location (network-based)
+approximate location (network-based),Alô Saúde Floripa,1,app,Alô Saúde Floripa,1,Alô Saúde Floripa,approximate location (network-based)
+approximate location (network-based),Atende em Casa,1,app,Atende em Casa,1,Atende em Casa,approximate location (network-based)
+approximate location (network-based),Ceará App,1,app,Ceará App,1,Ceará App,approximate location (network-based)
+approximate location (network-based),Colab,1,app,Colab,1,Colab,approximate location (network-based)
+approximate location (network-based),Combate Coronavírus,1,app,Combate Coronavírus,1,Combate Coronavírus,approximate location (network-based)
+approximate location (network-based),CovidPR,1,app,CovidPR,1,CovidPR,approximate location (network-based)
+approximate location (network-based),Dados do Bem,1,app,Dados do Bem,1,Dados do Bem,approximate location (network-based)
+approximate location (network-based),Dycovid - Dynamic Contact Tracing,1,app,Dycovid - Dynamic Contact Tracing,1,Dycovid - Dynamic Contact Tracing,approximate location (network-based)
+approximate location (network-based),e-Saúde SP,1,app,e-Saúde SP,1,e-Saúde SP,approximate location (network-based)
+approximate location (network-based),Mais Saúde Cidadão,1,app,Mais Saúde Cidadão,1,Mais Saúde Cidadão,approximate location (network-based)
+approximate location (network-based),Minha Saúde,1,app,Minha Saúde,1,Minha Saúde,approximate location (network-based)
+approximate location (network-based),Monitora Covid-19,1,app,Monitora Covid-19,1,Monitora Covid-19,approximate location (network-based)
+approximate location (network-based),Pronto Mobile,1,app,Pronto Mobile,1,Pronto Mobile,approximate location (network-based)
+approximate location (network-based),Santa Isabel Contra o Coronavírus,1,app,Santa Isabel Contra o Coronavírus,1,Santa Isabel Contra o Coronavírus,approximate location (network-based)
+approximate location (network-based),SASI,1,app,SASI,1,SASI,approximate location (network-based)
+approximate location (network-based),Saúde Santo André,1,app,Saúde Santo André,1,Saúde Santo André,approximate location (network-based)
+approximate location (network-based),Simot,1,app,Simot,1,Simot,approximate location (network-based)
+approximate location (network-based),Telemedicina Paraná,1,app,Telemedicina Paraná,1,Telemedicina Paraná,approximate location (network-based)
+n/d,Dados do Bem,1,app,Dados do Bem,1,Dados do Bem,n/d
+n/d,Dycovid - Dynamic Contact Tracing,1,app,Dycovid - Dynamic Contact Tracing,1,Dycovid - Dynamic Contact Tracing,n/d
+n/d,Pronto Mobile,1,app,Pronto Mobile,1,Pronto Mobile,n/d
+precise location (GPS and network-based),Aglomerações,1,app,Aglomerações,1,Aglomerações,precise location (GPS and network-based)
+precise location (GPS and network-based),Alô Saúde Floripa,1,app,Alô Saúde Floripa,1,Alô Saúde Floripa,precise location (GPS and network-based)
+precise location (GPS and network-based),Atende em Casa,1,app,Atende em Casa,1,Atende em Casa,precise location (GPS and network-based)
+precise location (GPS and network-based),Ceará App,1,app,Ceará App,1,Ceará App,precise location (GPS and network-based)
+precise location (GPS and network-based),Colab,1,app,Colab,1,Colab,precise location (GPS and network-based)
+precise location (GPS and network-based),Combate Coronavírus,1,app,Combate Coronavírus,1,Combate Coronavírus,precise location (GPS and network-based)
+precise location (GPS and network-based),CovidPR,1,app,CovidPR,1,CovidPR,precise location (GPS and network-based)
+precise location (GPS and network-based),Dados do Bem,1,app,Dados do Bem,1,Dados do Bem,precise location (GPS and network-based)
+precise location (GPS and network-based),Distanciamento Controlado RS,1,app,Distanciamento Controlado RS,1,Distanciamento Controlado RS,precise location (GPS and network-based)
+precise location (GPS and network-based),Dycovid - Dynamic Contact Tracing,1,app,Dycovid - Dynamic Contact Tracing,1,Dycovid - Dynamic Contact Tracing,precise location (GPS and network-based)
+precise location (GPS and network-based),e-Saúde SP,1,app,e-Saúde SP,1,e-Saúde SP,precise location (GPS and network-based)
+precise location (GPS and network-based),Mais Saúde Cidadão,1,app,Mais Saúde Cidadão,1,Mais Saúde Cidadão,precise location (GPS and network-based)
+precise location (GPS and network-based),Minha Saúde,1,app,Minha Saúde,1,Minha Saúde,precise location (GPS and network-based)
+precise location (GPS and network-based),Monitora Covid-19,1,app,Monitora Covid-19,1,Monitora Covid-19,precise location (GPS and network-based)
+precise location (GPS and network-based),Pronto Mobile,1,app,Pronto Mobile,1,Pronto Mobile,precise location (GPS and network-based)
+precise location (GPS and network-based),Santa Isabel Contra o Coronavírus,1,app,Santa Isabel Contra o Coronavírus,1,Santa Isabel Contra o Coronavírus,precise location (GPS and network-based)
+precise location (GPS and network-based),SASI,1,app,SASI,1,SASI,precise location (GPS and network-based)
+precise location (GPS and network-based),Saúde Santo André,1,app,Saúde Santo André,1,Saúde Santo André,precise location (GPS and network-based)
+precise location (GPS and network-based),Simot,1,app,Simot,1,Simot,precise location (GPS and network-based)
+precise location (GPS and network-based),Telemedicina Paraná,1,app,Telemedicina Paraná,1,Telemedicina Paraná,precise location (GPS and network-based)
+modify or delete the contents of your USB storage,Alô Saúde Floripa,1,app,Alô Saúde Floripa,1,Alô Saúde Floripa,modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage,Atende em Casa,1,app,Atende em Casa,1,Atende em Casa,modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage,Ceará App,1,app,Ceará App,1,Ceará App,modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage,Colab,1,app,Colab,1,Colab,modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage,Distanciamento Controlado RS,1,app,Distanciamento Controlado RS,1,Distanciamento Controlado RS,modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage,e-Saúde SP,1,app,e-Saúde SP,1,e-Saúde SP,modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage,ISUS,1,app,ISUS,1,ISUS,modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage,KeyApp,1,app,KeyApp,1,KeyApp,modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage,Mais Saúde Cidadão,1,app,Mais Saúde Cidadão,1,Mais Saúde Cidadão,modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage,Minha Saúde,1,app,Minha Saúde,1,Minha Saúde,modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage,Monitora Covid-19,1,app,Monitora Covid-19,1,Monitora Covid-19,modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage,Pronto Mobile,1,app,Pronto Mobile,1,Pronto Mobile,modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage,Santa Isabel Contra o Coronavírus,1,app,Santa Isabel Contra o Coronavírus,1,Santa Isabel Contra o Coronavírus,modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage,SASI,1,app,SASI,1,SASI,modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage,Saúde Aparecida,1,app,Saúde Aparecida,1,Saúde Aparecida,modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage,Saúde Digital MG - Covid-19,1,app,Saúde Digital MG - Covid-19,1,Saúde Digital MG - Covid-19,modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage,Saúde Online PR,1,app,Saúde Online PR,1,Saúde Online PR,modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage,Saúde Santo André,1,app,Saúde Santo André,1,Saúde Santo André,modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage,Simot,1,app,Simot,1,Simot,modify or delete the contents of your USB storage
+modify or delete the contents of your USB storage,Telemedicina Paraná,1,app,Telemedicina Paraná,1,Telemedicina Paraná,modify or delete the contents of your USB storage
+Other,Alô Saúde Floripa,1,app,Alô Saúde Floripa,1,Alô Saúde Floripa,Other
+Other,Ceará App,1,app,Ceará App,1,Ceará App,Other
+Other,Colab,1,app,Colab,1,Colab,Other
+Other,Dycovid - Dynamic Contact Tracing,1,app,Dycovid - Dynamic Contact Tracing,1,Dycovid - Dynamic Contact Tracing,Other
+Other,Dycovid - Dynamic Contact Tracing,1,app,Dycovid - Dynamic Contact Tracing,1,Dycovid - Dynamic Contact Tracing,Other
+Other,Dycovid - Dynamic Contact Tracing,1,app,Dycovid - Dynamic Contact Tracing,1,Dycovid - Dynamic Contact Tracing,Other
+Other,KeyApp,1,app,KeyApp,1,KeyApp,Other
+Other,Minha Saúde,1,app,Minha Saúde,1,Minha Saúde,Other
+Other,Minha Saúde,1,app,Minha Saúde,1,Minha Saúde,Other
+Other,Minha Saúde,1,app,Minha Saúde,1,Minha Saúde,Other
+Other,Saúde Aparecida,1,app,Saúde Aparecida,1,Saúde Aparecida,Other
+Other,Telemedicina Paraná,1,app,Telemedicina Paraná,1,Telemedicina Paraná,Other
+receive data from Internet,Alô Saúde Floripa,1,app,Alô Saúde Floripa,1,Alô Saúde Floripa,receive data from Internet
+receive data from Internet,Coronavírus - SUS,1,app,Coronavírus - SUS,1,Coronavírus - SUS,receive data from Internet
+receive data from Internet,Dycovid - Dynamic Contact Tracing,1,app,Dycovid - Dynamic Contact Tracing,1,Dycovid - Dynamic Contact Tracing,receive data from Internet
+receive data from Internet,Monitora Covid-19,1,app,Monitora Covid-19,1,Monitora Covid-19,receive data from Internet
+receive data from Internet,Saúde Digital MG - Covid-19,1,app,Saúde Digital MG - Covid-19,1,Saúde Digital MG - Covid-19,receive data from Internet
+receive data from Internet,Saúde Online PR,1,app,Saúde Online PR,1,Saúde Online PR,receive data from Internet
+receber dados da internet,Alô Saúde Floripa,1,app,Alô Saúde Floripa,1,Alô Saúde Floripa,receber dados da internet
+receber dados da internet,Atende em Casa,1,app,Atende em Casa,1,Atende em Casa,receber dados da internet
+receber dados da internet,Ceará App,1,app,Ceará App,1,Ceará App,receber dados da internet
+receber dados da internet,Colab,1,app,Colab,1,Colab,receber dados da internet
+receber dados da internet,Coronavírus - SUS,1,app,Coronavírus - SUS,1,Coronavírus - SUS,receber dados da internet
+receber dados da internet,Covid Monitor,1,app,Covid Monitor,1,Covid Monitor,receber dados da internet
+receber dados da internet,CovidPR,1,app,CovidPR,1,CovidPR,receber dados da internet
+receber dados da internet,Dados do Bem,1,app,Dados do Bem,1,Dados do Bem,receber dados da internet
+receber dados da internet,Distanciamento Controlado RS,1,app,Distanciamento Controlado RS,1,Distanciamento Controlado RS,receber dados da internet
+receber dados da internet,Dycovid - Dynamic Contact Tracing,1,app,Dycovid - Dynamic Contact Tracing,1,Dycovid - Dynamic Contact Tracing,receber dados da internet
+receber dados da internet,e-Saúde SP,1,app,e-Saúde SP,1,e-Saúde SP,receber dados da internet
+receber dados da internet,ISUS,1,app,ISUS,1,ISUS,receber dados da internet
+receber dados da internet,Mais Saúde Cidadão,1,app,Mais Saúde Cidadão,1,Mais Saúde Cidadão,receber dados da internet
+receber dados da internet,Meu Info Sáude,1,app,Meu Info Sáude,1,Meu Info Sáude,receber dados da internet
+receber dados da internet,Minha Saúde,1,app,Minha Saúde,1,Minha Saúde,receber dados da internet
+receber dados da internet,Monitora Covid-19,1,app,Monitora Covid-19,1,Monitora Covid-19,receber dados da internet
+receber dados da internet,Pronto Mobile,1,app,Pronto Mobile,1,Pronto Mobile,receber dados da internet
+receber dados da internet,Santa Isabel Contra o Coronavírus,1,app,Santa Isabel Contra o Coronavírus,1,Santa Isabel Contra o Coronavírus,receber dados da internet
+receber dados da internet,SASI,1,app,SASI,1,SASI,receber dados da internet
+receber dados da internet,Saúde Aparecida,1,app,Saúde Aparecida,1,Saúde Aparecida,receber dados da internet
+receber dados da internet,Saúde Digital MG - Covid-19,1,app,Saúde Digital MG - Covid-19,1,Saúde Digital MG - Covid-19,receber dados da internet
+receber dados da internet,Saúde Online PR,1,app,Saúde Online PR,1,Saúde Online PR,receber dados da internet
+receber dados da internet,Saúde Santo André,1,app,Saúde Santo André,1,Saúde Santo André,receber dados da internet
+receber dados da internet,Simot,1,app,Simot,1,Simot,receber dados da internet
+receber dados da internet,Telemedicina Paraná,1,app,Telemedicina Paraná,1,Telemedicina Paraná,receber dados da internet
+n/d,Dados do Bem,1,app,Dados do Bem,1,Dados do Bem,n/d
+n/d,Dycovid - Dynamic Contact Tracing,1,app,Dycovid - Dynamic Contact Tracing,1,Dycovid - Dynamic Contact Tracing,n/d
+retrieve running apps,Alô Saúde Floripa,1,app,Alô Saúde Floripa,1,Alô Saúde Floripa,retrieve running apps
+retrieve running apps,Ceará App,1,app,Ceará App,1,Ceará App,retrieve running apps
+retrieve running apps,Dycovid - Dynamic Contact Tracing,1,app,Dycovid - Dynamic Contact Tracing,1,Dycovid - Dynamic Contact Tracing,retrieve running apps
+draw over other apps,CovidPR,1,app,CovidPR,1,CovidPR,draw over other apps
+draw over other apps,Meu Info Sáude,1,app,Meu Info Sáude,1,Meu Info Sáude,draw over other apps
+draw over other apps,Minha Saúde,1,app,Minha Saúde,1,Minha Saúde,draw over other apps
+draw over other apps,Simot,1,app,Simot,1,Simot,draw over other apps
+read phone status and identity,Alô Saúde Floripa,1,app,Alô Saúde Floripa,1,Alô Saúde Floripa,read phone status and identity
+read phone status and identity,Saúde Santo André,1,app,Saúde Santo André,1,Saúde Santo André,read phone status and identity
+n/d,e-Saúde SP,1,app,e-Saúde SP,1,e-Saúde SP,n/d
+n/d,Minha Saúde,1,app,Minha Saúde,1,Minha Saúde,n/d
+n/d,e-Saúde SP,1,app,e-Saúde SP,1,e-Saúde SP,n/d
+n/d,Minha Saúde,1,app,Minha Saúde,1,Minha Saúde,n/d
+view Wi-Fi connections,Aglomerações,1,app,Aglomerações,1,Aglomerações,view Wi-Fi connections
+view Wi-Fi connections,Ceará App,1,app,Ceará App,1,Ceará App,view Wi-Fi connections
+view Wi-Fi connections,Colab,1,app,Colab,1,Colab,view Wi-Fi connections
+view Wi-Fi connections,Dados do Bem,1,app,Dados do Bem,1,Dados do Bem,view Wi-Fi connections
+view Wi-Fi connections,Distanciamento Controlado RS,1,app,Distanciamento Controlado RS,1,Distanciamento Controlado RS,view Wi-Fi connections
+view Wi-Fi connections,Dycovid - Dynamic Contact Tracing,1,app,Dycovid - Dynamic Contact Tracing,1,Dycovid - Dynamic Contact Tracing,view Wi-Fi connections
+view Wi-Fi connections,e-Saúde SP,1,app,e-Saúde SP,1,e-Saúde SP,view Wi-Fi connections
+view Wi-Fi connections,ISUS,1,app,ISUS,1,ISUS,view Wi-Fi connections
+view Wi-Fi connections,Mais Saúde Cidadão,1,app,Mais Saúde Cidadão,1,Mais Saúde Cidadão,view Wi-Fi connections
+view Wi-Fi connections,Minha Saúde,1,app,Minha Saúde,1,Minha Saúde,view Wi-Fi connections
+view Wi-Fi connections,Monitora Covid-19,1,app,Monitora Covid-19,1,Monitora Covid-19,view Wi-Fi connections
+view Wi-Fi connections,Pronto Mobile,1,app,Pronto Mobile,1,Pronto Mobile,view Wi-Fi connections
+view Wi-Fi connections,Saúde Santo André,1,app,Saúde Santo André,1,Saúde Santo André,view Wi-Fi connections
+view network connections,Aglomerações,1,app,Aglomerações,1,Aglomerações,view network connections
+view network connections,Alô Saúde Floripa,1,app,Alô Saúde Floripa,1,Alô Saúde Floripa,view network connections
+view network connections,Atende em Casa,1,app,Atende em Casa,1,Atende em Casa,view network connections
+view network connections,Ceará App,1,app,Ceará App,1,Ceará App,view network connections
+view network connections,Colab,1,app,Colab,1,Colab,view network connections
+view network connections,Coronavírus - SUS,1,app,Coronavírus - SUS,1,Coronavírus - SUS,view network connections
+view network connections,Covid Monitor,1,app,Covid Monitor,1,Covid Monitor,view network connections
+view network connections,CovidPR,1,app,CovidPR,1,CovidPR,view network connections
+view network connections,Dados do Bem,1,app,Dados do Bem,1,Dados do Bem,view network connections
+view network connections,Distanciamento Controlado RS,1,app,Distanciamento Controlado RS,1,Distanciamento Controlado RS,view network connections
+view network connections,Dycovid - Dynamic Contact Tracing,1,app,Dycovid - Dynamic Contact Tracing,1,Dycovid - Dynamic Contact Tracing,view network connections
+view network connections,e-Saúde SP,1,app,e-Saúde SP,1,e-Saúde SP,view network connections
+view network connections,ISUS,1,app,ISUS,1,ISUS,view network connections
+view network connections,KeyApp,1,app,KeyApp,1,KeyApp,view network connections
+view network connections,Mais Saúde Cidadão,1,app,Mais Saúde Cidadão,1,Mais Saúde Cidadão,view network connections
+view network connections,Meu Info Sáude,1,app,Meu Info Sáude,1,Meu Info Sáude,view network connections
+view network connections,Minha Saúde,1,app,Minha Saúde,1,Minha Saúde,view network connections
+view network connections,Monitora Covid-19,1,app,Monitora Covid-19,1,Monitora Covid-19,view network connections
+view network connections,Pronto Mobile,1,app,Pronto Mobile,1,Pronto Mobile,view network connections
+view network connections,Santa Isabel Contra o Coronavírus,1,app,Santa Isabel Contra o Coronavírus,1,Santa Isabel Contra o Coronavírus,view network connections
+view network connections,SASI,1,app,SASI,1,SASI,view network connections
+view network connections,Saúde Aparecida,1,app,Saúde Aparecida,1,Saúde Aparecida,view network connections
+view network connections,Saúde Digital MG - Covid-19,1,app,Saúde Digital MG - Covid-19,1,Saúde Digital MG - Covid-19,view network connections
+view network connections,Saúde Online PR,1,app,Saúde Online PR,1,Saúde Online PR,view network connections
+view network connections,Saúde Santo André,1,app,Saúde Santo André,1,Saúde Santo André,view network connections
+view network connections,Simot,1,app,Simot,1,Simot,view network connections
+view network connections,Telemedicina Paraná,1,app,Telemedicina Paraná,1,Telemedicina Paraná,view network connections
+Google Play license check,Ceará App,1,app,Ceará App,1,Ceará App,Google Play license check
+Google Play license check,Distanciamento Controlado RS,1,app,Distanciamento Controlado RS,1,Distanciamento Controlado RS,Google Play license check
+Google Play license check,ISUS,1,app,ISUS,1,ISUS,Google Play license check
