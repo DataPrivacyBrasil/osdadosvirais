@@ -6,12 +6,12 @@ idn: atores
 tipo: dados
 ---
 
-> ATORES
+> ACTORES
 
-Durante a análise, observou-se que nem sempre um mesmo ator que fornece uma tecnologia ou produto para o público é o responsável pelo seu desenvolvimento.  A fim de captar os diferentes papéis exercidos pelos diferentes atores, foram definidas as seguintes categorias:
+Durante el análisis, se observó que el mismo actor que brinda una tecnología o producto al público no siempre es responsable de su desarrollo. Con el fin de captar los diferentes roles que desempeñan los diferentes actores, se definieron las siguientes categorías:
 
 
-| Fornecedores    | São os atores responsáveis pelo fornecimento de um produto ou serviço diretamente aos usuários e usuárias.                                              |
-| Desenvolvedores | São os atores responsáveis diretamente pela concepção e elaboração de uma determinada tecnologia ou plataforma a partir do qual um serviço é oferecido. |
+| Proveedores     | Son los actores responsables de brindar un producto o servicio directamente a los usuarios y usuarios.                                                    |
+| Desarrolladores | Son los actores directamente responsables de la concepción y elaboración de una determinada tecnología o plataforma desde la que se ofrece un servicio. |
 
-Essas categorias não são exclusivas, de modo que um mesmo ator pode ser classificado nas duas formas.
+Estas categorías no son exclusivas, por lo que un mismo actor se puede clasificar de ambas formas.
