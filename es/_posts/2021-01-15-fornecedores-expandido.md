@@ -1,7 +1,7 @@
 ---
 layout: grafico_escuro
-title: PERFIL DOS FORNECEDORES
-descricao: "Gráfico com a concentração de tecnologias por estado, no país e o perfil dos fornecedores."
+title: PERFIL DE PROVEEDORES
+descricao: "Gráfico que muestra la concentración de tecnologías por estado, país y perfil de proveedor."
 img: "fornecedores-expandido"
 filetype: svg
 grafico_descricao:
@@ -10,19 +10,20 @@ idn: "fornecedores-de-tecnologia"
 tipo: dados
 ---
 
-As empresas privadas são as principais responsáveis pelo fornecimento de soluções tecnológicas utilizadas pelo poder público.
+Las empresas privadas son las principales responsables de brindar las soluciones tecnológicas utilizadas por el gobierno.
 
-Elas responderam por quase 60% das tecnologias. Já os órgãos públicos forneceram cerca de 24% do total.
+Representaron casi el 60% de las tecnologías. Las agencias públicas proporcionaron alrededor del 24% del total.
 
 <div class="accordion">
     <div class="option">
       <input type="checkbox" id="toggle{{page.ordem}}" class="toggle" />
-      <label class="titleaco" for="toggle{{page.ordem}}">SAIBA MAIS&nbsp;
+      <label class="titleaco" for="toggle{{page.ordem}}">SEPA MÁS&nbsp;
       </label>
       <div class="contentaco">
-        <p>A In Loco (Incognia) e a ABR Telecom (juntamente com Claro, Oi, Vivo e Tim), além de fornecedores, também foram responsáveis pelo desenvolvimento dos seus respectivos Índices de Isolamento Social. Deste modo, tanto In Loco, como ABR Telecom despontam com os percentuais mais elevados, entre os desenvolvedores mapeados, 8,6% e 3,2%, respectivamente.</p>
-        <p>Um importante ponto a ser ressaltado nos resultados dos desenvolvedores é que em 8,3% das tecnologias mapeadas, isto é, o segundo maior resultado deste gráfico, não foi possível identificar os responsáveis pelo desenvolvimento do produto mapeado. Esse resultado apresenta um indicativo de falhas no cumprimento do princípio da transparência no que diz respeito ao fornecimento de informações das tecnologias difundidas no país.</p>
-        <p>Uma novidade nos resultados para desenvolvedores foi o aparecimento da Dahua, multinacional Chinesa, que surgiu como a terceira empresa com maior porcentagem, (2,8%), referente a oito (8) casos mapeados. Os resultados da Dahua estão relacionados ao fornecimento de câmeras termográficas, utilizadas, durante a pandemia, para medição de temperatura. Parte dessas câmeras afere a temperatura por meio da tecnologia de reconhecimento facial. Como a febre é um dos principais sintomas associados à COVID-19, a aplicação dessas câmeras passou a ser utilizada com a finalidade de identificar pessoas possivelmente infectadas. A Hikvision, outra multinacional chinesa fabricante de câmeras termográficas, aparece nos resultados com 2% do percentual de desenvolvedores, referente a seis (6) casos mapeados. Assim como a Dahua, algumas das câmeras da empresa aferem a temperatura por meio da tecnologia de reconhecimento facial e são capazes de realizar o procedimento simultaneamente em um número elevado de transeuntes por minuto, à distância e em tempo real.</p>
+        <p>In Loco (Incognia) y ABR Telecom (junto a Claro, Oi, Vivo y Tim), además de proveedores, también fueron responsables de desarrollar sus respectivos Índices de Aislamiento Social. Así, tanto In Loco cómo ABR Telecom destacan con los porcentajes más altos, entre los desarrolladores mapeados, 8,6% y 3,2%, respectivamente.</p>
+        <p>Un punto importante a destacar en los resultados de los desarrolladores es que en el 8,3% de las tecnologías mapeadas, es decir, el segundo resultado más alto de este cuadro, no fue posible identificar a los responsables de desarrollar el producto mapeado. Este resultado muestra un indicio de fallas en el cumplimiento del principio de transparencia en el suministro de información sobre tecnologías difundidas en el país.</p>
+        <p>Una novedad en los resultados para los desarrolladores fue la aparición de Dahua, multinacional china, que emergió como la tercera empresa con mayor porcentaje (2.8%), refiriéndose a ocho (8) casos mapeados. Los resultados de Dahua están relacionados con el suministro de cámaras
+termográficas, utilizadas durante la pandemia para medir la temperatura. Parte de estas cámaras miden la temperatura mediante tecnología de reconocimiento facial. Como la fiebre es uno de los principales síntomas asociados al COVID-19, se empezó a utilizar la aplicación de estas cámaras para identificar a las personas posiblemente infectadas. Hikvision, otra multinacional china fabricante de cámaras termográficas, aparece en los resultados con el 2% del porcentaje de desarrolladores, refiriéndose a seis (6) casos mapeados. Al igual que Dahua, algunas de las cámaras de la empresa miden la temperatura mediante tecnología de reconocimiento facial y pueden realizar el procedimiento simultáneamente en un elevado número de transeúntes por minuto, de forma remota y en tiempo real.</p>
       </div>
     </div>
   </div>
