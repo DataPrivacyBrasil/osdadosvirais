@@ -6,16 +6,16 @@ idn: "metodologia-LAI"
 tipo: LAI
 ---
 
-> Metodologia
+> METODOLOGÍA
 
-O recorte temporal definido para a realização da primeira etapa da pesquisa corresponde ao período de 20 de março de 2020, quando foi decretado estado de calamidade pública devido à pandemia, a 31 de dezembro de 2020. A coleta dos dados nesta etapa da pesquisa foi realizada a partir da busca de informações e documentos obtidos por meio de:<br>
+El plazo definido para la realización de la primera etapa de la investigación corresponde al período comprendido entre el 20 de marzo de 2020, cuando se decretó el estado de calamidad pública por la pandemia, hasta el 31 de diciembre de 2020. Recolección de datos en esta etapa de la investigación se realizó a partir de la búsqueda de información y documentos obtenidos a través de:<br>
 
-<span class="itens">a)</span> Pedidos via Lei de Acesso à Informação (LAI), nos termos da Lei nº 12.527/2011;
+<span class="itens">a)</span> Solicitudes a través de la Ley de Acceso a la Información, de conformidad con la Ley N ° 12.527 / 2011;
 
-<span class="itens">b)</span> Busca em portais da transparência;
+<span class="itens">b)</span> Búsqueda en portales de transparencia;
 
-<span class="itens">c)</span> Diários Oficiais;
+<span class="itens">c)</span> Diarios Oficiales;
 
-<span class="itens">d)</span> Pesquisas exploratórias realizadas por meio da utilização de palavras-chave no motor de busca da Google. Neste caso, as informações foram buscadas a partir de publicações em que fossem evidenciadas ou anunciadas a utilização de tecnologias baseadas em dados pessoais por parte do poder público para o enfrentamento à covid-19. Para tornar a busca mais eficiente e direcionada, foram usadas técnicas de pesquisa avançada;
+<span class="itens">d)</span> Investigación exploratoria realizada mediante el uso de palabras clave en el motor de búsqueda de Google. En este caso, la información se buscó de publicaciones en las que se evidenció o anunció el uso de tecnologías basadas en datos personales por parte del gobierno para combatir el covid-19. Para hacer la búsqueda más eficiente y dirigida, se utilizaron técnicas de búsqueda avanzada;
 
-<span class="itens">e)</span> Solicitações de informações e documentos diretamente por e-mail para as empresas envolvidas nas aquisições das tecnologias.
+<span class="itens">e)</span> Solicitudes de información y documentos directamente por correo electrónico a empresas involucradas en la adquisición de tecnologías.
