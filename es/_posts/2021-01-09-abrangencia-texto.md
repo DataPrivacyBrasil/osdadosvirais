@@ -6,12 +6,12 @@ idn: "fornecedores-devs"
 tipo: dados
 ---
 
-> Durante a pandemia...
+> DURANTE LA PANDEMIA ...
 
-...o uso de aplicativos para smartphones foi bastante difundido, servindo como meio de acesso para diversos serviços públicos.
+...Se generalizó el uso de aplicaciones para teléfonos inteligentes, que sirven como medio de acceso a diversos servicios públicos.
 
-Das tecnologias mapeadas, foram identificadas 28 iniciativas de enfrentamento à COVID-19 mediadas por meio desses recursos. O uso de aplicações em dispositivos móveis demanda, por parte dos usuários, diversos tipos de permissões de acesso a recursos ou dados do dispositivo, como localização, microfone, arquivos armazenados na galeria e até mesmo gerenciamento de chamadas telefônicas.
+De las tecnologías mapeadas, se identificaron 28 iniciativas para combatir COVID-19 mediadas a través de estos recursos. El uso de aplicaciones en dispositivos móviles requiere, por parte de los usuarios, diferentes tipos de permisos para acceder a los recursos o datos del dispositivo, como ubicación, micrófono, archivos almacenados en la galería e incluso gestionar llamadas telefónicas.
 
-Algumas dessas permissões podem representar um risco em termos de proteção de dados pessoais ou de segurança da informação caso esses recursos sejam utilizados por agentes maliciosos ou finalidades secundárias não consentidas pelos usuários.
+Algunos de estos permisos pueden suponer un riesgo en términos de protección de datos personales o seguridad de la información si estas funciones son utilizadas por agentes malintencionados o con fines secundarios no consentidos por los usuarios.
 
-As permissões que representam maior risco são aquelas que autorizam o acesso a dados pessoais armazenados nos dispositivos, ou que permitam a coleta de novos dados, e também permissões de acesso a recursos críticos do sistema.
+Los permisos que presentan el mayor riesgo son aquellos que autorizan el acceso a datos personales almacenados en dispositivos, o que permiten la recopilación de nuevos datos, así como los permisos para acceder a recursos críticos del sistema.
