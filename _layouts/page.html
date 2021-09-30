@@ -7,7 +7,7 @@
 {% include nav.html %}
 {% include top_banner.html %}
 
-          {% assign posts = site.posts | sort:"ordem" | where_exp: "post", "post.tipo == 'dados'" %}
+          {% assign posts = site.categories.pt | sort:"ordem" | where_exp: "post", "post.tipo == 'dados'" %}
 
           {% for post in posts %}
 

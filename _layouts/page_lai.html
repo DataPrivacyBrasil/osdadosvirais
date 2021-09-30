@@ -6,7 +6,7 @@
 
 {% include nav_lai.html %}
 
-          {% assign posts = site.posts | sort:"ordem" | where_exp: "post", "post.tipo == 'LAI'" %}
+          {% assign posts = site.categories.pt | sort:"ordem" | where_exp: "post", "post.tipo == 'LAI'" %}
 
           {% for post in posts %}
 

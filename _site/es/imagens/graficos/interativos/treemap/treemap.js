@@ -151,7 +151,7 @@ async function draw() {
     .style("font-family", "informative-bold")
     .style("font-size", "0.8rem")
     .style("color", "#3d60d9")
-    .html(`CLIQUE PARA EXPANDIR`);
+    .html(`Haga clic para ampliar`);
 
   function name(d) {
     return d.ancestors().reverse().splice(1).map(d => d.data.desc).join("/");
