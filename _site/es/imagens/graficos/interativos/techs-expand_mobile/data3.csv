@@ -1,51 +1,51 @@
 source,target,value,uf,regiao,count,tipo,funcao
-Aparecida de Goiânia,Monitoramento do fluxo de pessoas,1,GO,Centro-Oeste,41,regiao,Monitoramento do fluxo de pessoas
-Caldas Novas,Monitoramento do fluxo de pessoas,1,GO,Centro-Oeste,41,regiao,Monitoramento do fluxo de pessoas
+Aparecida de Goiânia,Monitoreo de flujo de personas,1,GO,Centro-Oeste,41,regiao,Monitoreo de flujo de personas
+Caldas Novas,Monitoreo de flujo de personas,1,GO,Centro-Oeste,41,regiao,Monitoreo de flujo de personas
 Brasília,Telemedicina,1,DF,Centro-Oeste,37,regiao,Telemedicina
 Luziânia,Telemedicina,1,GO,Centro-Oeste,37,regiao,Telemedicina
 Campo Grande,Telemedicina,1,MS,Centro-Oeste,37,regiao,Telemedicina
-Aparecida de Goiânia,Rastreamento de contatos,1,GO,Centro-Oeste,11,regiao,Rastreamento de contatos
-Aparecida de Goiânia,Digitalização de serviços públicos,1,GO,Centro-Oeste,3,regiao,Digitalização de serviços públicos
-Maceió,Monitoramento do fluxo de pessoas,1,AL,Nordeste,41,regiao,Monitoramento do fluxo de pessoas
-Campina Grande,Monitoramento do fluxo de pessoas,1,PB,Nordeste,41,regiao,Monitoramento do fluxo de pessoas
-João Pessoa,Monitoramento do fluxo de pessoas,1,PB,Nordeste,41,regiao,Monitoramento do fluxo de pessoas
-Caruaru,Monitoramento do fluxo de pessoas,1,PE,Nordeste,41,regiao,Monitoramento do fluxo de pessoas
-Recife,Monitoramento do fluxo de pessoas,1,PE,Nordeste,41,regiao,Monitoramento do fluxo de pessoas
-Teresina,Monitoramento do fluxo de pessoas,1,PI,Nordeste,41,regiao,Monitoramento do fluxo de pessoas
-Aracaju,Monitoramento do fluxo de pessoas,1,SE,Nordeste,41,regiao,Monitoramento do fluxo de pessoas
+Aparecida de Goiânia,Rastreo de contactos,1,GO,Centro-Oeste,11,regiao,Rastreo de contactos
+Aparecida de Goiânia,Digitalización de servicios públicos,1,GO,Centro-Oeste,3,regiao,Digitalización de servicios públicos
+Maceió,Monitoreo de flujo de personas,1,AL,Nordeste,41,regiao,Monitoreo de flujo de personas
+Campina Grande,Monitoreo de flujo de personas,1,PB,Nordeste,41,regiao,Monitoreo de flujo de personas
+João Pessoa,Monitoreo de flujo de personas,1,PB,Nordeste,41,regiao,Monitoreo de flujo de personas
+Caruaru,Monitoreo de flujo de personas,1,PE,Nordeste,41,regiao,Monitoreo de flujo de personas
+Recife,Monitoreo de flujo de personas,1,PE,Nordeste,41,regiao,Monitoreo de flujo de personas
+Teresina,Monitoreo de flujo de personas,1,PI,Nordeste,41,regiao,Monitoreo de flujo de personas
+Aracaju,Monitoreo de flujo de personas,1,SE,Nordeste,41,regiao,Monitoreo de flujo de personas
 Jaboatão dos Guararapes,Telemedicina,1,PE,Nordeste,37,regiao,Telemedicina
 Recife,Telemedicina,1,PE,Nordeste,37,regiao,Telemedicina
 Teresina,Telemedicina,1,PI,Nordeste,37,regiao,Telemedicina
-Salvador,Monitoramento de temperatura,1,BA,Nordeste,17,regiao,Monitoramento de temperatura
-Vitória da Conquista,Mapeamento da evolução da COVID-19,1,BA,Nordeste,17,regiao,Mapeamento da evolução da COVID-19
-Fortaleza,Monitoramento de temperatura,1,CE,Nordeste,17,regiao,Monitoramento de temperatura
-João Pessoa,Monitoramento de temperatura,1,PB,Nordeste,17,regiao,Monitoramento de temperatura
-João Pessoa,Mapeamento da evolução da COVID-19,1,PB,Nordeste,17,regiao,Mapeamento da evolução da COVID-19
-Recife,Mapeamento da evolução da COVID-19,1,PE,Nordeste,17,regiao,Mapeamento da evolução da COVID-19
-Parnamirim,Mapeamento da evolução da COVID-19,1,RN,Nordeste,17,regiao,Mapeamento da evolução da COVID-19
-Aracaju,Monitoramento de temperatura,1,SE,Nordeste,17,regiao,Monitoramento de temperatura
-Aracaju,Mapeamento da evolução da COVID-19,1,SE,Nordeste,17,regiao,Mapeamento da evolução da COVID-19
-Araguaína,Mapeamento da evolução da COVID-19,1,TO,Nordeste,17,regiao,Mapeamento da evolução da COVID-19
-Aracaju,Rastreamento de contatos,1,SE,Nordeste,11,regiao,Rastreamento de contatos
-João Pessoa,Fornecimento de informações,1,PB,Nordeste,3,regiao,Fornecimento de informações
-Salvador,Identificação de pessoas,1,BA,Nordeste,1,regiao,Identificação de pessoas
-Rio Branco,Monitoramento do fluxo de pessoas,1,AC,Norte,41,regiao,Monitoramento do fluxo de pessoas
-Macapá,Monitoramento do fluxo de pessoas,1,AP,Norte,41,regiao,Monitoramento do fluxo de pessoas
+Salvador,Monitoreo de temperatura corporal,1,BA,Nordeste,17,regiao,Monitoreo de temperatura corporal
+Vitória da Conquista,Mapeo de la evolución de COVID-19,1,BA,Nordeste,17,regiao,Mapeo de la evolución de COVID-19
+Fortaleza,Monitoreo de temperatura corporal,1,CE,Nordeste,17,regiao,Monitoreo de temperatura corporal
+João Pessoa,Monitoreo de temperatura corporal,1,PB,Nordeste,17,regiao,Monitoreo de temperatura corporal
+João Pessoa,Mapeo de la evolución de COVID-19,1,PB,Nordeste,17,regiao,Mapeo de la evolución de COVID-19
+Recife,Mapeo de la evolución de COVID-19,1,PE,Nordeste,17,regiao,Mapeo de la evolución de COVID-19
+Parnamirim,Mapeo de la evolución de COVID-19,1,RN,Nordeste,17,regiao,Mapeo de la evolución de COVID-19
+Aracaju,Monitoreo de temperatura corporal,1,SE,Nordeste,17,regiao,Monitoreo de temperatura corporal
+Aracaju,Mapeo de la evolución de COVID-19,1,SE,Nordeste,17,regiao,Mapeo de la evolución de COVID-19
+Araguaína,Mapeo de la evolución de COVID-19,1,TO,Nordeste,17,regiao,Mapeo de la evolución de COVID-19
+Aracaju,Rastreo de contactos,1,SE,Nordeste,11,regiao,Rastreo de contactos
+João Pessoa,Suministro de informaciones,1,PB,Nordeste,3,regiao,Suministro de informaciones
+Salvador,Identificación de personas,1,BA,Nordeste,1,regiao,Identificación de personas
+Rio Branco,Monitoreo de flujo de personas,1,AC,Norte,41,regiao,Monitoreo de flujo de personas
+Macapá,Monitoreo de flujo de personas,1,AP,Norte,41,regiao,Monitoreo de flujo de personas
 Porto Velho,Telemedicina,1,RO,Norte,37,regiao,Telemedicina
-Manaus,Mapeamento da evolução da COVID-19,1,AM,Norte,17,regiao,Mapeamento da evolução da COVID-19
-Manaus,Rastreamento de contatos,1,AM,Norte,11,regiao,Rastreamento de contatos
-Cachoeiro de Itapemirim,Monitoramento do fluxo de pessoas,1,ES,Sudeste,41,regiao,Monitoramento do fluxo de pessoas
-Belo Horizonte,Monitoramento do fluxo de pessoas,1,MG,Sudeste,41,regiao,Monitoramento do fluxo de pessoas
-Governador Valadares,Monitoramento do fluxo de pessoas,1,MG,Sudeste,41,regiao,Monitoramento do fluxo de pessoas
-Varginha,Monitoramento do fluxo de pessoas,1,MG,Sudeste,41,regiao,Monitoramento do fluxo de pessoas
-Niterói,Monitoramento do fluxo de pessoas,1,RJ,Sudeste,41,regiao,Monitoramento do fluxo de pessoas
-Rio de Janeiro,Monitoramento do fluxo de pessoas,1,RJ,Sudeste,41,regiao,Monitoramento do fluxo de pessoas
-Teresópolis,Monitoramento do fluxo de pessoas,1,RJ,Sudeste,41,regiao,Monitoramento do fluxo de pessoas
-Campinas,Monitoramento do fluxo de pessoas,1,SP,Sudeste,41,regiao,Monitoramento do fluxo de pessoas
-Jacareí,Monitoramento do fluxo de pessoas,1,SP,Sudeste,41,regiao,Monitoramento do fluxo de pessoas
-Santo André,Monitoramento do fluxo de pessoas,1,SP,Sudeste,41,regiao,Monitoramento do fluxo de pessoas
-São Carlos,Monitoramento do fluxo de pessoas,1,SP,Sudeste,41,regiao,Monitoramento do fluxo de pessoas
-São Paulo,Monitoramento do fluxo de pessoas,1,SP,Sudeste,41,regiao,Monitoramento do fluxo de pessoas
+Manaus,Mapeo de la evolución de COVID-19,1,AM,Norte,17,regiao,Mapeo de la evolución de COVID-19
+Manaus,Rastreo de contactos,1,AM,Norte,11,regiao,Rastreo de contactos
+Cachoeiro de Itapemirim,Monitoreo de flujo de personas,1,ES,Sudeste,41,regiao,Monitoreo de flujo de personas
+Belo Horizonte,Monitoreo de flujo de personas,1,MG,Sudeste,41,regiao,Monitoreo de flujo de personas
+Governador Valadares,Monitoreo de flujo de personas,1,MG,Sudeste,41,regiao,Monitoreo de flujo de personas
+Varginha,Monitoreo de flujo de personas,1,MG,Sudeste,41,regiao,Monitoreo de flujo de personas
+Niterói,Monitoreo de flujo de personas,1,RJ,Sudeste,41,regiao,Monitoreo de flujo de personas
+Rio de Janeiro,Monitoreo de flujo de personas,1,RJ,Sudeste,41,regiao,Monitoreo de flujo de personas
+Teresópolis,Monitoreo de flujo de personas,1,RJ,Sudeste,41,regiao,Monitoreo de flujo de personas
+Campinas,Monitoreo de flujo de personas,1,SP,Sudeste,41,regiao,Monitoreo de flujo de personas
+Jacareí,Monitoreo de flujo de personas,1,SP,Sudeste,41,regiao,Monitoreo de flujo de personas
+Santo André,Monitoreo de flujo de personas,1,SP,Sudeste,41,regiao,Monitoreo de flujo de personas
+São Carlos,Monitoreo de flujo de personas,1,SP,Sudeste,41,regiao,Monitoreo de flujo de personas
+São Paulo,Monitoreo de flujo de personas,1,SP,Sudeste,41,regiao,Monitoreo de flujo de personas
 Belo Horizonte,Telemedicina,1,MG,Sudeste,37,regiao,Telemedicina
 Itajubá,Telemedicina,1,MG,Sudeste,37,regiao,Telemedicina
 Juiz de Fora,Telemedicina,1,MG,Sudeste,37,regiao,Telemedicina
@@ -60,32 +60,32 @@ Campinas,Telemedicina,1,SP,Sudeste,37,regiao,Telemedicina
 Santa Isabel,Telemedicina,1,SP,Sudeste,37,regiao,Telemedicina
 Santana de Parnaíba,Telemedicina,1,SP,Sudeste,37,regiao,Telemedicina
 São Paulo,Telemedicina,1,SP,Sudeste,37,regiao,Telemedicina
-Rio de Janeiro,Monitoramento de temperatura,1,RJ,Sudeste,17,regiao,Monitoramento de temperatura
-Volta Redonda,Mapeamento da evolução da COVID-19,1,RJ,Sudeste,17,regiao,Mapeamento da evolução da COVID-19
-Bauru,Mapeamento da evolução da COVID-19,1,SP,Sudeste,17,regiao,Mapeamento da evolução da COVID-19
-Campinas,Monitoramento de temperatura,1,SP,Sudeste,17,regiao,Monitoramento de temperatura
-Campinas,Mapeamento da evolução da COVID-19,1,SP,Sudeste,17,regiao,Mapeamento da evolução da COVID-19
-Guarulhos,Monitoramento de temperatura,1,SP,Sudeste,17,regiao,Monitoramento de temperatura
-Guarulhos,Mapeamento da evolução da COVID-19,1,SP,Sudeste,17,regiao,Mapeamento da evolução da COVID-19
-Santos,Mapeamento da evolução da COVID-19,1,SP,Sudeste,17,regiao,Mapeamento da evolução da COVID-19
-São Sebastião,Monitoramento de temperatura,1,SP,Sudeste,17,regiao,Monitoramento de temperatura
-Betim,Rastreamento de contatos,1,MG,Sudeste,11,regiao,Rastreamento de contatos
-Governador Valadares,Rastreamento de contatos,1,MG,Sudeste,11,regiao,Rastreamento de contatos
-São Caetano do Sul,Rastreamento de contatos,1,SP,Sudeste,11,regiao,Rastreamento de contatos
-São Paulo,Rastreamento de contatos,1,SP,Sudeste,11,regiao,Rastreamento de contatos
-Sorocaba,Rastreamento de contatos,1,SP,Sudeste,11,regiao,Rastreamento de contatos
-Maricá,Fornecimento de informações,1,RJ,Sudeste,3,regiao,Fornecimento de informações
-Santo André,Digitalização de serviços públicos,1,SP,Sudeste,3,regiao,Digitalização de serviços públicos
-São Paulo,Digitalização de serviços públicos,1,SP,Sudeste,3,regiao,Digitalização de serviços públicos
-Cascavel,Monitoramento do fluxo de pessoas,1,PR,Sul,41,regiao,Monitoramento do fluxo de pessoas
-Curitiba,Monitoramento do fluxo de pessoas,1,PR,Sul,41,regiao,Monitoramento do fluxo de pessoas
-Foz do Iguaçu,Monitoramento do fluxo de pessoas,1,PR,Sul,41,regiao,Monitoramento do fluxo de pessoas
-Maringá,Monitoramento do fluxo de pessoas,1,PR,Sul,41,regiao,Monitoramento do fluxo de pessoas
-Ponta Grossa,Monitoramento do fluxo de pessoas,1,PR,Sul,41,regiao,Monitoramento do fluxo de pessoas
-Ijuí,Monitoramento do fluxo de pessoas,1,RS,Sul,41,regiao,Monitoramento do fluxo de pessoas
-Porto Alegre,Monitoramento do fluxo de pessoas,1,RS,Sul,41,regiao,Monitoramento do fluxo de pessoas
-Rio Grande,Monitoramento do fluxo de pessoas,1,RS,Sul,41,regiao,Monitoramento do fluxo de pessoas
-Tubarão,Monitoramento do fluxo de pessoas,1,SC,Sul,41,regiao,Monitoramento do fluxo de pessoas
+Rio de Janeiro,Monitoreo de temperatura corporal,1,RJ,Sudeste,17,regiao,Monitoreo de temperatura corporal
+Volta Redonda,Mapeo de la evolución de COVID-19,1,RJ,Sudeste,17,regiao,Mapeo de la evolución de COVID-19
+Bauru,Mapeo de la evolución de COVID-19,1,SP,Sudeste,17,regiao,Mapeo de la evolución de COVID-19
+Campinas,Monitoreo de temperatura corporal,1,SP,Sudeste,17,regiao,Monitoreo de temperatura corporal
+Campinas,Mapeo de la evolución de COVID-19,1,SP,Sudeste,17,regiao,Mapeo de la evolución de COVID-19
+Guarulhos,Monitoreo de temperatura corporal,1,SP,Sudeste,17,regiao,Monitoreo de temperatura corporal
+Guarulhos,Mapeo de la evolución de COVID-19,1,SP,Sudeste,17,regiao,Mapeo de la evolución de COVID-19
+Santos,Mapeo de la evolución de COVID-19,1,SP,Sudeste,17,regiao,Mapeo de la evolución de COVID-19
+São Sebastião,Monitoreo de temperatura corporal,1,SP,Sudeste,17,regiao,Monitoreo de temperatura corporal
+Betim,Rastreo de contactos,1,MG,Sudeste,11,regiao,Rastreo de contactos
+Governador Valadares,Rastreo de contactos,1,MG,Sudeste,11,regiao,Rastreo de contactos
+São Caetano do Sul,Rastreo de contactos,1,SP,Sudeste,11,regiao,Rastreo de contactos
+São Paulo,Rastreo de contactos,1,SP,Sudeste,11,regiao,Rastreo de contactos
+Sorocaba,Rastreo de contactos,1,SP,Sudeste,11,regiao,Rastreo de contactos
+Maricá,Suministro de informaciones,1,RJ,Sudeste,3,regiao,Suministro de informaciones
+Santo André,Digitalización de servicios públicos,1,SP,Sudeste,3,regiao,Digitalización de servicios públicos
+São Paulo,Digitalización de servicios públicos,1,SP,Sudeste,3,regiao,Digitalización de servicios públicos
+Cascavel,Monitoreo de flujo de personas,1,PR,Sul,41,regiao,Monitoreo de flujo de personas
+Curitiba,Monitoreo de flujo de personas,1,PR,Sul,41,regiao,Monitoreo de flujo de personas
+Foz do Iguaçu,Monitoreo de flujo de personas,1,PR,Sul,41,regiao,Monitoreo de flujo de personas
+Maringá,Monitoreo de flujo de personas,1,PR,Sul,41,regiao,Monitoreo de flujo de personas
+Ponta Grossa,Monitoreo de flujo de personas,1,PR,Sul,41,regiao,Monitoreo de flujo de personas
+Ijuí,Monitoreo de flujo de personas,1,RS,Sul,41,regiao,Monitoreo de flujo de personas
+Porto Alegre,Monitoreo de flujo de personas,1,RS,Sul,41,regiao,Monitoreo de flujo de personas
+Rio Grande,Monitoreo de flujo de personas,1,RS,Sul,41,regiao,Monitoreo de flujo de personas
+Tubarão,Monitoreo de flujo de personas,1,SC,Sul,41,regiao,Monitoreo de flujo de personas
 Curitiba,Telemedicina,1,PR,Sul,37,regiao,Telemedicina
 Foz do Iguaçu,Telemedicina,1,PR,Sul,37,regiao,Telemedicina
 Pinhais,Telemedicina,1,PR,Sul,37,regiao,Telemedicina
@@ -98,84 +98,84 @@ Blumenau,Telemedicina,1,SC,Sul,37,regiao,Telemedicina
 Florianópolis,Telemedicina,1,SC,Sul,37,regiao,Telemedicina
 Jaraguá do Sul,Telemedicina,1,SC,Sul,37,regiao,Telemedicina
 Passo de Torres,Telemedicina,1,SC,Sul,37,regiao,Telemedicina
-Curitiba,Monitoramento de temperatura,1,PR,Sul,17,regiao,Monitoramento de temperatura
-Fazenda Rio Grande,Mapeamento da evolução da COVID-19,1,PR,Sul,17,regiao,Mapeamento da evolução da COVID-19
-São José dos Pinhais,Mapeamento da evolução da COVID-19,1,PR,Sul,17,regiao,Mapeamento da evolução da COVID-19
-Umuarama,Mapeamento da evolução da COVID-19,1,PR,Sul,17,regiao,Mapeamento da evolução da COVID-19
-Porto Alegre,Monitoramento de temperatura,1,RS,Sul,17,regiao,Monitoramento de temperatura
-Sapiranga,Monitoramento de temperatura,1,RS,Sul,17,regiao,Monitoramento de temperatura
-Florianópolis,Monitoramento de temperatura,1,SC,Sul,17,regiao,Monitoramento de temperatura
-Itajaí,Monitoramento de temperatura,1,SC,Sul,17,regiao,Monitoramento de temperatura
-Itajaí,Mapeamento da evolução da COVID-19,1,SC,Sul,17,regiao,Mapeamento da evolução da COVID-19
-Brusque,Rastreamento de contatos,1,SC,Sul,11,regiao,Rastreamento de contatos
-Governador Celso Ramos,Rastreamento de contatos,1,SC,Sul,11,regiao,Rastreamento de contatos
-Jaraguá do Sul,Rastreamento de contatos,1,SC,Sul,11,regiao,Rastreamento de contatos
-São José dos Pinhais,Fornecimento de informações,1,PR,Sul,3,regiao,Fornecimento de informações
-Balneário Camboriú,Monitoramento de uso de máscara,1,SC,Sul,1,regiao,Monitoramento de uso de máscara
-Monitoramento do fluxo de pessoas,Inloco,27,,,27,funcao,Monitoramento do fluxo de pessoas
-Monitoramento do fluxo de pessoas,Scipopulis,5,,,5,funcao,Monitoramento do fluxo de pessoas
+Curitiba,Monitoreo de temperatura corporal,1,PR,Sul,17,regiao,Monitoreo de temperatura corporal
+Fazenda Rio Grande,Mapeo de la evolución de COVID-19,1,PR,Sul,17,regiao,Mapeo de la evolución de COVID-19
+São José dos Pinhais,Mapeo de la evolución de COVID-19,1,PR,Sul,17,regiao,Mapeo de la evolución de COVID-19
+Umuarama,Mapeo de la evolución de COVID-19,1,PR,Sul,17,regiao,Mapeo de la evolución de COVID-19
+Porto Alegre,Monitoreo de temperatura corporal,1,RS,Sul,17,regiao,Monitoreo de temperatura corporal
+Sapiranga,Monitoreo de temperatura corporal,1,RS,Sul,17,regiao,Monitoreo de temperatura corporal
+Florianópolis,Monitoreo de temperatura corporal,1,SC,Sul,17,regiao,Monitoreo de temperatura corporal
+Itajaí,Monitoreo de temperatura corporal,1,SC,Sul,17,regiao,Monitoreo de temperatura corporal
+Itajaí,Mapeo de la evolución de COVID-19,1,SC,Sul,17,regiao,Mapeo de la evolución de COVID-19
+Brusque,Rastreo de contactos,1,SC,Sul,11,regiao,Rastreo de contactos
+Governador Celso Ramos,Rastreo de contactos,1,SC,Sul,11,regiao,Rastreo de contactos
+Jaraguá do Sul,Rastreo de contactos,1,SC,Sul,11,regiao,Rastreo de contactos
+São José dos Pinhais,Suministro de informaciones,1,PR,Sul,3,regiao,Suministro de informaciones
+Balneário Camboriú,Monitoreo de uso de máscara,1,SC,Sul,1,regiao,Monitoreo de uso de máscara
+Monitoreo de flujo de personas,Inloco,27,,,27,funcao,Monitoreo de flujo de personas
+Monitoreo de flujo de personas,Scipopulis,5,,,5,funcao,Monitoreo de flujo de personas
 Telemedicina,inst D'Or de Pesquisa e Ensino,5,,,5,funcao,Telemedicina
 Telemedicina,Eagle Tecnologia,4,,,4,funcao,Telemedicina
-Monitoramento de temperatura,Dahua Technology,3,,,3,funcao,Monitoramento de temperatura
-Monitoramento de temperatura,Não Localizada,3,,,3,funcao,Monitoramento de temperatura
-Monitoramento de temperatura,Unale,2,,,2,funcao,Monitoramento de temperatura
-Monitoramento do fluxo de pessoas,ABR Telecom,2,,,2,funcao,Monitoramento do fluxo de pessoas
-Rastreamento de contatos,LifesHub,2,,,2,funcao,Rastreamento de contatos
+Monitoreo de temperatura corporal,Dahua Technology,3,,,3,funcao,Monitoreo de temperatura corporal
+Monitoreo de temperatura corporal,Não Localizada,3,,,3,funcao,Monitoreo de temperatura corporal
+Monitoreo de temperatura corporal,Unale,2,,,2,funcao,Monitoreo de temperatura corporal
+Monitoreo de flujo de personas,ABR Telecom,2,,,2,funcao,Monitoreo de flujo de personas
+Rastreo de contactos,LifesHub,2,,,2,funcao,Rastreo de contactos
 Telemedicina,Brainy Resolution,2,,,2,funcao,Telemedicina
 Telemedicina,"IMED",2,,,2,funcao,Telemedicina
 Telemedicina,inst Laura Fressatto,2,,,2,funcao,Telemedicina
 Telemedicina,pref Campo Grande,2,,,2,funcao,Telemedicina
 Telemedicina,ProntLife,2,,,2,funcao,Telemedicina
-Digitalização de serviços públicos,pref de Aparecida de Goiânia,1,,,1,funcao,Digitalização de serviços públicos
-Digitalização de serviços públicos,pref de Santo André; Eicon,1,,,1,funcao,Digitalização de serviços públicos
-Digitalização de serviços públicos,pref de São Paulo,1,,,1,funcao,Digitalização de serviços públicos
-Fornecimento de informações,EduSim,1,,,1,funcao,Fornecimento de informações
-Fornecimento de informações,pref de Maricá,1,,,1,funcao,Fornecimento de informações
-Fornecimento de informações,pref de São José dos Pinhais,1,,,1,funcao,Fornecimento de informações
-Identificação de pessoas,Agência Nacional de Aviação Civil,1,,,1,funcao,Identificação de pessoas
-Mapeamento da evolução da COVID-19,inst Soma,1,,,1,funcao,Mapeamento da evolução da COVID-19
-Mapeamento da evolução da COVID-19,Mamba Labs,1,,,1,funcao,Mapeamento da evolução da COVID-19
-Mapeamento da evolução da COVID-19,Ministério da Saúde,1,,,1,funcao,Mapeamento da evolução da COVID-19
-Mapeamento da evolução da COVID-19,Ministério Público RN,1,,,1,funcao,Mapeamento da evolução da COVID-19
-Mapeamento da evolução da COVID-19,Não Localizada,1,,,1,funcao,Mapeamento da evolução da COVID-19
-Mapeamento da evolução da COVID-19,Núcleo de Gestão do Porto Digital,1,,,1,funcao,Mapeamento da evolução da COVID-19
-Mapeamento da evolução da COVID-19,pref de Campinas,1,,,1,funcao,Mapeamento da evolução da COVID-19
-Mapeamento da evolução da COVID-19,pref de Fazenda Rio Grande,1,,,1,funcao,Mapeamento da evolução da COVID-19
-Mapeamento da evolução da COVID-19,pref de Itajaí,1,,,1,funcao,Mapeamento da evolução da COVID-19
-Mapeamento da evolução da COVID-19,pref de Santos,1,,,1,funcao,Mapeamento da evolução da COVID-19
-Mapeamento da evolução da COVID-19,pref de São José dos Pinhais,1,,,1,funcao,Mapeamento da evolução da COVID-19
-Mapeamento da evolução da COVID-19,pref de Umuarama,1,,,1,funcao,Mapeamento da evolução da COVID-19
-Mapeamento da evolução da COVID-19,pref de Vitória da Conquista,1,,,1,funcao,Mapeamento da evolução da COVID-19
-Mapeamento da evolução da COVID-19,pref de Volta Redonda,1,,,1,funcao,Mapeamento da evolução da COVID-19
-Mapeamento da evolução da COVID-19,Sec. da Fazenda de João Pessoa,1,,,1,funcao,Mapeamento da evolução da COVID-19
-Mapeamento da evolução da COVID-19,Sec. da Saúde de Manaus,1,,,1,funcao,Mapeamento da evolução da COVID-19
-Mapeamento da evolução da COVID-19,Uni. Fed. Sergipe; pref de Aracaju,1,,,1,funcao,Mapeamento da evolução da COVID-19
-Monitoramento de temperatura,2bTriade,1,,,1,funcao,Monitoramento de temperatura
-Monitoramento de temperatura,Contsec Serviços,1,,,1,funcao,Monitoramento de temperatura
-Monitoramento de temperatura,Direta Telecom,1,,,1,funcao,Monitoramento de temperatura
-Monitoramento de temperatura,Dyno Security,1,,,1,funcao,Monitoramento de temperatura
-Monitoramento de temperatura,HSH,1,,,1,funcao,Monitoramento de temperatura
-Monitoramento de temperatura,Intelbras,1,,,1,funcao,Monitoramento de temperatura
-Monitoramento de temperatura,Paipe,1,,,1,funcao,Monitoramento de temperatura
-Monitoramento de temperatura,Pix Force; UFRGS,1,,,1,funcao,Monitoramento de temperatura
-Monitoramento de temperatura,Unicamp,1,,,1,funcao,Monitoramento de temperatura
-Monitoramento de uso de máscara,pref de Balneário Camboriú; PM SC,1,,,1,funcao,Monitoramento de uso de máscara
-Monitoramento do fluxo de pessoas,CyberLabs,1,,,1,funcao,Monitoramento do fluxo de pessoas
-Monitoramento do fluxo de pessoas,Deconve Tech,1,,,1,funcao,Monitoramento do fluxo de pessoas
-Monitoramento do fluxo de pessoas,Não Localizada,1,,,1,funcao,Monitoramento do fluxo de pessoas
-Monitoramento do fluxo de pessoas,New System,1,,,1,funcao,Monitoramento do fluxo de pessoas
-Monitoramento do fluxo de pessoas,Nuveo Technologies,1,,,1,funcao,Monitoramento do fluxo de pessoas
-Monitoramento do fluxo de pessoas,pref do Recife,1,,,1,funcao,Monitoramento do fluxo de pessoas
-Monitoramento do fluxo de pessoas,SPTrans,1,,,1,funcao,Monitoramento do fluxo de pessoas
-Rastreamento de contatos,CIGA-SC,1,,,1,funcao,Rastreamento de contatos
-Rastreamento de contatos,JMM Tech,1,,,1,funcao,Rastreamento de contatos
-Rastreamento de contatos,Ministério da Saúde,1,,,1,funcao,Rastreamento de contatos
-Rastreamento de contatos,Olos Tecnologia,1,,,1,funcao,Rastreamento de contatos
-Rastreamento de contatos,pref de Aracaju,1,,,1,funcao,Rastreamento de contatos
-Rastreamento de contatos,pref de Betim,1,,,1,funcao,Rastreamento de contatos
-Rastreamento de contatos,pref de São Caetano do Sul; USP,1,,,1,funcao,Rastreamento de contatos
-Rastreamento de contatos,Sec. da Saúde de Manaus,1,,,1,funcao,Rastreamento de contatos
-Rastreamento de contatos,Smart Tour Brasil,1,,,1,funcao,Rastreamento de contatos
+Digitalización de servicios públicos,pref de Aparecida de Goiânia,1,,,1,funcao,Digitalización de servicios públicos
+Digitalización de servicios públicos,pref de Santo André; Eicon,1,,,1,funcao,Digitalización de servicios públicos
+Digitalización de servicios públicos,pref de São Paulo,1,,,1,funcao,Digitalización de servicios públicos
+Suministro de informaciones,EduSim,1,,,1,funcao,Suministro de informaciones
+Suministro de informaciones,pref de Maricá,1,,,1,funcao,Suministro de informaciones
+Suministro de informaciones,pref de São José dos Pinhais,1,,,1,funcao,Suministro de informaciones
+Identificación de personas,Agência Nacional de Aviação Civil,1,,,1,funcao,Identificación de personas
+Mapeo de la evolución de COVID-19,inst Soma,1,,,1,funcao,Mapeo de la evolución de COVID-19
+Mapeo de la evolución de COVID-19,Mamba Labs,1,,,1,funcao,Mapeo de la evolución de COVID-19
+Mapeo de la evolución de COVID-19,Ministério da Saúde,1,,,1,funcao,Mapeo de la evolución de COVID-19
+Mapeo de la evolución de COVID-19,Ministério Público RN,1,,,1,funcao,Mapeo de la evolución de COVID-19
+Mapeo de la evolución de COVID-19,Não Localizada,1,,,1,funcao,Mapeo de la evolución de COVID-19
+Mapeo de la evolución de COVID-19,Núcleo de Gestão do Porto Digital,1,,,1,funcao,Mapeo de la evolución de COVID-19
+Mapeo de la evolución de COVID-19,pref de Campinas,1,,,1,funcao,Mapeo de la evolución de COVID-19
+Mapeo de la evolución de COVID-19,pref de Fazenda Rio Grande,1,,,1,funcao,Mapeo de la evolución de COVID-19
+Mapeo de la evolución de COVID-19,pref de Itajaí,1,,,1,funcao,Mapeo de la evolución de COVID-19
+Mapeo de la evolución de COVID-19,pref de Santos,1,,,1,funcao,Mapeo de la evolución de COVID-19
+Mapeo de la evolución de COVID-19,pref de São José dos Pinhais,1,,,1,funcao,Mapeo de la evolución de COVID-19
+Mapeo de la evolución de COVID-19,pref de Umuarama,1,,,1,funcao,Mapeo de la evolución de COVID-19
+Mapeo de la evolución de COVID-19,pref de Vitória da Conquista,1,,,1,funcao,Mapeo de la evolución de COVID-19
+Mapeo de la evolución de COVID-19,pref de Volta Redonda,1,,,1,funcao,Mapeo de la evolución de COVID-19
+Mapeo de la evolución de COVID-19,Sec. da Fazenda de João Pessoa,1,,,1,funcao,Mapeo de la evolución de COVID-19
+Mapeo de la evolución de COVID-19,Sec. da Saúde de Manaus,1,,,1,funcao,Mapeo de la evolución de COVID-19
+Mapeo de la evolución de COVID-19,Uni. Fed. Sergipe; pref de Aracaju,1,,,1,funcao,Mapeo de la evolución de COVID-19
+Monitoreo de temperatura corporal,2bTriade,1,,,1,funcao,Monitoreo de temperatura corporal
+Monitoreo de temperatura corporal,Contsec Serviços,1,,,1,funcao,Monitoreo de temperatura corporal
+Monitoreo de temperatura corporal,Direta Telecom,1,,,1,funcao,Monitoreo de temperatura corporal
+Monitoreo de temperatura corporal,Dyno Security,1,,,1,funcao,Monitoreo de temperatura corporal
+Monitoreo de temperatura corporal,HSH,1,,,1,funcao,Monitoreo de temperatura corporal
+Monitoreo de temperatura corporal,Intelbras,1,,,1,funcao,Monitoreo de temperatura corporal
+Monitoreo de temperatura corporal,Paipe,1,,,1,funcao,Monitoreo de temperatura corporal
+Monitoreo de temperatura corporal,Pix Force; UFRGS,1,,,1,funcao,Monitoreo de temperatura corporal
+Monitoreo de temperatura corporal,Unicamp,1,,,1,funcao,Monitoreo de temperatura corporal
+Monitoreo de uso de máscara,pref de Balneário Camboriú; PM SC,1,,,1,funcao,Monitoreo de uso de máscara
+Monitoreo de flujo de personas,CyberLabs,1,,,1,funcao,Monitoreo de flujo de personas
+Monitoreo de flujo de personas,Deconve Tech,1,,,1,funcao,Monitoreo de flujo de personas
+Monitoreo de flujo de personas,Não Localizada,1,,,1,funcao,Monitoreo de flujo de personas
+Monitoreo de flujo de personas,New System,1,,,1,funcao,Monitoreo de flujo de personas
+Monitoreo de flujo de personas,Nuveo Technologies,1,,,1,funcao,Monitoreo de flujo de personas
+Monitoreo de flujo de personas,pref do Recife,1,,,1,funcao,Monitoreo de flujo de personas
+Monitoreo de flujo de personas,SPTrans,1,,,1,funcao,Monitoreo de flujo de personas
+Rastreo de contactos,CIGA-SC,1,,,1,funcao,Rastreo de contactos
+Rastreo de contactos,JMM Tech,1,,,1,funcao,Rastreo de contactos
+Rastreo de contactos,Ministério da Saúde,1,,,1,funcao,Rastreo de contactos
+Rastreo de contactos,Olos Tecnologia,1,,,1,funcao,Rastreo de contactos
+Rastreo de contactos,pref de Aracaju,1,,,1,funcao,Rastreo de contactos
+Rastreo de contactos,pref de Betim,1,,,1,funcao,Rastreo de contactos
+Rastreo de contactos,pref de São Caetano do Sul; USP,1,,,1,funcao,Rastreo de contactos
+Rastreo de contactos,Sec. da Saúde de Manaus,1,,,1,funcao,Rastreo de contactos
+Rastreo de contactos,Smart Tour Brasil,1,,,1,funcao,Rastreo de contactos
 Telemedicina,BirthTech,1,,,1,funcao,Telemedicina
 Telemedicina,Colab,1,,,1,funcao,Telemedicina
 Telemedicina,CyberLabs,1,,,1,funcao,Telemedicina

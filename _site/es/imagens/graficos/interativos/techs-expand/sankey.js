@@ -77,15 +77,15 @@ async function draw() {
     ]);
   const colorFuncao = d3.scaleOrdinal()
     .domain([
-      "Monitoramento do fluxo de pessoas",
+      "Monitoreo de flujo de personas",
       "Telemedicina",
-      "Monitoramento de temperatura",
-      "Rastreamento de contatos",
-      "Identificação de pessoas",
-      "Fornecimento de informações",
-      "Mapeamento da evolução da COVID-19",
-      "Digitalização de serviços públicos",
-      "Monitoramento de uso de máscara"
+      "Monitoreo de temperatura corporal",
+      "Rastreo de contactos",
+      "Identificación de personas",
+      "Suministro de informaciones",
+      "Mapeo de la evolución de COVID-19",
+      "Digitalización de servicios públicos",
+      "Monitoreo de uso de máscara"
     ]).range([
       "#f73848",
       "#de4d4a",

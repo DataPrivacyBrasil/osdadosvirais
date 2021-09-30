@@ -2,8 +2,8 @@
 layout: grafico_escuro
 title: "Tecnologias por município, atores e funcionalidade"
 descricao: "O gráfico permite visualizar, de forma interativa, a correlação entre as três variáveis: localidade em que a tecnologia foi empregada, fornecedores e funções das tecnologias. Assim, é possível verificar quais fornecedores estão foram aplicadas em um município e vice-versa, ou quais fornecedores cumprem uma determinada funcionalidade."
-iframe: '<iframe class="d-desk" src="https://osdadosvirais.dataprivacybr.org/es/imagens/graficos/interativos/techs-expand/" height="1500px" width="100%" frameborder="no" seamless> </iframe>'
-iframe_mobile: '<iframe class="d-mob" src="https://osdadosvirais.dataprivacybr.org/es/imagens/graficos/interativos/techs-expand_mobile" height="1550px" width="100%" frameborder="no" seamless> </iframe>'
+iframe: '<iframe class="d-desk" src="imagens/graficos/interativos/techs-expand/" height="1500px" width="100%" frameborder="no" seamless> </iframe>'
+iframe_mobile: '<iframe class="d-mob" src="imagens/graficos/interativos/techs-expand_mobile" height="1550px" width="100%" frameborder="no" seamless> </iframe>'
 ordem: 650
 sankey: sim
 tipo: dados
