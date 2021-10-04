@@ -1,26 +1,26 @@
-- titulo: "Metodologia e pedidos de acesso à informação"
+- titulo: "Metodología"
   url: "metodologia"
 
-- titulo: "Introdução"
+- titulo: "Introducción"
   idn: "intro"
 
-- titulo: "Localidades e abrangência"
+- titulo: "Ubicaciones y alcance de las tecnologías"
   idn: "tech-estadual"
 
 - titulo: "Funcionalidades"
   idn: "funcionalidades"
 
-- titulo: "Fornecedores e desenvolvedores"
+- titulo: "Proveedores y Desarrolladores"
   idn: "fornecedores-devs"
 
 - titulo: "Créditos"
   idn: "creditos"
 
-- titulo: "Relatório"
+- titulo: "Informe"
   url: "https://drive.google.com/file/d/1-PmjyYubF65W_8LuOiYR2pwFQiRWEyZ3/view?usp=sharing"
 
-- titulo: "Repositório de dados"
+- titulo: "Repositorio de datos"
   url: "https://public.flourish.studio/visualisation/6751192/"
 
-- titulo: Associação Data Privacy Brasil de Pesquisa
+- titulo: Asociación Data Privacy Brasil de Pesquisa
   url: "https://www.dataprivacybr.org/"
