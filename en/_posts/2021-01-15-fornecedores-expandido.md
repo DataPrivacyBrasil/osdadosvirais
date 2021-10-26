@@ -3,7 +3,7 @@ layout: grafico_escuro_eng
 title: SUPPLIERS’ PROFILE
 descricao: "The graph indicates the concentration of technologies per state and the profile of the suppliers."
 img: "fornecedores-expandido"
-filetype: svg
+filetype: png
 grafico_descricao:
 ordem: 1300
 idn: "fornecedores-de-tecnologia"
