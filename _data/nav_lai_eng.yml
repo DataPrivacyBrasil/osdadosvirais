@@ -1,23 +1,23 @@
 - titulo: "Main page"
   url: "../"
 
-- titulo: "Metodologia"
+- titulo: "Methodology "
   idn: "metodologia-LAI"
 
-- titulo: "Tipo de pedido LAI"
+- titulo: "FOIA Requests"
   idn: "tipo-pedido-LAI"
 
-- titulo: "Pesquisa documental"
+- titulo: "Documental search"
   idn: "pesquisa-documental"
 
-- titulo: Créditos
-  idn: creditos
+- titulo: "Credits"
+  idn: "creditos"
 
-- titulo: "Relatório"
+- titulo: "Full report"
   url: "https://drive.google.com/file/d/1-PmjyYubF65W_8LuOiYR2pwFQiRWEyZ3/view?usp=sharing"
 
-- titulo: "Repositório de dados"
+- titulo: "Data repository"
   url: "https://public.flourish.studio/visualisation/6751192/"
 
-- titulo: Associação Data Privacy Brasil de Pesquisa
+- titulo: "Data Privacy Brasil Research Association"
   url: "https://www.dataprivacybr.org/"
