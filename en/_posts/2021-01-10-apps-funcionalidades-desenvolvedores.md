@@ -3,7 +3,7 @@ layout: grafico_escuro_eng
 title: "APP: FUNCTIONALITIES AND DEVELOPERS"
 descricao: "The graph shows the relation between the identified apps and their functionalities."
 img: "apps-funcionalidades-desenvolvedores"
-filetype: svg
+filetype: png
 ordem: 990
 tipo: dados
 ---
