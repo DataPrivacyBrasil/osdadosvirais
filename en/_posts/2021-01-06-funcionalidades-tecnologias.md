@@ -3,7 +3,7 @@ layout: grafico_escuro_eng
 title: FUNCTIONALITIES OF THE TECHNOLOGIES
 descricao: "The graph allows the identification of the main functions of the mapped technologies. "
 img: "apps-funcionalidades-techs"
-filetype: svg
+filetype: png
 ordem: 600
 tipo: dados
 idn: "funcoes-tech"
