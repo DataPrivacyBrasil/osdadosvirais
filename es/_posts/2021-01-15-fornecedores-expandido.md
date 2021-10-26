@@ -3,7 +3,7 @@ layout: grafico_escuro
 title: PERFIL DE PROVEEDORES
 descricao: "Gráfico que muestra la concentración de tecnologías por estado, país y perfil de proveedor."
 img: "fornecedores-expandido"
-filetype: svg
+filetype: png
 grafico_descricao:
 ordem: 1300
 idn: "fornecedores-de-tecnologia"
