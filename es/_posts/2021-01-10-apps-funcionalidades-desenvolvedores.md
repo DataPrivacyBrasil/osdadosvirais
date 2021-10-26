@@ -3,7 +3,7 @@ layout: grafico_escuro
 title: "APLICACIÓN: CARACTERÍSTICAS Y DESARROLLADORES"
 descricao: "El gráfico le permite relacionar las aplicaciones mapeadas con las funcionalidades para las que fueron utilizadas."
 img: "apps-funcionalidades-desenvolvedores"
-filetype: svg
+filetype: png
 ordem: 990
 tipo: dados
 ---
