@@ -1,23 +1,23 @@
-- titulo: "Dados Principais"
+- titulo: "Datos Principales"
   url: "../"
 
-- titulo: "Metodologia"
+- titulo: "Metodología"
   idn: "metodologia-LAI"
 
-- titulo: "Tipo de pedido LAI"
+- titulo: "Solicitudes a través de la Ley de Acceso a la Información"
   idn: "tipo-pedido-LAI"
 
-- titulo: "Pesquisa documental"
+- titulo: "Investigación documental"
   idn: "pesquisa-documental"
 
-- titulo: Créditos
-  idn: creditos
+- titulo: "Créditos"
+  idn: "creditos"
 
-- titulo: "Relatório"
+- titulo: "Informe"
   url: "https://drive.google.com/file/d/1-PmjyYubF65W_8LuOiYR2pwFQiRWEyZ3/view?usp=sharing"
 
-- titulo: "Repositório de dados"
+- titulo: "Repositorio de datos"
   url: "https://public.flourish.studio/visualisation/6751192/"
 
-- titulo: Associação Data Privacy Brasil de Pesquisa
+- titulo: "Asociación Data Privacy Brasil de Pesquisa"
   url: "https://www.dataprivacybr.org/"
