@@ -3,7 +3,7 @@ layout: grafico_escuro
 title: FUNCIONALIDADES DE LA TECNOLOGÍA
 descricao: "El gráfico le permite comprobar cuáles fueron las principales funciones previstas para las tecnologías mapeadas."
 img: "apps-funcionalidades-techs"
-filetype: svg
+filetype: png
 ordem: 600
 tipo: dados
 idn: "funcoes-tech"
