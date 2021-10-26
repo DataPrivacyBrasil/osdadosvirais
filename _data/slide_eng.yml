@@ -1,12 +1,12 @@
 - numero: "58"
-  texto: (English) Percentual de empresas privadas que forneceram soluções tecnológicas utilizadas pelo poder público
+  texto: Percentage of private companies that supply technologies used by the public sector
   percentual: sim
   counter: 1
 - numero: 253
-  texto: Identificamos 253 soluções tecnológicas adotadas em 24 Unidades da Federação
+  texto: Technologies identified. and adopted in 24 federal units (states)
   percentual: não
   counter: 2
 - numero: 151
-  texto: Identificamos 151 fornecedores de tecnologias que coletam dados pessoais
+  texto: Personal data based technology suppliers were identified
   percentual: não
   counter: 3
