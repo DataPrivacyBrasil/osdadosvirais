@@ -2,7 +2,7 @@
 layout: grafico_claro_alternado
 title: "TECNOLOGÍAS CON ALCANCE NACIONAL: PROVEEDORES, DESARROLLADORES Y FUNCIONALIDADES"
 descricao: "El cuadro presenta información sobre tecnologías con cobertura nacional, indicando sus proveedores y desarrolladores y agrupándolos según sus funcionalidades."
-img: "apps-fornecedores"
+img: "apps-desenvolvedores"
 img2: "apps-desenvolvedores"
 filetype: svg
 ordem: 800
