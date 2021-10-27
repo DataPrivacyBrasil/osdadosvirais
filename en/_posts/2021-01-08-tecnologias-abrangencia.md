@@ -2,8 +2,8 @@
 layout: grafico_claro_alternado_eng
 title: "TECHNOLOGIES WITH NACIONAL REACH: SUPPLIERS, DEVELOPERS AND FUNCTIONALITIES"
 descricao: "The graph presents information on technologies implemented nationally, organized by functionalies, pointing out its suppliers and developers."
-img: "apps-desenvolvedores"
-img2: "apps-desenvolvedores"
+img: "apps-desenvolvedores2"
+img2: "apps-desenvolvedores2"
 filetype: png
 ordem: 800
 tipo: dados
