@@ -1,5 +1,5 @@
 ---
-layout: grafico_claro
+layout: grafico_escuro
 title: ESTUDO DE CASOS
 descricao: "Para compreender de forma mais aprofundada as aquisições de tecnologias, na segunda fase do projeto realizou-se um estudo de casos combinado com análise aprofundada da documentação pública obtida em portais da transparência e pedidos de acesso à informação."
 grafico_descricao:
