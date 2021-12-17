@@ -12,4 +12,4 @@ Para compreender de forma mais aprofundada as aquisições de tecnologias, na se
 
 O recorte adotado engloba as três principais funcionalidades do mapeamento inicial - monitoramento do fluxo de pessoas, telemedicina e monitoramento de temperatura - tendo sido selecionados os três principais fornecedores e três principais desenvolvedores de cada uma delas, totalizando 13 (treze) atores.
 
-<a href="https://drive.google.com/file/d/1Xhr2MNSliY7dCsVgVOAStKhw28CYZpmd/view?usp=sharing" target="_blank">Neste link</a> você pode conferir o relatório completo, com metodologia detalhada e principais resultados.
+<a href="https://drive.google.com/file/d/1DiLGoLSe_LsYIvWF63rfETGvr1YpHSB0/view?usp=sharing" target="_blank">Neste link</a> você pode conferir o relatório completo, com metodologia detalhada e principais resultados.
